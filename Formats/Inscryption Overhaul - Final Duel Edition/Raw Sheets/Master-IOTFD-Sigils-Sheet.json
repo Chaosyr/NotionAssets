@@ -3,16 +3,16 @@
     "type": "Sigil",
     "items": [
         {
-            "internalName": "Dead Line",
-            "name": "Dead Line",
-            "description": "When this card is played search one “Conduit” or “Vessel” from your discard pile, and add it to your hand.",
-            "category": "Draw Power"
-        },
-        {
             "internalName": "Agro When Powered",
             "name": "Agro When Powered",
             "description": "When this card is played within the circuit, the opposing card is immediately dealt 1 damage.",
             "category": "Cell"
+        },
+        {
+            "internalName": "Dead Line",
+            "name": "Dead Line",
+            "description": "When this card is played search one “Conduit” or “Vessel” from your discard pile, and add it to your hand.",
+            "category": "Draw Power"
         },
         {
             "internalName": "Hopper",
@@ -39,15 +39,15 @@
             "category": "Cell"
         },
         {
-            "internalName": "Venom When Powered",
-            "name": "Venom When Powered",
-            "description": "While this card is within a circuit, when it damages an opposing card, that card instantly perishes.",
-            "category": "Cell"
-        },
-        {
             "internalName": "Pure When Powered",
             "name": "Pure When Powered",
             "description": "While this card is part of a circuit, the opposing card’s sigils are nullified.",
+            "category": "Cell"
+        },
+        {
+            "internalName": "Venom When Powered",
+            "name": "Venom When Powered",
+            "description": "While this card is within a circuit, when it damages an opposing card, that card instantly perishes.",
             "category": "Cell"
         },
         {
@@ -105,12 +105,6 @@
             "category": "Cell"
         },
         {
-            "internalName": "Diver When Powered",
-            "name": "Diver When Powered",
-            "description": "While this card is a part of a circuit, attacks targeting this card instead hit the owner of this card directly.",
-            "category": "Cell"
-        },
-        {
             "internalName": "Spiteful",
             "name": "Spiteful",
             "description": "When this card kills an opposing card, gain 2 bones.",
@@ -123,10 +117,10 @@
             "category": "Draw Power"
         },
         {
-            "internalName": "Purple Conduit",
-            "name": "Purple Conduit",
-            "description": "While this card is part of a circuit, it provides 1 “Purple Gem”.",
-            "category": "Conduit"
+            "internalName": "Diver When Powered",
+            "name": "Diver When Powered",
+            "description": "While this card is a part of a circuit, attacks targeting this card instead hit the owner of this card directly.",
+            "category": "Cell"
         },
         {
             "internalName": "Endless Hunger",
@@ -153,16 +147,22 @@
             "category": "Strange Oddities"
         },
         {
-            "internalName": "Hoarder",
-            "name": "Hoarder",
-            "description": "When this card is played, search any 1 card from your deck and add it to your hand.",
-            "category": "Draw Power"
+            "internalName": "Purple Conduit",
+            "name": "Purple Conduit",
+            "description": "While this card is part of a circuit, it provides 1 “Purple Gem”.",
+            "category": "Conduit"
         },
         {
             "internalName": "Scrawny",
             "name": "Scrawny",
             "description": "When this card is sacrificed to play another card, that card loses power and health equal to this card’s power and health.",
             "category": "Restraints"
+        },
+        {
+            "internalName": "Hoarder",
+            "name": "Hoarder",
+            "description": "When this card is played, search any 1 card from your deck and add it to your hand.",
+            "category": "Draw Power"
         },
         {
             "internalName": "Unspeakable",
@@ -177,16 +177,16 @@
             "category": "Attack Modification"
         },
         {
-            "internalName": "Bastion",
-            "name": "Bastion",
-            "description": "When this card receives damage, it only receives half the damage, rounded up.",
-            "category": "Blocking"
-        },
-        {
             "internalName": "Energy Gun",
             "name": "Energy Gun",
             "description": "During your play step, you can pay 1 energy to deal 1 damage to a card opposing this card.",
             "category": "Activated Sigils"
+        },
+        {
+            "internalName": "Bastion",
+            "name": "Bastion",
+            "description": "When this card receives damage, it only receives half the damage, rounded up.",
+            "category": "Blocking"
         },
         {
             "internalName": "Bloodless",
@@ -243,12 +243,6 @@
             "category": "Movement"
         },
         {
-            "internalName": "Stimulate",
-            "name": "Stimulate",
-            "description": "During your play step, you can pay 2 max energy to increase the power of this card by 1, if this card has 5 power, this effect cannot be used, this effect can be used once per turn.",
-            "category": "Activated Sigils"
-        },
-        {
             "internalName": "Frozen Away",
             "name": "Frozen Away",
             "description": "When this card perishes, search 1 “[Token]” from your deck and play it in this card’s place.",
@@ -271,6 +265,18 @@
             "name": "Divination",
             "description": "When this card is played, look at the top 3 cards of your deck, rearrange them in any order, and play them back on top of your deck.",
             "category": "Draw Power"
+        },
+        {
+            "internalName": "Stimulate",
+            "name": "Stimulate",
+            "description": "During your play step, you can pay 2 max energy to increase the power of this card by 1, if this card has 5 power, this effect cannot be used, this effect can be used once per turn.",
+            "category": "Activated Sigils"
+        },
+        {
+            "internalName": "Sniper",
+            "name": "Sniper",
+            "description": "When this card attacks, it can target any 1 space on the opponents side of the field.",
+            "category": "Attack Modification"
         },
         {
             "internalName": "Rotting",
@@ -297,22 +303,10 @@
             "category": "Blocking"
         },
         {
-            "internalName": "Sniper",
-            "name": "Sniper",
-            "description": "When this card attacks, it can target any 1 space on the opponents side of the field.",
-            "category": "Attack Modification"
-        },
-        {
             "internalName": "Made Of Stone",
             "name": "Made Of Stone",
             "description": "This card is uneffected by the effects of the “Touch Of Death” and “Stinky” sigils.",
             "category": "Blocking"
-        },
-        {
-            "internalName": "Mox Complex",
-            "name": "Mox Complex",
-            "description": "While this card is on the field, all “mox” cards perish during you and your opponents end step.",
-            "category": "Gem Based"
         },
         {
             "internalName": "Ravenous",
@@ -333,21 +327,27 @@
             "category": "Blocking"
         },
         {
-            "internalName": "Mox Containment",
-            "name": "Mox Containment",
-            "description": "When this card is played, it takes on any “Gem” providing sigils of the card that was shattered to pay its cost.",
-            "category": "Gem Based"
-        },
-        {
             "internalName": "Stack Powered",
             "name": "Stack Powered",
             "description": "This card’s power is equal to the number of cards in its stack, up to a maximum of 5.",
             "category": "Attack Modification"
         },
         {
+            "internalName": "Mox Containment",
+            "name": "Mox Containment",
+            "description": "When this card is played, it takes on any “Gem” providing sigils of the card that was shattered to pay its cost.",
+            "category": "Gem Based"
+        },
+        {
             "internalName": "Gem Detonator",
             "name": "Gem Detonator",
             "description": "While this card is on the field, all “Mox” cards on your side of the field deal 10 damage to adjacent and opposing cards when they perish.",
+            "category": "Gem Based"
+        },
+        {
+            "internalName": "Mox Complex",
+            "name": "Mox Complex",
+            "description": "While this card is on the field, all “mox” cards perish during you and your opponents end step.",
             "category": "Gem Based"
         },
         {
@@ -363,16 +363,16 @@
             "category": "Gem Based"
         },
         {
-            "internalName": "Moximum Enchantment",
-            "name": "Moximum Enchantment",
-            "description": "While this card completes a pillar field, this card provides 2 gems of any color.",
-            "category": "Enchantment"
-        },
-        {
             "internalName": "Mox Swapper",
             "name": "Mox Swapper",
             "description": "Once per turn, you may sacrifice a “mox” card on your field to choose a card. Swap the attack and health of the chosen card.",
             "category": "Activated Sigils"
+        },
+        {
+            "internalName": "Moximum Enchantment",
+            "name": "Moximum Enchantment",
+            "description": "While this card completes a pillar field, this card provides 2 gems of any color.",
+            "category": "Enchantment"
         },
         {
             "internalName": "Prism Gem",
@@ -385,12 +385,6 @@
             "name": "Buff Enchantment",
             "description": "When this card completes a spell field, all non pillar cards within gain 1 power.",
             "category": "Enchantment"
-        },
-        {
-            "internalName": "Aggrevating",
-            "name": "Aggrevating",
-            "description": "When this card is played, a card of your choice on either side of the board attacks prematurely. They will still attack normally during the battle step.",
-            "category": "Attack Modification"
         },
         {
             "internalName": "Desiring",
@@ -417,22 +411,28 @@
             "category": "Attack Modification"
         },
         {
+            "internalName": "Aggrevating",
+            "name": "Aggrevating",
+            "description": "When this card is played, a card of your choice on either side of the board attacks prematurely. They will still attack normally during the battle step.",
+            "category": "Attack Modification"
+        },
+        {
             "internalName": "Greedy",
             "name": "Greedy",
             "description": "During your play step you may destroy this card to draw 2 cards from either deck.",
             "category": "Activated Sigils"
         },
         {
-            "internalName": "Generous",
-            "name": "Generous",
-            "description": "When this card is played, return 1 card of your choice from your hand to your deck, shuffle and draw 2 cards.",
-            "category": "Draw Power"
-        },
-        {
             "internalName": "Death Powered",
             "name": "Death Powered",
             "description": "This card’s power is equal to half the number of bone’s collected by its owner, rounded down.",
             "category": "Attack Modification"
+        },
+        {
+            "internalName": "Generous",
+            "name": "Generous",
+            "description": "When this card is played, return 1 card of your choice from your hand to your deck, shuffle and draw 2 cards.",
+            "category": "Draw Power"
         },
         {
             "internalName": "Cowardly",
@@ -453,16 +453,16 @@
             "category": "Health Modification"
         },
         {
-            "internalName": "Mirmox",
-            "name": "Mirmox",
-            "description": "This cards’ power is equal to the total number of opposing gem providing cards on your opponents field.",
-            "category": "Attack Modification"
-        },
-        {
             "internalName": "Blackmail",
             "name": "Blackmail",
             "description": "When this card is played, your opponent discards a card of their choice.",
             "category": "Draw Power"
+        },
+        {
+            "internalName": "Mirmox",
+            "name": "Mirmox",
+            "description": "This cards’ power is equal to the total number of opposing gem providing cards on your opponents field.",
+            "category": "Attack Modification"
         },
         {
             "internalName": "Aggressive Anticipation",
@@ -471,16 +471,16 @@
             "category": "Draw Power"
         },
         {
-            "internalName": "Til Death Do Us Part",
-            "name": "Til Death Do Us Part",
-            "description": "This card perishes instantly if the cards “Magickal Maid” and “Wild Witch” are not in your discard.",
-            "category": "Restraints"
-        },
-        {
             "internalName": "Everlasting Love",
             "name": "Everlasting Love",
             "description": "While this card is within your discard, you may shatter 2 cards that provide gems to search this card to your hand.",
             "category": "Draw Power"
+        },
+        {
+            "internalName": "Til Death Do Us Part",
+            "name": "Til Death Do Us Part",
+            "description": "This card perishes instantly if the cards “Magickal Maid” and “Wild Witch” are not in your discard.",
+            "category": "Restraints"
         },
         {
             "internalName": "Never The End",
@@ -501,15 +501,21 @@
             "category": "Activated Sigils"
         },
         {
+            "internalName": "Gate",
+            "name": "Gate",
+            "description": "During your end step, after all other effects subside, you may rearrange your board (and stacks, if you have any).",
+            "category": "Strange Oddities"
+        },
+        {
             "internalName": "Looter",
             "name": "Looter",
             "description": "When this card deals damage directly, draw a card for each damage dealt by this card.",
             "category": "Draw Power"
         },
         {
-            "internalName": "Gate",
-            "name": "Gate",
-            "description": "During your end step, after all other effects subside, you may rearrange your board (and stacks, if you have any).",
+            "internalName": "Elder Brain",
+            "name": "Elder Brain",
+            "description": "When this card is played search one “Ceremorph” card from your deck to your hand. While this card is on the field, you may play any and all “Ceremorph” cards without paying their costs.",
             "category": "Strange Oddities"
         },
         {
@@ -517,12 +523,6 @@
             "name": "Rotten Feast",
             "description": "While this card is on the field, when you play a card that costs blood or bones, you may substitute 3 bones of the cards cost for 1 blood, or 1 blood of the cards cost for 3 bones.",
             "category": "Cost-Based"
-        },
-        {
-            "internalName": "Elder Brain",
-            "name": "Elder Brain",
-            "description": "When this card is played search one “Ceremorph” card from your deck to your hand. While this card is on the field, you may play any and all “Ceremorph” cards without paying their costs.",
-            "category": "Strange Oddities"
         },
         {
             "internalName": "Rumor Mill",
@@ -534,12 +534,6 @@
             "internalName": "Great Service",
             "name": "Great Service",
             "description": "Pay 4 energy to set the attack of a card your opponent controls to 0 until the end of their next turn.",
-            "category": "Activated Sigils"
-        },
-        {
-            "internalName": "Gem Gamble",
-            "name": "Gem Gamble",
-            "description": "During your play step, you may destroy one mox card on your side of the field to search a card from your deck, then randomly discard a card from you hand. After the effect ends, deal one damage to a card on the opponent’s field.",
             "category": "Activated Sigils"
         },
         {
@@ -571,6 +565,12 @@
             "name": "Divert Fate",
             "description": "When this card is played, draw 5 cards from either deck and set them aside. You may take any card from the pile instead of drawing.",
             "category": "Draw Power"
+        },
+        {
+            "internalName": "Gem Gamble",
+            "name": "Gem Gamble",
+            "description": "During your play step, you may destroy one mox card on your side of the field to search a card from your deck, then randomly discard a card from you hand. After the effect ends, deal one damage to a card on the opponent’s field.",
+            "category": "Activated Sigils"
         },
         {
             "internalName": "Gorgeous",
@@ -609,16 +609,16 @@
             "category": "Movement"
         },
         {
-            "internalName": "Unearned Fortune",
-            "name": "Unearned Fortune",
-            "description": "While this card is on the field, you may use your opponent’s bones, energy, and mox, as if they were your own.",
-            "category": "Gem Based"
-        },
-        {
             "internalName": "Convalesce",
             "name": "Convalesce",
             "description": "During your end step, this card gains 1 health, up to its maximum.",
             "category": "Health Modification"
+        },
+        {
+            "internalName": "Unearned Fortune",
+            "name": "Unearned Fortune",
+            "description": "While this card is on the field, you may use your opponent’s bones, energy, and mox, as if they were your own.",
+            "category": "Gem Based"
         },
         {
             "internalName": "Fuel Leak",
@@ -651,16 +651,16 @@
             "category": "Activated Sigils"
         },
         {
-            "internalName": "Gem Guardian",
-            "name": "Gem Guardian",
-            "description": "While this card is on the field, any attacks targeting “Mox” cards on your side of the field are negated.",
-            "category": "Blocking"
-        },
-        {
             "internalName": "Mox Powered",
             "name": "Mox Powered",
             "description": "This card’s power is equal to the number of “Mox” cards on your side of the field, to a maximum of 5.",
             "category": "Gem Based"
+        },
+        {
+            "internalName": "Gem Guardian",
+            "name": "Gem Guardian",
+            "description": "While this card is on the field, any attacks targeting “Mox” cards on your side of the field are negated.",
+            "category": "Blocking"
         },
         {
             "internalName": "Envision",
@@ -687,16 +687,16 @@
             "category": "Strange Oddities"
         },
         {
-            "internalName": "Null Enchantment",
-            "name": "Null Enchantment",
-            "description": "This card may complete a spell field but provided no effect.",
-            "category": "Enchantment"
-        },
-        {
             "internalName": "Gembound",
             "name": "Gembound",
             "description": "This card gains stats depending on what gems are in play when summoned. Ruby Gems increase power by 1. Emerald Gems, aside from the 2 need to play it, increase health by 2. Sapphire Gems decrease cost by 1 gem per 2 Sapphire Gems available.",
             "category": "Gem Based"
+        },
+        {
+            "internalName": "Null Enchantment",
+            "name": "Null Enchantment",
+            "description": "This card may complete a spell field but provided no effect.",
+            "category": "Enchantment"
         },
         {
             "internalName": "Mox Miner",
@@ -717,12 +717,6 @@
             "category": "Gem Based"
         },
         {
-            "internalName": "Channel The Lost",
-            "name": "Channel The Lost",
-            "description": "Once per turn, you may pay 6 bones, then choose a card. That card also provides a purple gem in addition to its sigils for its owner until it perishes.",
-            "category": "Activated Sigils"
-        },
-        {
             "internalName": "Scry",
             "name": "Scry",
             "description": "When this card is played, look at the top 3 cards of your main deck then rearrange them, then draw a card from your main deck.",
@@ -738,6 +732,12 @@
             "internalName": "Disgraceful",
             "name": "Disgraceful",
             "description": "Once per turn, you can discard up to 5 cards from the top of your deck. This card’s power becomes equal to the number of discarded cards, until the end of this turn.",
+            "category": "Activated Sigils"
+        },
+        {
+            "internalName": "Channel The Lost",
+            "name": "Channel The Lost",
+            "description": "Once per turn, you may pay 6 bones, then choose a card. That card also provides a purple gem in addition to its sigils for its owner until it perishes.",
             "category": "Activated Sigils"
         },
         {
@@ -903,16 +903,16 @@
             "category": "Cost-Based"
         },
         {
-            "internalName": "Gem Lock",
-            "name": "Gem Lock",
-            "description": "At the end of your turn, all “Mox” cards on the opponent’s side of the field are destroyed.",
-            "category": "Gem Based"
-        },
-        {
             "internalName": "Box Trick",
             "name": "Box Trick",
             "description": "During your end step, if this card is on top of a stack, move it to the bottom of the stack.",
             "category": "Stacking"
+        },
+        {
+            "internalName": "Gem Lock",
+            "name": "Gem Lock",
+            "description": "At the end of your turn, all “Mox” cards on the opponent’s side of the field are destroyed.",
+            "category": "Gem Based"
         },
         {
             "internalName": "Ambidextrous",
@@ -939,6 +939,12 @@
             "category": "Cost-Based"
         },
         {
+            "internalName": "Yellow Gem",
+            "name": "Topaz Gem",
+            "description": "While this card is on the field, it provides 1 “Topaz Gem”.",
+            "category": "Cost-Based"
+        },
+        {
             "internalName": "Purist",
             "name": "Purist",
             "description": "While this card is on the field, the opposing card’s sigils are nullified.",
@@ -961,12 +967,6 @@
             "name": "Trickster",
             "description": "When this card would be attacked, swap its position with another of your cards, if possible. (The attack than continues as normal.)",
             "category": "Blocking"
-        },
-        {
-            "internalName": "Yellow Gem",
-            "name": "Topaz Gem",
-            "description": "While this card is on the field, it provides 1 “Topaz Gem”.",
-            "category": "Cost-Based"
         },
         {
             "internalName": "Sword and Shield",
@@ -1017,16 +1017,16 @@
             "category": "Movement"
         },
         {
-            "internalName": "Magickal Lift",
-            "name": "Magical Lift",
-            "description": "While this card is on the field, all “Mox” cards on your side of the field deal damage directly.",
-            "category": "Gem Based"
-        },
-        {
             "internalName": "Rabbit Hole",
             "name": "Rabbit Hole",
             "description": "When this card is played, search 1 “Rabbit” from your deck to your hand.",
             "category": "Draw Power"
+        },
+        {
+            "internalName": "Magickal Lift",
+            "name": "Magical Lift",
+            "description": "While this card is on the field, all “Mox” cards on your side of the field deal damage directly.",
+            "category": "Gem Based"
         },
         {
             "internalName": "Hearty Offering",
@@ -1053,15 +1053,15 @@
             "category": "Gem Based"
         },
         {
-            "internalName": "Carefree",
-            "name": "Carefree",
-            "description": "This card’s stats are unaffected by other sigils.",
-            "category": "Strange Oddities"
-        },
-        {
             "internalName": "Double Death",
             "name": "Double Death",
             "description": "While this card is on the field, any cards that perish on your side of the field perish a second time, generating twice the bones and activating any On Death sigils twice.",
+            "category": "Strange Oddities"
+        },
+        {
+            "internalName": "Carefree",
+            "name": "Carefree",
+            "description": "This card’s stats are unaffected by other sigils.",
             "category": "Strange Oddities"
         },
         {
@@ -1119,6 +1119,12 @@
             "category": "Cost-Based"
         },
         {
+            "internalName": "Sharp Quills",
+            "name": "Sharp Quills",
+            "description": "When a card attacks this card, that card is dealt 1 damage.",
+            "category": "Blocking"
+        },
+        {
             "internalName": "Trinket Bearer",
             "name": "Trinket Bearer",
             "description": "When this card is played, draw 1 card from your deck or side deck.",
@@ -1134,12 +1140,6 @@
             "internalName": "Ink Defense",
             "name": "Ink Defense",
             "description": "The first time this card would be attacked, the opposing card’s power is reduced to 0, and this card moves to an adjacent empty space.",
-            "category": "Blocking"
-        },
-        {
-            "internalName": "Sharp Quills",
-            "name": "Sharp Quills",
-            "description": "When a card attacks this card, that card is dealt 1 damage.",
             "category": "Blocking"
         },
         {
@@ -1269,16 +1269,22 @@
             "category": "Strange Oddities"
         },
         {
+            "internalName": "Strong Hand",
+            "name": "Strong Hand",
+            "description": "This cards’ power is equal to the number of cards in the owners’ hand to a maximum of 5 power.",
+            "category": "Attack Modification"
+        },
+        {
             "internalName": "Bloodlust",
             "name": "Bloodlust",
             "description": "When this card kills another card, it’s power is increased by 1 to a maximum of 5.",
             "category": "Attack Modification"
         },
         {
-            "internalName": "Strong Hand",
-            "name": "Strong Hand",
-            "description": "This cards’ power is equal to the number of cards in the owners’ hand to a maximum of 5 power.",
-            "category": "Attack Modification"
+            "internalName": "Lurker",
+            "name": "Lurker",
+            "description": "If this card attacked last turn, it does not attack this turn.",
+            "category": "Restraints"
         },
         {
             "internalName": "Aquanaut",
@@ -1287,10 +1293,10 @@
             "category": "Attack Modification"
         },
         {
-            "internalName": "Lurker",
-            "name": "Lurker",
-            "description": "If this card attacked last turn, it does not attack this turn.",
-            "category": "Restraints"
+            "internalName": "Tentaceful",
+            "name": "Tentaceful",
+            "description": "Attacks targeting this card instead hit the owner of this card directly. During your next draw step, it is shuffled back into your deck and replaced by any other tentacle card. That card will act as if it has this sigil.",
+            "category": "Strange Oddities"
         },
         {
             "internalName": "Stacker",
@@ -1305,10 +1311,10 @@
             "category": "Draw Power"
         },
         {
-            "internalName": "Tentaceful",
-            "name": "Tentaceful",
-            "description": "Attacks targeting this card instead hit the owner of this card directly. During your next draw step, it is shuffled back into your deck and replaced by any other tentacle card. That card will act as if it has this sigil.",
-            "category": "Strange Oddities"
+            "internalName": "Sprinter",
+            "name": "Sprinter",
+            "description": "During your end step, this card shifts to an adjacent empty lane.",
+            "category": "Movement"
         },
         {
             "internalName": "Battery Powered",
@@ -1317,10 +1323,10 @@
             "category": "Attack Modification"
         },
         {
-            "internalName": "Sprinter",
-            "name": "Sprinter",
-            "description": "During your end step, this card shifts to an adjacent empty lane.",
-            "category": "Movement"
+            "internalName": "Double Strike",
+            "name": "Double Strike",
+            "description": "This card attacks the opposing space an additional time when it attacks.",
+            "category": "Attack Modification"
         },
         {
             "internalName": "Fledgling",
@@ -1329,22 +1335,16 @@
             "category": "Strange Oddities"
         },
         {
-            "internalName": "Double Strike",
-            "name": "Double Strike",
-            "description": "This card attacks the opposing space an additional time when it attacks.",
-            "category": "Attack Modification"
+            "internalName": "Bone Digger",
+            "name": "Bone Digger",
+            "description": "During your end step, this card generates 1 bone.",
+            "category": "Cost-Based"
         },
         {
             "internalName": "Brood Parasite",
             "name": "Brood Parasite",
             "description": "When this card is played, play 1 “Broken Egg” card in the opposing space if that space is empty.",
             "category": "Strange Oddities"
-        },
-        {
-            "internalName": "Bone Digger",
-            "name": "Bone Digger",
-            "description": "During your end step, this card generates 1 bone.",
-            "category": "Cost-Based"
         },
         {
             "internalName": "Corpse Eater",
@@ -1383,22 +1383,16 @@
             "category": "Cost-Based"
         },
         {
-            "internalName": "One-Half Bones",
-            "name": "One-Half Bones",
-            "description": "This card’s power is equal to half the number of bones the owner of this card has collected, rounded down.",
-            "category": "Attack Modification"
-        },
-        {
-            "internalName": "Touch Of Death",
-            "name": "Touch Of Death",
-            "description": "When this card damages an opposing card, that card perishes.",
-            "category": "Attack Modification"
-        },
-        {
             "internalName": "Mighty Leap",
             "name": "Mighty Leap",
             "description": "If the opposing card has the Airborne sigil, it attacks this card instead of attacking directly.",
             "category": "Blocking"
+        },
+        {
+            "internalName": "One-Half Bones",
+            "name": "One-Half Bones",
+            "description": "This card’s power is equal to half the number of bones the owner of this card has collected, rounded down.",
+            "category": "Attack Modification"
         },
         {
             "internalName": "Worthy Sacrifice",
@@ -1419,16 +1413,22 @@
             "category": "Draw Power"
         },
         {
-            "internalName": "Brittle",
-            "name": "Brittle",
-            "description": "During your end step, this card perishes.",
-            "category": "Restraints"
+            "internalName": "Touch Of Death",
+            "name": "Touch Of Death",
+            "description": "When this card damages an opposing card, that card perishes.",
+            "category": "Attack Modification"
         },
         {
             "internalName": "Wood Harvester",
             "name": "Wood Harvester",
             "description": "When this card is played, you may search 2 “Dam” cards from your side deck.",
             "category": "Draw Power"
+        },
+        {
+            "internalName": "Brittle",
+            "name": "Brittle",
+            "description": "During your end step, this card perishes.",
+            "category": "Restraints"
         },
         {
             "internalName": "Dam Builder",
@@ -1441,6 +1441,12 @@
             "name": "Detonator",
             "description": "When this card perishes, adjacent and opposing cards are dealt 10 damage.",
             "category": "Blocking"
+        },
+        {
+            "internalName": "Blood Bloated",
+            "name": "Blood Bloated",
+            "description": "This card is worth 2 blood when sacrificed.",
+            "category": "Cost-Based"
         },
         {
             "internalName": "Airborne",
@@ -1477,12 +1483,6 @@
             "name": "Deep Seafarer",
             "description": "Attacks targetting this card instead hit the owner of this card directly, If the opposing card has the waterborne sigil, this card attacks it directly.",
             "category": "Attack Modification"
-        },
-        {
-            "internalName": "Blood Bloated",
-            "name": "Blood Bloated",
-            "description": "This card is worth 2 blood when sacrificed.",
-            "category": "Cost-Based"
         },
         {
             "internalName": "Amorphous",
