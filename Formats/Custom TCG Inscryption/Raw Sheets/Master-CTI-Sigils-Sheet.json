@@ -9,6 +9,12 @@
             "category": "Strange Oddities"
         },
         {
+            "internalName": "Target Required",
+            "name": "Target Required",
+            "description": "This cards’ power is set to 0, when there is no card opposing it.",
+            "category": "Attack Modification"
+        },
+        {
             "internalName": "Whimsical Healer",
             "name": "Whimsical Healer",
             "description": "During your end step, target 1 card on your side of the field, that card gains 1 health to a maximum of 5 health.",
@@ -19,12 +25,6 @@
             "name": "Inscrybe",
             "description": "When a card is played opposite this card, the opponent selects 1 card from their hand. They discard that card, and the card opposite this one gains the discarded cards sigils until it perishes. Then this card perishes.",
             "category": "Strange Oddities"
-        },
-        {
-            "internalName": "Target Required",
-            "name": "Target Required",
-            "description": "This cards’ power is set to 0, when there is no card opposing it.",
-            "category": "Attack Modification"
         },
         {
             "internalName": "Tarot Reading",
@@ -45,16 +45,16 @@
             "category": "Attack Modification"
         },
         {
-            "internalName": "Waterborne",
-            "name": "Waterborne",
-            "description": "Attacks targeting this card instead hit the owner of this card directly.",
-            "category": "Blocking"
-        },
-        {
             "internalName": "Worthy Sacrifice",
             "name": "Worthy Sacrifice",
             "description": "This card is worth 3 blood when it is sacrificed.",
             "category": "Cost-Based"
+        },
+        {
+            "internalName": "Waterborne",
+            "name": "Waterborne",
+            "description": "Attacks targeting this card instead hit the owner of this card directly.",
+            "category": "Blocking"
         },
         {
             "internalName": "Unspeakable",
@@ -63,27 +63,27 @@
             "category": "Draw Power"
         },
         {
-            "internalName": "Trinket Bearer",
-            "name": "Trinket Bearer",
-            "description": "When this card is played, draw 1 card from your deck or side deck.",
-            "category": "Draw Power"
-        },
-        {
-            "internalName": "Trifurcated Strike",
-            "name": "Trifurcated Strike",
-            "description": "This card attacks the lanes left and right of, as well as, the opposing space when it attacks.",
-            "category": "Attack Modification"
-        },
-        {
             "internalName": "True Scholar",
             "name": "True Scholar",
             "description": "During your play step, you can destroy all Mox cards on your side of the field, draw cards from your deck equal to the number of cards destroyed.",
             "category": "Activated Sigils"
         },
         {
+            "internalName": "Trinket Bearer",
+            "name": "Trinket Bearer",
+            "description": "When this card is played, draw 1 card from your deck or side deck.",
+            "category": "Draw Power"
+        },
+        {
             "internalName": "Touch Of Death",
             "name": "Touch Of Death",
             "description": "When this card damages an opposing card, that card perishes.",
+            "category": "Attack Modification"
+        },
+        {
+            "internalName": "Trifurcated Strike",
+            "name": "Trifurcated Strike",
+            "description": "This card attacks the lanes left and right of, as well as, the opposing space when it attacks.",
             "category": "Attack Modification"
         },
         {
@@ -159,10 +159,10 @@
             "category": "Blocking"
         },
         {
-            "internalName": "Spawn Conduit",
-            "name": "Spawn Conduit",
-            "description": "While this card is part of a circuit, during your end step search 1 “L33PB0T” from your side deck and play it within an empty space on your side of the field.",
-            "category": "Conduit"
+            "internalName": "Sentry",
+            "name": "Sentry",
+            "description": "When a card is played, or moved opposite this card, this card deals the opposing card 1 damage.",
+            "category": "Blocking"
         },
         {
             "internalName": "Scavenger",
@@ -171,22 +171,16 @@
             "category": "Cost-Based"
         },
         {
-            "internalName": "Sentry",
-            "name": "Sentry",
-            "description": "When a card is played, or moved opposite this card, this card deals the opposing card 1 damage.",
-            "category": "Blocking"
+            "internalName": "Scattered Bones",
+            "name": "Scattered Bones",
+            "description": "This cards’ power is equal to half the number of unspent bones the owner has, rounded down and to a maximum of 5 power.",
+            "category": "Attack Modification"
         },
         {
             "internalName": "Ruby Heart",
             "name": "Ruby Heart",
             "description": "When this card perishes, search 1 “Ruby Mox” from your side deck and play it in this space.",
             "category": "Gem Based"
-        },
-        {
-            "internalName": "Scattered Bones",
-            "name": "Scattered Bones",
-            "description": "This cards’ power is equal to half the number of unspent bones the owner has, rounded down and to a maximum of 5 power.",
-            "category": "Attack Modification"
         },
         {
             "internalName": "Rooted",
@@ -243,16 +237,16 @@
             "category": "Strange Oddities"
         },
         {
+            "internalName": "Spawn Conduit",
+            "name": "Spawn Conduit",
+            "description": "While this card is part of a circuit, during your end step search 1 “L33PB0T” from your side deck and play it within an empty space on your side of the field.",
+            "category": "Conduit"
+        },
+        {
             "internalName": "Overclocked",
             "name": "Overclocked",
             "description": "This cards’ power becomes equal to the amount of energy spent during your play step the turn this card is played, to a maximum of 5 power.",
             "category": "Attack Modification"
-        },
-        {
-            "internalName": "Orange Gem",
-            "name": "Orange Gem",
-            "description": "While this card is on the field, it provides 1 Ruby Gem.",
-            "category": "Cost-Based"
         },
         {
             "internalName": "Orange Conduit",
@@ -265,6 +259,12 @@
             "name": "Omnistrike",
             "description": "This card attacks all opposing spaces when it attacks.",
             "category": "Attack Modification"
+        },
+        {
+            "internalName": "Orange Gem",
+            "name": "Orange Gem",
+            "description": "While this card is on the field, it provides 1 Ruby Gem.",
+            "category": "Cost-Based"
         },
         {
             "internalName": "Null Conduit",
@@ -303,6 +303,12 @@
             "category": "Cost-Based"
         },
         {
+            "internalName": "Magickal Bleach",
+            "name": "Magickal Bleach",
+            "description": "When this card is played, target 1 card on the field. any sigils that card has are negated until it perishes.",
+            "category": "Strange Oddities"
+        },
+        {
             "internalName": "Made Of Stone",
             "name": "Made Of Stone",
             "description": "This card is unaffected by the effects of Stinky and Touch of Death.",
@@ -321,16 +327,16 @@
             "category": "Draw Power"
         },
         {
-            "internalName": "Magickal Bleach",
-            "name": "Magickal Bleach",
-            "description": "When this card is played, target 1 card on the field. any sigils that card has are negated until it perishes.",
-            "category": "Strange Oddities"
-        },
-        {
             "internalName": "Leader",
             "name": "Leader",
             "description": "While this card is on the field, increase the power of the cards left and right by 1.",
             "category": "Attack Modification"
+        },
+        {
+            "internalName": "Insta-Bomber",
+            "name": "Insta-Bomber",
+            "description": "When this card is played, target 1 card on the field. That card takes 10 damage.",
+            "category": "Strange Oddities"
         },
         {
             "internalName": "Hopper",
@@ -345,22 +351,16 @@
             "category": "Draw Power"
         },
         {
-            "internalName": "Insta-Bomber",
-            "name": "Insta-Bomber",
-            "description": "When this card is played, target 1 card on the field. That card takes 10 damage.",
-            "category": "Strange Oddities"
+            "internalName": "Hearty Offering",
+            "name": "Hearty Offering",
+            "description": "This card is worth blood equal to its’ current health when it is sacrificed.",
+            "category": "Cost-Based"
         },
         {
             "internalName": "Hefty",
             "name": "Hefty",
             "description": "During your end step, this card moves to an adjacent lane, moving cards in the way with it if possible.",
             "category": "Movement"
-        },
-        {
-            "internalName": "Hearty Offering",
-            "name": "Hearty Offering",
-            "description": "This card is worth blood equal to its’ current health when it is sacrificed.",
-            "category": "Cost-Based"
         },
         {
             "internalName": "Healing Conduit",
@@ -393,22 +393,16 @@
             "category": "Strange Oddities"
         },
         {
-            "internalName": "Green Gem",
-            "name": "Green Gem",
-            "description": "While this card is on the field, it provides 1 Emerald Gem.",
-            "category": "Cost-Based"
-        },
-        {
             "internalName": "Green Conduit",
             "name": "Green Conduit",
             "description": "While this card is part of a circuit, it provides 1 Emerald Gem.",
             "category": "Conduit"
         },
         {
-            "internalName": "Gravity",
-            "name": "Gravity",
-            "description": "When this card is played, target 1 card on the opposing side of the field and move it to an empty space on your side of the field.",
-            "category": "Movement"
+            "internalName": "Green Gem",
+            "name": "Green Gem",
+            "description": "While this card is on the field, it provides 1 Emerald Gem.",
+            "category": "Cost-Based"
         },
         {
             "internalName": "Grand Mox",
@@ -417,27 +411,21 @@
             "category": "Cost-Based"
         },
         {
+            "internalName": "Gravity",
+            "name": "Gravity",
+            "description": "When this card is played, target 1 card on the opposing side of the field and move it to an empty space on your side of the field.",
+            "category": "Movement"
+        },
+        {
             "internalName": "Gift Bearer",
             "name": "Gift Bearer",
             "description": "When this card perishes, draw 1 card from your deck.",
             "category": "Draw Power"
         },
         {
-            "internalName": "Gem Powered",
-            "name": "Gem Powered",
-            "description": "This card’s power is equal to the number of gems provided on your side of the field, to a maximum of 5 power.",
-            "category": "Gem Based"
-        },
-        {
             "internalName": "Gem Skeptic",
             "name": "Gem Skeptic",
             "description": "While this card is on the field, you may not play any Mox cards.",
-            "category": "Negative"
-        },
-        {
-            "internalName": "Gem Dependant",
-            "name": "Gem Dependant",
-            "description": "If there are no gems on your side of the field, this card perishes.",
             "category": "Negative"
         },
         {
@@ -447,22 +435,34 @@
             "category": "Gem Based"
         },
         {
+            "internalName": "Gem Powered",
+            "name": "Gem Powered",
+            "description": "This card’s power is equal to the number of gems provided on your side of the field, to a maximum of 5 power.",
+            "category": "Gem Based"
+        },
+        {
+            "internalName": "Gem Dependant",
+            "name": "Gem Dependant",
+            "description": "If there are no gems on your side of the field, this card perishes.",
+            "category": "Negative"
+        },
+        {
             "internalName": "Gem Conduit",
             "name": "Gem Conduit",
             "description": "While this card is part of a circuit, it provides 1 Sapphire Gem, 1 Ruby Gem, and 1 Emerald Gem.",
             "category": "Conduit"
         },
         {
-            "internalName": "Gem Animator",
-            "name": "Gem Animator",
-            "description": "While this card is on the field, all Mox cards on your side of the field gain 1 power.",
-            "category": "Gem Based"
-        },
-        {
             "internalName": "Frog Friend",
             "name": "Frog Friend",
             "description": "During your end step, this card moves to an adjacent empty lane. Search 1 “Frog” card from your deck and play it in this card’s previous lane.",
             "category": "Movement"
+        },
+        {
+            "internalName": "Gem Animator",
+            "name": "Gem Animator",
+            "description": "While this card is on the field, all Mox cards on your side of the field gain 1 power.",
+            "category": "Gem Based"
         },
         {
             "internalName": "Frozen Away",
@@ -483,28 +483,28 @@
             "category": "Draw Power"
         },
         {
-            "internalName": "Enlarge",
-            "name": "Enlarge",
-            "description": "During your play step, you may pay 2 bones to increase the health of this card by 1. If this card has 5 health, the effect cannot be used.",
-            "category": "Activated Sigils"
-        },
-        {
             "internalName": "Facsimile",
             "name": "Facsimile",
             "description": "This cards’ power is equal to the opposing cards` power.",
             "category": "Attack Modification"
         },
         {
-            "internalName": "Energy Conduit",
-            "name": "Energy Conduit",
-            "description": "While this card is part of a circuit, your energy does not deplete from its current level.",
-            "category": "Conduit"
+            "internalName": "Enlarge",
+            "name": "Enlarge",
+            "description": "During your play step, you may pay 2 bones to increase the health of this card by 1. If this card has 5 health, the effect cannot be used.",
+            "category": "Activated Sigils"
         },
         {
             "internalName": "Energy Gun",
             "name": "Energy Gun",
             "description": "During your play step, you may pay 1 energy to a card opposing this card.",
             "category": "Activated Sigils"
+        },
+        {
+            "internalName": "Energy Conduit",
+            "name": "Energy Conduit",
+            "description": "While this card is part of a circuit, your energy does not deplete from its current level.",
+            "category": "Conduit"
         },
         {
             "internalName": "Double Strike",
@@ -531,16 +531,16 @@
             "category": "Activated Sigils"
         },
         {
-            "internalName": "Defiler",
-            "name": "Defiler",
-            "description": "When this card perishes, draw a card from your deck and discard it,",
-            "category": "Negative"
-        },
-        {
             "internalName": "Detonator",
             "name": "Detonator",
             "description": "When this card perishes, adjacent and opposing cards are dealt 10 damage.",
             "category": "Strange Oddities"
+        },
+        {
+            "internalName": "Defiler",
+            "name": "Defiler",
+            "description": "When this card perishes, draw a card from your deck and discard it,",
+            "category": "Negative"
         },
         {
             "internalName": "Dam Builder",
@@ -555,16 +555,16 @@
             "category": "Draw Power"
         },
         {
-            "internalName": "Colony",
-            "name": "Colony",
-            "description": "This cards power is equal to the number of cards with the colony sigil on your side of the field.",
-            "category": "Attack Modification"
-        },
-        {
             "internalName": "Convalesce",
             "name": "Convalesce",
             "description": "During your end step, this card gains 1 health, to a maximum of 5 health.",
             "category": "Blocking"
+        },
+        {
+            "internalName": "Colony",
+            "name": "Colony",
+            "description": "This cards power is equal to the number of cards with the colony sigil on your side of the field.",
+            "category": "Attack Modification"
         },
         {
             "internalName": "Burrower",
@@ -681,12 +681,6 @@
             "category": "Cost-Based"
         },
         {
-            "internalName": "Bastion",
-            "name": "Bastion",
-            "description": "When this card takes damage, it only takes half the damage it normally would, rounded up.",
-            "category": "Blocking"
-        },
-        {
             "internalName": "Attack Conduit",
             "name": "Attack Conduit",
             "description": "While this card is part of a circuit, all cards inside the circuit gain 1 power.",
@@ -696,6 +690,12 @@
             "internalName": "Armored",
             "name": "Armored",
             "description": "The first time this card would take damage, negate that damage.",
+            "category": "Blocking"
+        },
+        {
+            "internalName": "Bastion",
+            "name": "Bastion",
+            "description": "When this card takes damage, it only takes half the damage it normally would, rounded up.",
             "category": "Blocking"
         },
         {
