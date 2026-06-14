@@ -3,6 +3,12 @@
     "type": "Sigil",
     "items": [
         {
+            "internalName": "Target Required",
+            "name": "Target Required",
+            "description": "This cards’ power is set to 0, when there is no card opposing it.",
+            "category": "Attack Modification"
+        },
+        {
             "internalName": "Unkillable",
             "name": "Unkillable",
             "description": "When this card perishes, it goes back to your hand instead of being discarded.",
@@ -39,18 +45,6 @@
             "category": "Attack Modification"
         },
         {
-            "internalName": "Target Required",
-            "name": "Target Required",
-            "description": "This cards’ power is set to 0, when there is no card opposing it.",
-            "category": "Attack Modification"
-        },
-        {
-            "internalName": "Worthy Sacrifice",
-            "name": "Worthy Sacrifice",
-            "description": "This card is worth 3 blood when it is sacrificed.",
-            "category": "Cost-Based"
-        },
-        {
             "internalName": "Waterborne",
             "name": "Waterborne",
             "description": "Attacks targeting this card instead hit the owner of this card directly.",
@@ -67,6 +61,12 @@
             "name": "True Scholar",
             "description": "During your play step, you can destroy all Mox cards on your side of the field, draw cards from your deck equal to the number of cards destroyed.",
             "category": "Activated Sigils"
+        },
+        {
+            "internalName": "Worthy Sacrifice",
+            "name": "Worthy Sacrifice",
+            "description": "This card is worth 3 blood when it is sacrificed.",
+            "category": "Cost-Based"
         },
         {
             "internalName": "Trinket Bearer",
@@ -93,16 +93,16 @@
             "category": "Attack Modification"
         },
         {
-            "internalName": "Stinky",
-            "name": "Stinky",
-            "description": "While this card is on the field, the opposing card has their power reduced by 1.",
-            "category": "Blocking"
-        },
-        {
             "internalName": "Stimulate",
             "name": "Stimulate",
             "description": "During your play step, you may pay 2 energy to increase the power of this card by 1. If this card has 5 power, the effect cannot be used.",
             "category": "Activated Sigils"
+        },
+        {
+            "internalName": "Stinky",
+            "name": "Stinky",
+            "description": "While this card is on the field, the opposing card has their power reduced by 1.",
+            "category": "Blocking"
         },
         {
             "internalName": "Steel Trap",
@@ -213,16 +213,16 @@
             "category": "Draw Power"
         },
         {
-            "internalName": "Purist",
-            "name": "Purist",
-            "description": "While this card is on the field, the opposing card’s sigils are nullified.",
-            "category": "Blocking"
-        },
-        {
             "internalName": "Prism Gem",
             "name": "Prism Gem",
             "description": "While this card is on the field, it provides 1 gem of any color.",
             "category": "Cost-Based"
+        },
+        {
+            "internalName": "Purist",
+            "name": "Purist",
+            "description": "While this card is on the field, the opposing card’s sigils are nullified.",
+            "category": "Blocking"
         },
         {
             "internalName": "Power Dice",
@@ -235,6 +235,12 @@
             "name": "Piercing",
             "description": "When this card damages an opposing card, half the damage dealt, rounded down, is dealt to your opponent as well.",
             "category": "Attack Modification"
+        },
+        {
+            "internalName": "Particle Scan",
+            "name": "Particle Scan",
+            "description": "When this card is played, target 1 card in your hand. Search a copy of it from your deck to your hand.",
+            "category": "Strange Oddities"
         },
         {
             "internalName": "Overclocked",
@@ -261,12 +267,6 @@
             "category": "Attack Modification"
         },
         {
-            "internalName": "Particle Scan",
-            "name": "Particle Scan",
-            "description": "When this card is played, target 1 card in your hand. Search a copy of it from your deck to your hand.",
-            "category": "Strange Oddities"
-        },
-        {
             "internalName": "Null Conduit",
             "name": "Null Conduit",
             "description": "This card may complete a circuit, but provides no effect.",
@@ -277,6 +277,12 @@
             "name": "Moximum Magick",
             "description": "When this card is on the field, it provides 2 gems of any color.",
             "category": "Cost-Based"
+        },
+        {
+            "internalName": "Mox Dropper",
+            "name": "Mox Dropper",
+            "description": "During your end step, this card moves to an adjacent lane. Search 1 “Mox” card from your side deck and play it in this cards space.",
+            "category": "Movement"
         },
         {
             "internalName": "Mighty Leap",
@@ -327,12 +333,6 @@
             "category": "Attack Modification"
         },
         {
-            "internalName": "Insta-Bomber",
-            "name": "Insta-Bomber",
-            "description": "When this card is played, target 1 card on the field. That card takes 10 damage.",
-            "category": "Strange Oddities"
-        },
-        {
             "internalName": "Hopper",
             "name": "Hopper",
             "description": "During your end step, this card moves to any empty space on your side of the board.",
@@ -357,10 +357,10 @@
             "category": "Cost-Based"
         },
         {
-            "internalName": "Mox Dropper",
-            "name": "Mox Dropper",
-            "description": "During your end step, this card moves to an adjacent lane. Search 1 “Mox” card from your side deck and play it in this cards space.",
-            "category": "Movement"
+            "internalName": "Insta-Bomber",
+            "name": "Insta-Bomber",
+            "description": "When this card is played, target 1 card on the field. That card takes 10 damage.",
+            "category": "Strange Oddities"
         },
         {
             "internalName": "Healing Conduit",
@@ -399,16 +399,16 @@
             "category": "Cost-Based"
         },
         {
-            "internalName": "Green Conduit",
-            "name": "Green Conduit",
-            "description": "While this card is part of a circuit, it provides 1 Emerald Gem.",
-            "category": "Conduit"
-        },
-        {
             "internalName": "Gravity",
             "name": "Gravity",
             "description": "When this card is played, target 1 card on the opposing side of the field and move it to an empty space on your side of the field.",
             "category": "Movement"
+        },
+        {
+            "internalName": "Green Conduit",
+            "name": "Green Conduit",
+            "description": "While this card is part of a circuit, it provides 1 Emerald Gem.",
+            "category": "Conduit"
         },
         {
             "internalName": "Grand Mox",
@@ -483,28 +483,28 @@
             "category": "Draw Power"
         },
         {
-            "internalName": "Facsimile",
-            "name": "Facsimile",
-            "description": "This cards’ power is equal to the opposing cards` power.",
-            "category": "Attack Modification"
-        },
-        {
             "internalName": "Enlarge",
             "name": "Enlarge",
             "description": "During your play step, you may pay 2 bones to increase the health of this card by 1. If this card has 5 health, the effect cannot be used.",
             "category": "Activated Sigils"
         },
         {
-            "internalName": "Energy Conduit",
-            "name": "Energy Conduit",
-            "description": "While this card is part of a circuit, your energy does not deplete from its current level.",
-            "category": "Conduit"
-        },
-        {
             "internalName": "Energy Gun",
             "name": "Energy Gun",
             "description": "During your play step, you may pay 1 energy to a card opposing this card.",
             "category": "Activated Sigils"
+        },
+        {
+            "internalName": "Facsimile",
+            "name": "Facsimile",
+            "description": "This cards’ power is equal to the opposing cards` power.",
+            "category": "Attack Modification"
+        },
+        {
+            "internalName": "Energy Conduit",
+            "name": "Energy Conduit",
+            "description": "While this card is part of a circuit, your energy does not deplete from its current level.",
+            "category": "Conduit"
         },
         {
             "internalName": "Double Strike",
@@ -591,16 +591,16 @@
             "category": "Negative"
         },
         {
-            "internalName": "Bone King",
-            "name": "Bone King",
-            "description": "When this card perishes, it provides 4 bones instead of 1.",
-            "category": "Cost-Based"
-        },
-        {
             "internalName": "Bonehorn",
             "name": "Bonehorn",
             "description": "During your play step, you may pay 1 energy to gain 3 bones, This card can only do this once per turn.",
             "category": "Activated Sigils"
+        },
+        {
+            "internalName": "Bone King",
+            "name": "Bone King",
+            "description": "When this card perishes, it provides 4 bones instead of 1.",
+            "category": "Cost-Based"
         },
         {
             "internalName": "Bone Digger",
@@ -639,16 +639,16 @@
             "category": "Negative"
         },
         {
+            "internalName": "Black Hole",
+            "name": "Black Hole",
+            "description": "During your opponents end step, if a card is opposing this card, that card perishes.",
+            "category": "Blocking"
+        },
+        {
             "internalName": "Bifurcated Strike",
             "name": "Bifurcated Strike",
             "description": "This card attacks only the lanes left and right of the opposing space when it attacks.",
             "category": "Attack Modification"
-        },
-        {
-            "internalName": "Bellist",
-            "name": "Bellist",
-            "description": "When this card is played, play a “Chime” card in adjacent empty lanes.",
-            "category": "Draw Power"
         },
         {
             "internalName": "Bell Ringer",
@@ -657,15 +657,9 @@
             "category": "Attack Modification"
         },
         {
-            "internalName": "Black Hole",
-            "name": "Black Hole",
-            "description": "During your opponents end step, if a card is opposing this card, that card perishes.",
-            "category": "Blocking"
-        },
-        {
-            "internalName": "Bees Within",
-            "name": "Bees Within",
-            "description": "When this card is damaged, search 1 “Bee” from your deck to your hand.",
+            "internalName": "Bellist",
+            "name": "Bellist",
+            "description": "When this card is played, play a “Chime” card in adjacent empty lanes.",
             "category": "Draw Power"
         },
         {
@@ -685,6 +679,12 @@
             "name": "Bastion",
             "description": "When this card takes damage, it only takes half the damage it normally would, rounded up.",
             "category": "Blocking"
+        },
+        {
+            "internalName": "Bees Within",
+            "name": "Bees Within",
+            "description": "When this card is damaged, search 1 “Bee” from your deck to your hand.",
+            "category": "Draw Power"
         },
         {
             "internalName": "Attack Conduit",
