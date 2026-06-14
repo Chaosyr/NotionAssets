@@ -21,12 +21,6 @@
             "category": "Blocking"
         },
         {
-            "internalName": "Tarot Reading",
-            "name": "Tarot Reading",
-            "description": "The crossover adds more than just some new cards with unique effects. What their secret if for I don’t know, but I'm sure you’ll piece it together.",
-            "category": "Strange Oddities"
-        },
-        {
             "internalName": "Inscrybe",
             "name": "Inscrybe",
             "description": "When a card is played opposite this card, the opponent selects 1 card from their hand. They discard that card, and the card opposite this one gains the discarded cards sigils until it perishes. Then this card perishes.",
@@ -39,22 +33,22 @@
             "category": "Blocking"
         },
         {
-            "internalName": "Worthy Sacrifice",
-            "name": "Worthy Sacrifice",
-            "description": "This card is worth 3 blood when it is sacrificed.",
-            "category": "Cost-Based"
-        },
-        {
-            "internalName": "Waterborne",
-            "name": "Waterborne",
-            "description": "Attacks targeting this card instead hit the owner of this card directly.",
-            "category": "Blocking"
+            "internalName": "Tarot Reading",
+            "name": "Tarot Reading",
+            "description": "The crossover adds more than just some new cards with unique effects. What their secret if for I don’t know, but I'm sure you’ll piece it together.",
+            "category": "Strange Oddities"
         },
         {
             "internalName": "Easy Target",
             "name": "Easy Target",
             "description": "All opposing cards will attack this card when they attack.",
             "category": "Attack Modification"
+        },
+        {
+            "internalName": "Worthy Sacrifice",
+            "name": "Worthy Sacrifice",
+            "description": "This card is worth 3 blood when it is sacrificed.",
+            "category": "Cost-Based"
         },
         {
             "internalName": "Unspeakable",
@@ -85,6 +79,12 @@
             "name": "Touch Of Death",
             "description": "When this card damages an opposing card, that card perishes.",
             "category": "Attack Modification"
+        },
+        {
+            "internalName": "Waterborne",
+            "name": "Waterborne",
+            "description": "Attacks targeting this card instead hit the owner of this card directly.",
+            "category": "Blocking"
         },
         {
             "internalName": "Strong Hand",
@@ -183,12 +183,6 @@
             "category": "Attack Modification"
         },
         {
-            "internalName": "Ruby Heart",
-            "name": "Ruby Heart",
-            "description": "When this card perishes, search 1 “Ruby Mox” from your side deck and play it in this space.",
-            "category": "Gem Based"
-        },
-        {
             "internalName": "Rooted",
             "name": "Rooted",
             "description": "This card cannot move from the space it is played in except by perishing.",
@@ -205,6 +199,12 @@
             "name": "Rampager",
             "description": "During your end step, this card moves to an adjacent lane, swapping places with the card in that lane if possible.",
             "category": "Movement"
+        },
+        {
+            "internalName": "Ruby Heart",
+            "name": "Ruby Heart",
+            "description": "When this card perishes, search 1 “Ruby Mox” from your side deck and play it in this space.",
+            "category": "Gem Based"
         },
         {
             "internalName": "Rabbit Hole",
@@ -315,28 +315,16 @@
             "category": "Blocking"
         },
         {
-            "internalName": "Looter",
-            "name": "Looter",
-            "description": "When this card deals damage directly, draw a card for each damage dealt by this card.",
-            "category": "Draw Power"
-        },
-        {
             "internalName": "Loaded",
             "name": "Loaded",
             "description": "When this card perishes, draw a total of 3 cards from your deck and/or side deck.",
             "category": "Draw Power"
         },
         {
-            "internalName": "Leader",
-            "name": "Leader",
-            "description": "While this card is on the field, increase the power of the cards left and right by 1.",
-            "category": "Attack Modification"
-        },
-        {
-            "internalName": "Hopper",
-            "name": "Hopper",
-            "description": "During your end step, this card moves to any empty space on your side of the board.",
-            "category": "Movement"
+            "internalName": "Looter",
+            "name": "Looter",
+            "description": "When this card deals damage directly, draw a card for each damage dealt by this card.",
+            "category": "Draw Power"
         },
         {
             "internalName": "Insta-Bomber",
@@ -345,15 +333,21 @@
             "category": "Strange Oddities"
         },
         {
+            "internalName": "Leader",
+            "name": "Leader",
+            "description": "While this card is on the field, increase the power of the cards left and right by 1.",
+            "category": "Attack Modification"
+        },
+        {
             "internalName": "Hoarder",
             "name": "Hoarder",
             "description": "When this card is played search any 1 card from your deck to your hand.",
             "category": "Draw Power"
         },
         {
-            "internalName": "Hefty",
-            "name": "Hefty",
-            "description": "During your end step, this card moves to an adjacent lane, moving cards in the way with it if possible.",
+            "internalName": "Hopper",
+            "name": "Hopper",
+            "description": "During your end step, this card moves to any empty space on your side of the board.",
             "category": "Movement"
         },
         {
@@ -361,6 +355,12 @@
             "name": "Hearty Offering",
             "description": "This card is worth blood equal to its’ current health when it is sacrificed.",
             "category": "Cost-Based"
+        },
+        {
+            "internalName": "Hefty",
+            "name": "Hefty",
+            "description": "During your end step, this card moves to an adjacent lane, moving cards in the way with it if possible.",
+            "category": "Movement"
         },
         {
             "internalName": "Healing Conduit",
@@ -399,16 +399,16 @@
             "category": "Cost-Based"
         },
         {
-            "internalName": "Gravity",
-            "name": "Gravity",
-            "description": "When this card is played, target 1 card on the opposing side of the field and move it to an empty space on your side of the field.",
-            "category": "Movement"
-        },
-        {
             "internalName": "Green Conduit",
             "name": "Green Conduit",
             "description": "While this card is part of a circuit, it provides 1 Emerald Gem.",
             "category": "Conduit"
+        },
+        {
+            "internalName": "Gravity",
+            "name": "Gravity",
+            "description": "When this card is played, target 1 card on the opposing side of the field and move it to an empty space on your side of the field.",
+            "category": "Movement"
         },
         {
             "internalName": "Grand Mox",
@@ -421,12 +421,6 @@
             "name": "Gift Bearer",
             "description": "When this card perishes, draw 1 card from your deck.",
             "category": "Draw Power"
-        },
-        {
-            "internalName": "Gem Skeptic",
-            "name": "Gem Skeptic",
-            "description": "While this card is on the field, you may not play any Mox cards.",
-            "category": "Negative"
         },
         {
             "internalName": "Gem Powered",
@@ -457,6 +451,12 @@
             "name": "Gem Animator",
             "description": "While this card is on the field, all Mox cards on your side of the field gain 1 power.",
             "category": "Gem Based"
+        },
+        {
+            "internalName": "Gem Skeptic",
+            "name": "Gem Skeptic",
+            "description": "While this card is on the field, you may not play any Mox cards.",
+            "category": "Negative"
         },
         {
             "internalName": "Frog Friend",
@@ -549,16 +549,16 @@
             "category": "Draw Power"
         },
         {
-            "internalName": "Corpse Eater",
-            "name": "Corpse Eater",
-            "description": "When a card on your side of the field perishes by battle, this card is played in its place.",
-            "category": "Draw Power"
-        },
-        {
             "internalName": "Convalesce",
             "name": "Convalesce",
             "description": "During your end step, this card gains 1 health, to a maximum of 5 health.",
             "category": "Blocking"
+        },
+        {
+            "internalName": "Corpse Eater",
+            "name": "Corpse Eater",
+            "description": "When a card on your side of the field perishes by battle, this card is played in its place.",
+            "category": "Draw Power"
         },
         {
             "internalName": "Colony",
@@ -645,10 +645,10 @@
             "category": "Blocking"
         },
         {
-            "internalName": "Bellist",
-            "name": "Bellist",
-            "description": "When this card is played, play a “Chime” card in adjacent empty lanes.",
-            "category": "Draw Power"
+            "internalName": "Bifurcated Strike",
+            "name": "Bifurcated Strike",
+            "description": "This card attacks only the lanes left and right of the opposing space when it attacks.",
+            "category": "Attack Modification"
         },
         {
             "internalName": "Bell Ringer",
@@ -657,15 +657,9 @@
             "category": "Attack Modification"
         },
         {
-            "internalName": "Bifurcated Strike",
-            "name": "Bifurcated Strike",
-            "description": "This card attacks only the lanes left and right of the opposing space when it attacks.",
-            "category": "Attack Modification"
-        },
-        {
-            "internalName": "Bees Within",
-            "name": "Bees Within",
-            "description": "When this card is damaged, search 1 “Bee” from your deck to your hand.",
+            "internalName": "Bellist",
+            "name": "Bellist",
+            "description": "When this card is played, play a “Chime” card in adjacent empty lanes.",
             "category": "Draw Power"
         },
         {
@@ -681,16 +675,22 @@
             "category": "Cost-Based"
         },
         {
-            "internalName": "Bastion",
-            "name": "Bastion",
-            "description": "When this card takes damage, it only takes half the damage it normally would, rounded up.",
-            "category": "Blocking"
+            "internalName": "Bees Within",
+            "name": "Bees Within",
+            "description": "When this card is damaged, search 1 “Bee” from your deck to your hand.",
+            "category": "Draw Power"
         },
         {
             "internalName": "Attack Conduit",
             "name": "Attack Conduit",
             "description": "While this card is part of a circuit, all cards inside the circuit gain 1 power.",
             "category": "Conduit"
+        },
+        {
+            "internalName": "Bastion",
+            "name": "Bastion",
+            "description": "When this card takes damage, it only takes half the damage it normally would, rounded up.",
+            "category": "Blocking"
         },
         {
             "internalName": "Armored",
@@ -711,16 +711,16 @@
             "category": "Draw Power"
         },
         {
-            "internalName": "Amorphous",
-            "name": "Amorphous",
-            "description": "When this card is played, select 1 card from your discard pile. This card gains the selected cards’ sigils until it perishes.",
-            "category": "Strange Oddities"
-        },
-        {
             "internalName": "Annoying",
             "name": "Annoying",
             "description": "When this card is on the field, the opposing card has their power increased by 1.",
             "category": "Negative"
+        },
+        {
+            "internalName": "Amorphous",
+            "name": "Amorphous",
+            "description": "When this card is played, select 1 card from your discard pile. This card gains the selected cards’ sigils until it perishes.",
+            "category": "Strange Oddities"
         },
         {
             "internalName": "Airborne",
