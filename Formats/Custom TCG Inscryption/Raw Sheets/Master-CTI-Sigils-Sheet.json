@@ -3,16 +3,16 @@
     "type": "Sigil",
     "items": [
         {
-            "internalName": "Target Required",
-            "name": "Target Required",
-            "description": "This cards’ power is set to 0, when there is no card opposing it.",
-            "category": "Attack Modification"
-        },
-        {
             "internalName": "Unkillable",
             "name": "Unkillable",
             "description": "When this card perishes, it goes back to your hand instead of being discarded.",
             "category": "Strange Oddities"
+        },
+        {
+            "internalName": "Target Required",
+            "name": "Target Required",
+            "description": "This cards’ power is set to 0, when there is no card opposing it.",
+            "category": "Attack Modification"
         },
         {
             "internalName": "Whimsical Healer",
@@ -45,6 +45,12 @@
             "category": "Attack Modification"
         },
         {
+            "internalName": "Worthy Sacrifice",
+            "name": "Worthy Sacrifice",
+            "description": "This card is worth 3 blood when it is sacrificed.",
+            "category": "Cost-Based"
+        },
+        {
             "internalName": "Waterborne",
             "name": "Waterborne",
             "description": "Attacks targeting this card instead hit the owner of this card directly.",
@@ -61,18 +67,6 @@
             "name": "True Scholar",
             "description": "During your play step, you can destroy all Mox cards on your side of the field, draw cards from your deck equal to the number of cards destroyed.",
             "category": "Activated Sigils"
-        },
-        {
-            "internalName": "Worthy Sacrifice",
-            "name": "Worthy Sacrifice",
-            "description": "This card is worth 3 blood when it is sacrificed.",
-            "category": "Cost-Based"
-        },
-        {
-            "internalName": "Trinket Bearer",
-            "name": "Trinket Bearer",
-            "description": "When this card is played, draw 1 card from your deck or side deck.",
-            "category": "Draw Power"
         },
         {
             "internalName": "Trifurcated Strike",
@@ -93,22 +87,28 @@
             "category": "Attack Modification"
         },
         {
-            "internalName": "Stimulate",
-            "name": "Stimulate",
-            "description": "During your play step, you may pay 2 energy to increase the power of this card by 1. If this card has 5 power, the effect cannot be used.",
-            "category": "Activated Sigils"
-        },
-        {
             "internalName": "Stinky",
             "name": "Stinky",
             "description": "While this card is on the field, the opposing card has their power reduced by 1.",
             "category": "Blocking"
         },
         {
+            "internalName": "Stimulate",
+            "name": "Stimulate",
+            "description": "During your play step, you may pay 2 energy to increase the power of this card by 1. If this card has 5 power, the effect cannot be used.",
+            "category": "Activated Sigils"
+        },
+        {
             "internalName": "Steel Trap",
             "name": "Steel Trap",
             "description": "When this card perishes by battle, the opposing card is dealt 10 damage.",
             "category": "Strange Oddities"
+        },
+        {
+            "internalName": "Trinket Bearer",
+            "name": "Trinket Bearer",
+            "description": "When this card is played, draw 1 card from your deck or side deck.",
+            "category": "Draw Power"
         },
         {
             "internalName": "Squirrel Shedder",
@@ -213,16 +213,16 @@
             "category": "Draw Power"
         },
         {
-            "internalName": "Prism Gem",
-            "name": "Prism Gem",
-            "description": "While this card is on the field, it provides 1 gem of any color.",
-            "category": "Cost-Based"
-        },
-        {
             "internalName": "Purist",
             "name": "Purist",
             "description": "While this card is on the field, the opposing card’s sigils are nullified.",
             "category": "Blocking"
+        },
+        {
+            "internalName": "Prism Gem",
+            "name": "Prism Gem",
+            "description": "While this card is on the field, it provides 1 gem of any color.",
+            "category": "Cost-Based"
         },
         {
             "internalName": "Power Dice",
@@ -309,12 +309,6 @@
             "category": "Strange Oddities"
         },
         {
-            "internalName": "Made Of Stone",
-            "name": "Made Of Stone",
-            "description": "This card is unaffected by the effects of Stinky and Touch of Death.",
-            "category": "Blocking"
-        },
-        {
             "internalName": "Looter",
             "name": "Looter",
             "description": "When this card deals damage directly, draw a card for each damage dealt by this card.",
@@ -327,10 +321,16 @@
             "category": "Draw Power"
         },
         {
-            "internalName": "Leader",
-            "name": "Leader",
-            "description": "While this card is on the field, increase the power of the cards left and right by 1.",
-            "category": "Attack Modification"
+            "internalName": "Made Of Stone",
+            "name": "Made Of Stone",
+            "description": "This card is unaffected by the effects of Stinky and Touch of Death.",
+            "category": "Blocking"
+        },
+        {
+            "internalName": "Insta-Bomber",
+            "name": "Insta-Bomber",
+            "description": "When this card is played, target 1 card on the field. That card takes 10 damage.",
+            "category": "Strange Oddities"
         },
         {
             "internalName": "Hopper",
@@ -345,6 +345,12 @@
             "category": "Draw Power"
         },
         {
+            "internalName": "Leader",
+            "name": "Leader",
+            "description": "While this card is on the field, increase the power of the cards left and right by 1.",
+            "category": "Attack Modification"
+        },
+        {
             "internalName": "Hefty",
             "name": "Hefty",
             "description": "During your end step, this card moves to an adjacent lane, moving cards in the way with it if possible.",
@@ -355,12 +361,6 @@
             "name": "Hearty Offering",
             "description": "This card is worth blood equal to its’ current health when it is sacrificed.",
             "category": "Cost-Based"
-        },
-        {
-            "internalName": "Insta-Bomber",
-            "name": "Insta-Bomber",
-            "description": "When this card is played, target 1 card on the field. That card takes 10 damage.",
-            "category": "Strange Oddities"
         },
         {
             "internalName": "Healing Conduit",
@@ -399,16 +399,16 @@
             "category": "Cost-Based"
         },
         {
-            "internalName": "Gravity",
-            "name": "Gravity",
-            "description": "When this card is played, target 1 card on the opposing side of the field and move it to an empty space on your side of the field.",
-            "category": "Movement"
-        },
-        {
             "internalName": "Green Conduit",
             "name": "Green Conduit",
             "description": "While this card is part of a circuit, it provides 1 Emerald Gem.",
             "category": "Conduit"
+        },
+        {
+            "internalName": "Gravity",
+            "name": "Gravity",
+            "description": "When this card is played, target 1 card on the opposing side of the field and move it to an empty space on your side of the field.",
+            "category": "Movement"
         },
         {
             "internalName": "Grand Mox",
@@ -429,15 +429,15 @@
             "category": "Negative"
         },
         {
-            "internalName": "Gem Powered",
-            "name": "Gem Powered",
-            "description": "This card’s power is equal to the number of gems provided on your side of the field, to a maximum of 5 power.",
-            "category": "Gem Based"
-        },
-        {
             "internalName": "Gem Guardian",
             "name": "Gem Guardian",
             "description": "While this card is on the field, any attacks targeting Mox cards on your side of the field are negated.",
+            "category": "Gem Based"
+        },
+        {
+            "internalName": "Gem Powered",
+            "name": "Gem Powered",
+            "description": "This card’s power is equal to the number of gems provided on your side of the field, to a maximum of 5 power.",
             "category": "Gem Based"
         },
         {
@@ -483,6 +483,12 @@
             "category": "Draw Power"
         },
         {
+            "internalName": "Facsimile",
+            "name": "Facsimile",
+            "description": "This cards’ power is equal to the opposing cards` power.",
+            "category": "Attack Modification"
+        },
+        {
             "internalName": "Enlarge",
             "name": "Enlarge",
             "description": "During your play step, you may pay 2 bones to increase the health of this card by 1. If this card has 5 health, the effect cannot be used.",
@@ -493,12 +499,6 @@
             "name": "Energy Gun",
             "description": "During your play step, you may pay 1 energy to a card opposing this card.",
             "category": "Activated Sigils"
-        },
-        {
-            "internalName": "Facsimile",
-            "name": "Facsimile",
-            "description": "This cards’ power is equal to the opposing cards` power.",
-            "category": "Attack Modification"
         },
         {
             "internalName": "Energy Conduit",
@@ -663,16 +663,16 @@
             "category": "Draw Power"
         },
         {
+            "internalName": "Bees Within",
+            "name": "Bees Within",
+            "description": "When this card is damaged, search 1 “Bee” from your deck to your hand.",
+            "category": "Draw Power"
+        },
+        {
             "internalName": "Battery Breaker",
             "name": "Battery Breaker",
             "description": "When this card is on the field, your maximum energy cells are reduced by 1.",
             "category": "Negative"
-        },
-        {
-            "internalName": "Battery Bearer",
-            "name": "Battery Bearer",
-            "description": "When this card is played, it provides 1 energy cell to its owner,",
-            "category": "Cost-Based"
         },
         {
             "internalName": "Bastion",
@@ -681,22 +681,22 @@
             "category": "Blocking"
         },
         {
-            "internalName": "Bees Within",
-            "name": "Bees Within",
-            "description": "When this card is damaged, search 1 “Bee” from your deck to your hand.",
-            "category": "Draw Power"
-        },
-        {
-            "internalName": "Attack Conduit",
-            "name": "Attack Conduit",
-            "description": "While this card is part of a circuit, all cards inside the circuit gain 1 power.",
-            "category": "Conduit"
+            "internalName": "Battery Bearer",
+            "name": "Battery Bearer",
+            "description": "When this card is played, it provides 1 energy cell to its owner,",
+            "category": "Cost-Based"
         },
         {
             "internalName": "Armored",
             "name": "Armored",
             "description": "The first time this card would take damage, negate that damage.",
             "category": "Blocking"
+        },
+        {
+            "internalName": "Attack Conduit",
+            "name": "Attack Conduit",
+            "description": "While this card is part of a circuit, all cards inside the circuit gain 1 power.",
+            "category": "Conduit"
         },
         {
             "internalName": "Aquanaut",
