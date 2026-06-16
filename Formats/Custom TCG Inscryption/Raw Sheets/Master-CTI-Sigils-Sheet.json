@@ -3,16 +3,16 @@
     "type": "Sigil",
     "items": [
         {
-            "internalName": "Target Required",
-            "name": "Target Required",
-            "description": "This cards’ power is set to 0, when there is no card opposing it.",
-            "category": "Attack Modification"
-        },
-        {
             "internalName": "Unkillable",
             "name": "Unkillable",
             "description": "When this card perishes, it goes back to your hand instead of being discarded.",
             "category": "Strange Oddities"
+        },
+        {
+            "internalName": "Target Required",
+            "name": "Target Required",
+            "description": "This cards’ power is set to 0, when there is no card opposing it.",
+            "category": "Attack Modification"
         },
         {
             "internalName": "Whimsical Healer",
@@ -31,12 +31,6 @@
             "name": "Tarot Reading",
             "description": "The crossover adds more than just some new cards with unique effects. What their secret if for I don’t know, but I'm sure you’ll piece it together.",
             "category": "Strange Oddities"
-        },
-        {
-            "internalName": "Death Veil",
-            "name": "Death Veil",
-            "description": "If an opposing card damages this card and this card does not perish, that card perishes.",
-            "category": "Blocking"
         },
         {
             "internalName": "Easy Target",
@@ -61,6 +55,12 @@
             "name": "Unspeakable",
             "description": "While searching your deck for a specified card, this card may be searched instead.",
             "category": "Draw Power"
+        },
+        {
+            "internalName": "Death Veil",
+            "name": "Death Veil",
+            "description": "If an opposing card damages this card and this card does not perish, that card perishes.",
+            "category": "Blocking"
         },
         {
             "internalName": "True Scholar",
@@ -189,16 +189,22 @@
             "category": "Gem Based"
         },
         {
+            "internalName": "Rooted",
+            "name": "Rooted",
+            "description": "This card cannot move from the space it is played in except by perishing.",
+            "category": "Blocking"
+        },
+        {
             "internalName": "Repulsive",
             "name": "Repulsive",
             "description": "If an opposing card would attack this card, negate that attack.",
             "category": "Blocking"
         },
         {
-            "internalName": "Rooted",
-            "name": "Rooted",
-            "description": "This card cannot move from the space it is played in except by perishing.",
-            "category": "Blocking"
+            "internalName": "Rampager",
+            "name": "Rampager",
+            "description": "During your end step, this card moves to an adjacent lane, swapping places with the card in that lane if possible.",
+            "category": "Movement"
         },
         {
             "internalName": "Rabbit Hole",
@@ -279,28 +285,22 @@
             "category": "Movement"
         },
         {
-            "internalName": "Rampager",
-            "name": "Rampager",
-            "description": "During your end step, this card moves to an adjacent lane, swapping places with the card in that lane if possible.",
-            "category": "Movement"
-        },
-        {
             "internalName": "Mighty Leap",
             "name": "Mighty Leap",
             "description": "If the opposing card has the Airborne sigil, it attacks this card instead of attacking directly.",
             "category": "Blocking"
         },
         {
-            "internalName": "Many Lives",
-            "name": "Many Lives",
-            "description": "When this card is sacrificed, it does not perish.",
-            "category": "Cost-Based"
-        },
-        {
             "internalName": "Mental Gemnastics",
             "name": "Mental Gemnastics",
             "description": "When this card is played, draw cards from your deck equal to the number of Mox cards on your side of the field.",
             "category": "Gem Based"
+        },
+        {
+            "internalName": "Many Lives",
+            "name": "Many Lives",
+            "description": "When this card is sacrificed, it does not perish.",
+            "category": "Cost-Based"
         },
         {
             "internalName": "Magickal Bleach",
@@ -453,16 +453,16 @@
             "category": "Conduit"
         },
         {
-            "internalName": "Frog Friend",
-            "name": "Frog Friend",
-            "description": "During your end step, this card moves to an adjacent empty lane. Search 1 “Frog” card from your deck and play it in this card’s previous lane.",
-            "category": "Movement"
-        },
-        {
             "internalName": "Gem Animator",
             "name": "Gem Animator",
             "description": "While this card is on the field, all Mox cards on your side of the field gain 1 power.",
             "category": "Gem Based"
+        },
+        {
+            "internalName": "Frog Friend",
+            "name": "Frog Friend",
+            "description": "During your end step, this card moves to an adjacent empty lane. Search 1 “Frog” card from your deck and play it in this card’s previous lane.",
+            "category": "Movement"
         },
         {
             "internalName": "Fledgling",
@@ -477,22 +477,16 @@
             "category": "Blocking"
         },
         {
-            "internalName": "Fecundity",
-            "name": "Fecundity",
-            "description": "When this card is played, search 1 copy of it from your deck to your hand.",
-            "category": "Draw Power"
-        },
-        {
             "internalName": "Facsimile",
             "name": "Facsimile",
             "description": "This cards’ power is equal to the opposing cards` power.",
             "category": "Attack Modification"
         },
         {
-            "internalName": "Enlarge",
-            "name": "Enlarge",
-            "description": "During your play step, you may pay 2 bones to increase the health of this card by 1. If this card has 5 health, the effect cannot be used.",
-            "category": "Activated Sigils"
+            "internalName": "Fecundity",
+            "name": "Fecundity",
+            "description": "When this card is played, search 1 copy of it from your deck to your hand.",
+            "category": "Draw Power"
         },
         {
             "internalName": "Energy Gun",
@@ -507,6 +501,12 @@
             "category": "Conduit"
         },
         {
+            "internalName": "Enlarge",
+            "name": "Enlarge",
+            "description": "During your play step, you may pay 2 bones to increase the health of this card by 1. If this card has 5 health, the effect cannot be used.",
+            "category": "Activated Sigils"
+        },
+        {
             "internalName": "Double Strike",
             "name": "Double Strike",
             "description": "This card attacks the opposing space twice when it attacks.",
@@ -519,16 +519,16 @@
             "category": "Draw Power"
         },
         {
-            "internalName": "Divination",
-            "name": "Divination",
-            "description": "When this card is played, look at the top 3 cards of your deck, rearrange them in any order, and put them back on top of your deck.",
-            "category": "Strange Oddities"
-        },
-        {
             "internalName": "Disentomb",
             "name": "Disentomb",
             "description": "During your play step, you may pay 1 bone to search 1 Skeleton from your side deck to your hand.",
             "category": "Activated Sigils"
+        },
+        {
+            "internalName": "Divination",
+            "name": "Divination",
+            "description": "When this card is played, look at the top 3 cards of your deck, rearrange them in any order, and put them back on top of your deck.",
+            "category": "Strange Oddities"
         },
         {
             "internalName": "Detonator",
@@ -567,27 +567,27 @@
             "category": "Attack Modification"
         },
         {
-            "internalName": "Brood Parasite",
-            "name": "Brood Parasite",
-            "description": "When this card is played, play 1 “Broken Egg” card in the opposing space if that space is empty.",
-            "category": "Draw Power"
-        },
-        {
             "internalName": "Burrower",
             "name": "Burrower",
             "description": "If an opposing card would attack an empty lane, this card moves to be hit instead.",
             "category": "Blocking"
         },
         {
-            "internalName": "Boneless",
-            "name": "Boneless",
-            "description": "This card does not generate a bone when it perishes.",
-            "category": "Negative"
+            "internalName": "Brood Parasite",
+            "name": "Brood Parasite",
+            "description": "When this card is played, play 1 “Broken Egg” card in the opposing space if that space is empty.",
+            "category": "Draw Power"
         },
         {
             "internalName": "Brittle",
             "name": "Brittle",
             "description": "During your end step, this card perishes.",
+            "category": "Negative"
+        },
+        {
+            "internalName": "Boneless",
+            "name": "Boneless",
+            "description": "This card does not generate a bone when it perishes.",
             "category": "Negative"
         },
         {
@@ -609,6 +609,12 @@
             "category": "Cost-Based"
         },
         {
+            "internalName": "Blue Gem",
+            "name": "Blue Gem",
+            "description": "When this card is on the field, it provides 1 Sapphire Gem.",
+            "category": "Cost-Based"
+        },
+        {
             "internalName": "Blue Conduit",
             "name": "Blue Conduit",
             "description": "When this card is part of a circuit, it provides 1 Sapphire Gem.",
@@ -625,12 +631,6 @@
             "name": "Bloodlust",
             "description": "When this card kills an opposing card. its power increases by 1, to a maximum of 5 power.",
             "category": "Attack Modification"
-        },
-        {
-            "internalName": "Blue Gem",
-            "name": "Blue Gem",
-            "description": "When this card is on the field, it provides 1 Sapphire Gem.",
-            "category": "Cost-Based"
         },
         {
             "internalName": "Bloodless",
@@ -655,6 +655,12 @@
             "name": "Bellist",
             "description": "When this card is played, play a “Chime” card in adjacent empty lanes.",
             "category": "Draw Power"
+        },
+        {
+            "internalName": "Bell Ringer",
+            "name": "Bell Ringer",
+            "description": "During either end step, this cards’ power increases by 1, to a maximum of 5 power.",
+            "category": "Attack Modification"
         },
         {
             "internalName": "Bees Within",
@@ -720,12 +726,6 @@
             "internalName": "Airborne",
             "name": "Airborne",
             "description": "This card attacks the opponent directly instead of the opposing card.",
-            "category": "Attack Modification"
-        },
-        {
-            "internalName": "Bell Ringer",
-            "name": "Bell Ringer",
-            "description": "During either end step, this cards’ power increases by 1, to a maximum of 5 power.",
             "category": "Attack Modification"
         }
     ]
