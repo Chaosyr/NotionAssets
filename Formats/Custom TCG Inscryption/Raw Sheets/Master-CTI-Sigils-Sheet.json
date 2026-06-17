@@ -27,6 +27,12 @@
             "category": "Strange Oddities"
         },
         {
+            "internalName": "Death Veil",
+            "name": "Death Veil",
+            "description": "If an opposing card damages this card and this card does not perish, that card perishes.",
+            "category": "Blocking"
+        },
+        {
             "internalName": "Tarot Reading",
             "name": "Tarot Reading",
             "description": "The crossover adds more than just some new cards with unique effects. What their secret if for I don’t know, but I'm sure you’ll piece it together.",
@@ -55,12 +61,6 @@
             "name": "Unspeakable",
             "description": "While searching your deck for a specified card, this card may be searched instead.",
             "category": "Draw Power"
-        },
-        {
-            "internalName": "Death Veil",
-            "name": "Death Veil",
-            "description": "If an opposing card damages this card and this card does not perish, that card perishes.",
-            "category": "Blocking"
         },
         {
             "internalName": "True Scholar",
@@ -303,27 +303,27 @@
             "category": "Cost-Based"
         },
         {
-            "internalName": "Magickal Bleach",
-            "name": "Magickal Bleach",
-            "description": "When this card is played, target 1 card on the field. any sigils that card has are negated until it perishes.",
-            "category": "Strange Oddities"
-        },
-        {
             "internalName": "Made Of Stone",
             "name": "Made Of Stone",
             "description": "This card is unaffected by the effects of Stinky and Touch of Death.",
             "category": "Blocking"
         },
         {
-            "internalName": "Looter",
-            "name": "Looter",
-            "description": "When this card deals damage directly, draw a card for each damage dealt by this card.",
-            "category": "Draw Power"
+            "internalName": "Magickal Bleach",
+            "name": "Magickal Bleach",
+            "description": "When this card is played, target 1 card on the field. any sigils that card has are negated until it perishes.",
+            "category": "Strange Oddities"
         },
         {
             "internalName": "Loaded",
             "name": "Loaded",
             "description": "When this card perishes, draw a total of 3 cards from your deck and/or side deck.",
+            "category": "Draw Power"
+        },
+        {
+            "internalName": "Looter",
+            "name": "Looter",
+            "description": "When this card deals damage directly, draw a card for each damage dealt by this card.",
             "category": "Draw Power"
         },
         {
@@ -465,16 +465,22 @@
             "category": "Movement"
         },
         {
+            "internalName": "Frozen Away",
+            "name": "Frozen Away",
+            "description": "When this card perishes, search 1 “[Token]” from your deck and play it in this card’s place.",
+            "category": "Blocking"
+        },
+        {
             "internalName": "Fledgling",
             "name": "Fledgling",
             "description": "During your next play step after this card is played, it ages into a “[Token]”.",
             "category": "Blocking"
         },
         {
-            "internalName": "Frozen Away",
-            "name": "Frozen Away",
-            "description": "When this card perishes, search 1 “[Token]” from your deck and play it in this card’s place.",
-            "category": "Blocking"
+            "internalName": "Fecundity",
+            "name": "Fecundity",
+            "description": "When this card is played, search 1 copy of it from your deck to your hand.",
+            "category": "Draw Power"
         },
         {
             "internalName": "Facsimile",
@@ -483,10 +489,10 @@
             "category": "Attack Modification"
         },
         {
-            "internalName": "Fecundity",
-            "name": "Fecundity",
-            "description": "When this card is played, search 1 copy of it from your deck to your hand.",
-            "category": "Draw Power"
+            "internalName": "Enlarge",
+            "name": "Enlarge",
+            "description": "During your play step, you may pay 2 bones to increase the health of this card by 1. If this card has 5 health, the effect cannot be used.",
+            "category": "Activated Sigils"
         },
         {
             "internalName": "Energy Gun",
@@ -499,12 +505,6 @@
             "name": "Energy Conduit",
             "description": "While this card is part of a circuit, your energy does not deplete from its current level.",
             "category": "Conduit"
-        },
-        {
-            "internalName": "Enlarge",
-            "name": "Enlarge",
-            "description": "During your play step, you may pay 2 bones to increase the health of this card by 1. If this card has 5 health, the effect cannot be used.",
-            "category": "Activated Sigils"
         },
         {
             "internalName": "Double Strike",
@@ -543,15 +543,15 @@
             "category": "Negative"
         },
         {
-            "internalName": "Dam Builder",
-            "name": "Dam Builder",
-            "description": "When this card is played, play a “Dam” card in adjacent empty lanes.",
-            "category": "Draw Power"
-        },
-        {
             "internalName": "Corpse Eater",
             "name": "Corpse Eater",
             "description": "When a card on your side of the field perishes by battle, this card is played in its place.",
+            "category": "Draw Power"
+        },
+        {
+            "internalName": "Dam Builder",
+            "name": "Dam Builder",
+            "description": "When this card is played, play a “Dam” card in adjacent empty lanes.",
             "category": "Draw Power"
         },
         {
@@ -591,16 +591,16 @@
             "category": "Negative"
         },
         {
-            "internalName": "Bonehorn",
-            "name": "Bonehorn",
-            "description": "During your play step, you may pay 1 energy to gain 3 bones, This card can only do this once per turn.",
-            "category": "Activated Sigils"
-        },
-        {
             "internalName": "Bone King",
             "name": "Bone King",
             "description": "When this card perishes, it provides 4 bones instead of 1.",
             "category": "Cost-Based"
+        },
+        {
+            "internalName": "Bonehorn",
+            "name": "Bonehorn",
+            "description": "During your play step, you may pay 1 energy to gain 3 bones, This card can only do this once per turn.",
+            "category": "Activated Sigils"
         },
         {
             "internalName": "Bone Digger",
@@ -705,16 +705,16 @@
             "category": "Attack Modification"
         },
         {
-            "internalName": "Ant Spawner",
-            "name": "Ant Spawner",
-            "description": "When this card is played, search 1 “Worker Ant” from your deck to your hand.",
-            "category": "Draw Power"
-        },
-        {
             "internalName": "Annoying",
             "name": "Annoying",
             "description": "When this card is on the field, the opposing card has their power increased by 1.",
             "category": "Negative"
+        },
+        {
+            "internalName": "Ant Spawner",
+            "name": "Ant Spawner",
+            "description": "When this card is played, search 1 “Worker Ant” from your deck to your hand.",
+            "category": "Draw Power"
         },
         {
             "internalName": "Amorphous",
