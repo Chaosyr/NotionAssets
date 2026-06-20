@@ -3,28 +3,6 @@
     "type": "Card",
     "items": [
         {
-            "internalName": "Zach",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Zach",
-            "temple": "Extras",
-            "rarity": "Deathcard",
-            "cost": "2 Blood",
-            "power": "3",
-            "health": "1",
-            "flavor": "Oh! Alright well, guess I’m here.",
-            "token": "",
-            "sigils": [
-                "Unkillable",
-                "Hoarder"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Zach-bc27935fe8a14dfc956c534b9a73b559?pvs=23",
-            "tags": [
-                "Beast",
-                "Deathcard"
-            ]
-        },
-        {
             "internalName": "Ryan",
             "from": "Custom TCG Inscryption",
             "displayName": "Ryan",
@@ -41,6 +19,28 @@
             ],
             "artist": "Pixel Profligate",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Ryan-07c89bcc26c64ea79200f6bdb6b2c33d?pvs=23",
+            "tags": [
+                "Beast",
+                "Deathcard"
+            ]
+        },
+        {
+            "internalName": "Zach",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Zach",
+            "temple": "Extras",
+            "rarity": "Deathcard",
+            "cost": "2 Blood",
+            "power": "3",
+            "health": "1",
+            "flavor": "Oh! Alright well, guess I’m here.",
+            "token": "",
+            "sigils": [
+                "Unkillable",
+                "Hoarder"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Zach-bc27935fe8a14dfc956c534b9a73b559?pvs=23",
             "tags": [
                 "Beast",
                 "Deathcard"
@@ -89,6 +89,26 @@
             ]
         },
         {
+            "internalName": "Zombie",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Zombie",
+            "temple": "Undead",
+            "rarity": "Common",
+            "cost": "2 Bones",
+            "power": "1",
+            "health": "1",
+            "flavor": "Naught but a corpse, left to rot.",
+            "token": "",
+            "sigils": [
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Zombie-96486808d32e4bd3a19ed20dd6937ccf?pvs=23",
+            "tags": [
+                "Undead",
+                "Common"
+            ]
+        },
+        {
             "internalName": "Celia",
             "from": "Custom TCG Inscryption",
             "displayName": "Celia",
@@ -107,26 +127,6 @@
             "tags": [
                 "Beast",
                 "Deathcard"
-            ]
-        },
-        {
-            "internalName": "Zombie",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Zombie",
-            "temple": "Undead",
-            "rarity": "Common",
-            "cost": "2 Bones",
-            "power": "1",
-            "health": "1",
-            "flavor": "Naught but a corpse, left to rot.",
-            "token": "",
-            "sigils": [
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Zombie-96486808d32e4bd3a19ed20dd6937ccf?pvs=23",
-            "tags": [
-                "Undead",
-                "Common"
             ]
         },
         {
@@ -171,6 +171,27 @@
             ]
         },
         {
+            "internalName": "The Walkers",
+            "from": "Custom TCG Inscryption",
+            "displayName": "The Walkers",
+            "temple": "Undead",
+            "rarity": "Common",
+            "cost": "4 Bones",
+            "power": "1",
+            "health": "2",
+            "flavor": "They lived together, they died together.",
+            "token": "",
+            "sigils": [
+                "Bone King"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/The-Walkers-fd170263758241df9b80e5af8a1da015?pvs=23",
+            "tags": [
+                "Undead",
+                "Common"
+            ]
+        },
+        {
             "internalName": "Tomb Robber",
             "from": "Custom TCG Inscryption",
             "displayName": "Tomb Robber",
@@ -192,21 +213,21 @@
             ]
         },
         {
-            "internalName": "The Walkers",
+            "internalName": "The Bloated",
             "from": "Custom TCG Inscryption",
-            "displayName": "The Walkers",
+            "displayName": "The Bloated",
             "temple": "Undead",
             "rarity": "Common",
-            "cost": "4 Bones",
+            "cost": "3 Bones",
             "power": "1",
-            "health": "2",
-            "flavor": "They lived together, they died together.",
+            "health": "1",
+            "flavor": "Grotesque boils, ready to burst.",
             "token": "",
             "sigils": [
-                "Bone King"
+                "Detonator"
             ],
             "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/The-Walkers-fd170263758241df9b80e5af8a1da015?pvs=23",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/The-Bloated-349d1ac1d96d4b7daa886e8591bfed0c?pvs=23",
             "tags": [
                 "Undead",
                 "Common"
@@ -234,21 +255,21 @@
             ]
         },
         {
-            "internalName": "The Bloated",
+            "internalName": "Spirit Orb",
             "from": "Custom TCG Inscryption",
-            "displayName": "The Bloated",
+            "displayName": "Spirit Orb",
             "temple": "Undead",
             "rarity": "Common",
-            "cost": "3 Bones",
-            "power": "1",
+            "cost": "2 Bones",
+            "power": "0",
             "health": "1",
-            "flavor": "Grotesque boils, ready to burst.",
+            "flavor": "Even the lowliest of spirits have use.",
             "token": "",
             "sigils": [
-                "Detonator"
+                "Blue Gem"
             ],
             "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/The-Bloated-349d1ac1d96d4b7daa886e8591bfed0c?pvs=23",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Spirit-Orb-818bdca9719b4bf5995516fe5d204494?pvs=23",
             "tags": [
                 "Undead",
                 "Common"
@@ -276,21 +297,21 @@
             ]
         },
         {
-            "internalName": "Spirit Orb",
+            "internalName": "Spine Wyrm",
             "from": "Custom TCG Inscryption",
-            "displayName": "Spirit Orb",
+            "displayName": "Spine Wyrm",
             "temple": "Undead",
             "rarity": "Common",
-            "cost": "2 Bones",
-            "power": "0",
-            "health": "1",
-            "flavor": "Even the lowliest of spirits have use.",
+            "cost": "8 Bones",
+            "power": "3",
+            "health": "2",
+            "flavor": "A monstrous force of ivory.",
             "token": "",
             "sigils": [
-                "Blue Gem"
+                "Sharp Quills"
             ],
             "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Spirit-Orb-818bdca9719b4bf5995516fe5d204494?pvs=23",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Spine-Wyrm-0ad45707d0ac46fd959375a6d68ec2f4?pvs=23",
             "tags": [
                 "Undead",
                 "Common"
@@ -312,27 +333,6 @@
             ],
             "artist": "Pixel Profligate",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Skeleton-87181c7a140b495ab28ac0ab9ca2f346?pvs=23",
-            "tags": [
-                "Undead",
-                "Common"
-            ]
-        },
-        {
-            "internalName": "Spine Wyrm",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Spine Wyrm",
-            "temple": "Undead",
-            "rarity": "Common",
-            "cost": "8 Bones",
-            "power": "3",
-            "health": "2",
-            "flavor": "A monstrous force of ivory.",
-            "token": "",
-            "sigils": [
-                "Sharp Quills"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Spine-Wyrm-0ad45707d0ac46fd959375a6d68ec2f4?pvs=23",
             "tags": [
                 "Undead",
                 "Common"
@@ -469,28 +469,6 @@
             ]
         },
         {
-            "internalName": "Possessed Armor",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Possessed Armor",
-            "temple": "Undead",
-            "rarity": "Common",
-            "cost": "6 Bones",
-            "power": "1",
-            "health": "3",
-            "flavor": "A common vessel, for spirits.",
-            "token": "",
-            "sigils": [
-                "Armored",
-                "Bloodless"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Possessed-Armor-489e2aa98d6044698f821456bfdd837e?pvs=23",
-            "tags": [
-                "Undead",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Pumpkin King",
             "from": "Custom TCG Inscryption",
             "displayName": "Pumpkin King",
@@ -507,6 +485,28 @@
             ],
             "artist": "Pixel Profligate",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Pumpkin-King-cb4c07ee3dc04e10b5d2f5621c983b7c?pvs=23",
+            "tags": [
+                "Undead",
+                "Common"
+            ]
+        },
+        {
+            "internalName": "Possessed Armor",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Possessed Armor",
+            "temple": "Undead",
+            "rarity": "Common",
+            "cost": "6 Bones",
+            "power": "1",
+            "health": "3",
+            "flavor": "A common vessel, for spirits.",
+            "token": "",
+            "sigils": [
+                "Armored",
+                "Bloodless"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Possessed-Armor-489e2aa98d6044698f821456bfdd837e?pvs=23",
             "tags": [
                 "Undead",
                 "Common"
@@ -556,6 +556,27 @@
             ]
         },
         {
+            "internalName": "Necromancer",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Necromancer",
+            "temple": "Undead",
+            "rarity": "Rare",
+            "cost": "3 Bones",
+            "power": "1",
+            "health": "2",
+            "flavor": "Back from the grave, if only breifly.",
+            "token": "",
+            "sigils": [
+                "Double Death"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Necromancer-83cad935507e426d95349497e4c100d4?pvs=23",
+            "tags": [
+                "Undead",
+                "Rare"
+            ]
+        },
+        {
             "internalName": "Nachzehrer",
             "from": "Custom TCG Inscryption",
             "displayName": "Nachzehrer",
@@ -575,27 +596,6 @@
             "tags": [
                 "Undead",
                 "Common"
-            ]
-        },
-        {
-            "internalName": "Necromancer",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Necromancer",
-            "temple": "Undead",
-            "rarity": "Rare",
-            "cost": "3 Bones",
-            "power": "1",
-            "health": "2",
-            "flavor": "Back from the grave, if only breifly.",
-            "token": "",
-            "sigils": [
-                "Double Death"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Necromancer-83cad935507e426d95349497e4c100d4?pvs=23",
-            "tags": [
-                "Undead",
-                "Rare"
             ]
         },
         {
@@ -1135,6 +1135,27 @@
             ]
         },
         {
+            "internalName": "Bone Lord’s Horn",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Bone Lord’s Horn",
+            "temple": "Undead",
+            "rarity": "Common",
+            "cost": "3 Bones",
+            "power": "1",
+            "health": "1",
+            "flavor": "This is a rather…interesting boon.",
+            "token": "",
+            "sigils": [
+                "Bonehorn"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Bone-Lord-s-Horn-5bf48e93101e4dbfa1ed966697b7e686?pvs=23",
+            "tags": [
+                "Undead",
+                "Common"
+            ]
+        },
+        {
             "internalName": "Bone Scrounger",
             "from": "Custom TCG Inscryption",
             "displayName": "Bone Scrounger",
@@ -1157,21 +1178,21 @@
             ]
         },
         {
-            "internalName": "Bone Lord’s Horn",
+            "internalName": "Banshee",
             "from": "Custom TCG Inscryption",
-            "displayName": "Bone Lord’s Horn",
+            "displayName": "Banshee",
             "temple": "Undead",
             "rarity": "Common",
-            "cost": "3 Bones",
+            "cost": "2 Bones",
             "power": "1",
             "health": "1",
-            "flavor": "This is a rather…interesting boon.",
+            "flavor": "Rather happy, despite the crying.",
             "token": "",
             "sigils": [
-                "Bonehorn"
+                "Airborne"
             ],
             "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Bone-Lord-s-Horn-5bf48e93101e4dbfa1ed966697b7e686?pvs=23",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Banshee-b7edb0f7d3d64032bba064e413f6c105?pvs=23",
             "tags": [
                 "Undead",
                 "Common"
@@ -1200,21 +1221,22 @@
             ]
         },
         {
-            "internalName": "Banshee",
+            "internalName": "Abomination",
             "from": "Custom TCG Inscryption",
-            "displayName": "Banshee",
+            "displayName": "Abomination",
             "temple": "Undead",
             "rarity": "Common",
-            "cost": "2 Bones",
+            "cost": "11 Bones",
             "power": "1",
-            "health": "1",
-            "flavor": "Rather happy, despite the crying.",
+            "health": "7",
+            "flavor": "Cobbled together from skin and bone.",
             "token": "",
             "sigils": [
-                "Airborne"
+                "Null Conduit",
+                "Stinky"
             ],
             "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Banshee-b7edb0f7d3d64032bba064e413f6c105?pvs=23",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Abomination-50a5a39d8cf741dba5dd35ec26f9f93e?pvs=23",
             "tags": [
                 "Undead",
                 "Common"
@@ -1239,28 +1261,6 @@
             "tags": [
                 "Undead",
                 "Talking"
-            ]
-        },
-        {
-            "internalName": "Abomination",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Abomination",
-            "temple": "Undead",
-            "rarity": "Common",
-            "cost": "11 Bones",
-            "power": "1",
-            "health": "7",
-            "flavor": "Cobbled together from skin and bone.",
-            "token": "",
-            "sigils": [
-                "Null Conduit",
-                "Stinky"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Abomination-50a5a39d8cf741dba5dd35ec26f9f93e?pvs=23",
-            "tags": [
-                "Undead",
-                "Common"
             ]
         },
         {
@@ -1307,28 +1307,6 @@
             ]
         },
         {
-            "internalName": "Tombstone",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Tombstone",
-            "temple": "Extras",
-            "rarity": "Common",
-            "cost": "Free",
-            "power": "0",
-            "health": "3",
-            "flavor": "A marker of those once passed.",
-            "token": "",
-            "sigils": [
-                "Made Of Stone",
-                "Bloodless"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Tombstone-50282d3c72764fc1b844feddf9f776b7?pvs=25",
-            "tags": [
-                "Terrain",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Stump",
             "from": "Custom TCG Inscryption",
             "displayName": "Stump",
@@ -1371,22 +1349,22 @@
             ]
         },
         {
-            "internalName": "Strange Frog",
+            "internalName": "Tombstone",
             "from": "Custom TCG Inscryption",
-            "displayName": "Strange Frog",
+            "displayName": "Tombstone",
             "temple": "Extras",
             "rarity": "Common",
-            "cost": "3 Energy",
-            "power": "1",
-            "health": "2",
-            "flavor": "The trapper and his…interesting gadgets.",
-            "token": "Leaping Trap",
+            "cost": "Free",
+            "power": "0",
+            "health": "3",
+            "flavor": "A marker of those once passed.",
+            "token": "",
             "sigils": [
-                "Frozen Away",
-                "Mighty Leap"
+                "Made Of Stone",
+                "Bloodless"
             ],
             "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Strange-Frog-68c46428085b4cfa8a503acc7e78bece?pvs=23",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Tombstone-50282d3c72764fc1b844feddf9f776b7?pvs=25",
             "tags": [
                 "Terrain",
                 "Common"
@@ -1411,6 +1389,28 @@
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Spore-Mice-d7767e3ea14d46268b249b5607958c46?pvs=23",
             "tags": [
                 "Beast",
+                "Common"
+            ]
+        },
+        {
+            "internalName": "Strange Frog",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Strange Frog",
+            "temple": "Extras",
+            "rarity": "Common",
+            "cost": "3 Energy",
+            "power": "1",
+            "health": "2",
+            "flavor": "The trapper and his…interesting gadgets.",
+            "token": "Leaping Trap",
+            "sigils": [
+                "Frozen Away",
+                "Mighty Leap"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Strange-Frog-68c46428085b4cfa8a503acc7e78bece?pvs=23",
+            "tags": [
+                "Terrain",
                 "Common"
             ]
         },
@@ -1459,25 +1459,24 @@
             ]
         },
         {
-            "internalName": "Spore Digger",
+            "internalName": "Spore Geck",
             "from": "Custom TCG Inscryption",
-            "displayName": "Spore Digger",
+            "displayName": "Spore Geck",
             "temple": "Extras",
-            "rarity": "Common",
-            "cost": "1 Bone",
-            "power": "0",
-            "health": "3",
-            "flavor": "Did his incessant digging cause this?",
+            "rarity": "Rare",
+            "cost": "Free",
+            "power": "1",
+            "health": "1",
+            "flavor": "This beast did not deserve this fate.",
             "token": "",
             "sigils": [
-                "Bone Digger",
-                "Bone King"
+                "Unkillable"
             ],
             "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Spore-Digger-8968a70b8fbe4dfab127e36f8aae0d6a?pvs=23",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Spore-Geck-e1852cd0080442fd88ede6f76b41ebfb?pvs=23",
             "tags": [
-                "Undead",
-                "Common"
+                "Beast",
+                "Rare"
             ]
         },
         {
@@ -1500,6 +1499,28 @@
             "tags": [
                 "Tech",
                 "Rare"
+            ]
+        },
+        {
+            "internalName": "Spore Digger",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Spore Digger",
+            "temple": "Extras",
+            "rarity": "Common",
+            "cost": "1 Bone",
+            "power": "0",
+            "health": "3",
+            "flavor": "Did his incessant digging cause this?",
+            "token": "",
+            "sigils": [
+                "Bone Digger",
+                "Bone King"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Spore-Digger-8968a70b8fbe4dfab127e36f8aae0d6a?pvs=23",
+            "tags": [
+                "Undead",
+                "Common"
             ]
         },
         {
@@ -1569,27 +1590,6 @@
             ]
         },
         {
-            "internalName": "Spore Geck",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Spore Geck",
-            "temple": "Extras",
-            "rarity": "Rare",
-            "cost": "Free",
-            "power": "1",
-            "health": "1",
-            "flavor": "This beast did not deserve this fate.",
-            "token": "",
-            "sigils": [
-                "Unkillable"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Spore-Geck-e1852cd0080442fd88ede6f76b41ebfb?pvs=23",
-            "tags": [
-                "Beast",
-                "Rare"
-            ]
-        },
-        {
             "internalName": "Rabbit Pelt",
             "from": "Custom TCG Inscryption",
             "displayName": "Rabbit Pelt",
@@ -1655,6 +1655,28 @@
             ]
         },
         {
+            "internalName": "Master Sporanj",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Master Sporanj",
+            "temple": "Extras",
+            "rarity": "Rare",
+            "cost": "1 Emerald Gem, 1 Ruby Gem",
+            "power": "3",
+            "health": "6",
+            "flavor": "Poor master…what happened to you?",
+            "token": "",
+            "sigils": [
+                "Gem Dependant",
+                "Bifurcated Strike"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Master-Sporenaj-65a4a70fb6ad4eb3bc2a3ae524a1d303?pvs=23",
+            "tags": [
+                "Magick",
+                "Rare"
+            ]
+        },
+        {
             "internalName": "Mcclain",
             "from": "Custom TCG Inscryption",
             "displayName": "Mcclain",
@@ -1696,28 +1718,6 @@
             "tags": [
                 "Beast",
                 "Deathcard"
-            ]
-        },
-        {
-            "internalName": "Master Sporanj",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Master Sporanj",
-            "temple": "Extras",
-            "rarity": "Rare",
-            "cost": "1 Emerald Gem, 1 Ruby Gem",
-            "power": "3",
-            "health": "6",
-            "flavor": "Poor master…what happened to you?",
-            "token": "",
-            "sigils": [
-                "Gem Dependant",
-                "Bifurcated Strike"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Master-Sporenaj-65a4a70fb6ad4eb3bc2a3ae524a1d303?pvs=23",
-            "tags": [
-                "Magick",
-                "Rare"
             ]
         },
         {
@@ -1896,6 +1896,27 @@
             ]
         },
         {
+            "internalName": "Dam",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Dam",
+            "temple": "Extras",
+            "rarity": "Common",
+            "cost": "Free",
+            "power": "0",
+            "health": "2",
+            "flavor": "What a quaint little home.",
+            "token": "",
+            "sigils": [
+                "Bloodless"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Dam-99844ea6eb344039be5b846e9d577db7?pvs=23",
+            "tags": [
+                "Terrain",
+                "Common"
+            ]
+        },
+        {
             "internalName": "Chandrelle",
             "from": "Custom TCG Inscryption",
             "displayName": "Chandrelle",
@@ -1963,24 +1984,24 @@
             ]
         },
         {
-            "internalName": "Dam",
+            "internalName": "Bryce",
             "from": "Custom TCG Inscryption",
-            "displayName": "Dam",
+            "displayName": "Bryce",
             "temple": "Extras",
-            "rarity": "Common",
-            "cost": "Free",
-            "power": "0",
+            "rarity": "Deathcard",
+            "cost": "2 Blood",
+            "power": "3",
             "health": "2",
-            "flavor": "What a quaint little home.",
+            "flavor": "I’m a cook, not a card.",
             "token": "",
             "sigils": [
-                "Bloodless"
+                "Amorphous"
             ],
             "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Dam-99844ea6eb344039be5b846e9d577db7?pvs=23",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Bryce-2993665309da4b8cb6e5b0406e0f75df?pvs=23",
             "tags": [
-                "Terrain",
-                "Common"
+                "Beast",
+                "Deathcard"
             ]
         },
         {
@@ -2111,27 +2132,6 @@
             ]
         },
         {
-            "internalName": "Steel Mice",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Steel Mice",
-            "temple": "Tech",
-            "rarity": "Common",
-            "cost": "4 Energy",
-            "power": "1",
-            "health": "2",
-            "flavor": "Keep their wires from getting tangled.",
-            "token": "",
-            "sigils": [
-                "Fecundity"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Steel-Mice-4c88b007d866495194a27749ba5cad36?pvs=23",
-            "tags": [
-                "Tech",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Steambot",
             "from": "Custom TCG Inscryption",
             "displayName": "Steambot",
@@ -2236,27 +2236,6 @@
             "tags": [
                 "Tech",
                 "Common"
-            ]
-        },
-        {
-            "internalName": "Bryce",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Bryce",
-            "temple": "Extras",
-            "rarity": "Deathcard",
-            "cost": "2 Blood",
-            "power": "3",
-            "health": "2",
-            "flavor": "I’m a cook, not a card.",
-            "token": "",
-            "sigils": [
-                "Amorphous"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Bryce-2993665309da4b8cb6e5b0406e0f75df?pvs=23",
-            "tags": [
-                "Beast",
-                "Deathcard"
             ]
         },
         {
@@ -2409,6 +2388,27 @@
             ]
         },
         {
+            "internalName": "Steel Mice",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Steel Mice",
+            "temple": "Tech",
+            "rarity": "Common",
+            "cost": "4 Energy",
+            "power": "1",
+            "health": "2",
+            "flavor": "Keep their wires from getting tangled.",
+            "token": "",
+            "sigils": [
+                "Fecundity"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Steel-Mice-4c88b007d866495194a27749ba5cad36?pvs=23",
+            "tags": [
+                "Tech",
+                "Common"
+            ]
+        },
+        {
             "internalName": "Mox Processing Unit",
             "from": "Custom TCG Inscryption",
             "displayName": "Mox Processing Unit",
@@ -2475,27 +2475,6 @@
             ]
         },
         {
-            "internalName": "Melter",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Melter",
-            "temple": "Tech",
-            "rarity": "Talking",
-            "cost": "3 Energy",
-            "power": "2",
-            "health": "2",
-            "flavor": "We are- I am, a good card.",
-            "token": "M3ATB0T",
-            "sigils": [
-                "Frozen Away"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Melter-764bedcf8d1d4accaace8f827a6043e4?pvs=23",
-            "tags": [
-                "Tech",
-                "Talking"
-            ]
-        },
-        {
             "internalName": "Mox Hardware Unit",
             "from": "Custom TCG Inscryption",
             "displayName": "Mox Hardware Unit",
@@ -2515,6 +2494,27 @@
             "tags": [
                 "Tech",
                 "Common"
+            ]
+        },
+        {
+            "internalName": "Melter",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Melter",
+            "temple": "Tech",
+            "rarity": "Talking",
+            "cost": "3 Energy",
+            "power": "2",
+            "health": "2",
+            "flavor": "We are- I am, a good card.",
+            "token": "M3ATB0T",
+            "sigils": [
+                "Frozen Away"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Melter-764bedcf8d1d4accaace8f827a6043e4?pvs=23",
+            "tags": [
+                "Tech",
+                "Talking"
             ]
         },
         {
@@ -2729,27 +2729,6 @@
             ]
         },
         {
-            "internalName": "Gamblobot",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Gamblobot",
-            "temple": "Tech",
-            "rarity": "Common",
-            "cost": "3 Energy",
-            "power": "X",
-            "health": "1",
-            "flavor": "Push your luck, what could go wrong.",
-            "token": "",
-            "sigils": [
-                "Power Dice"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Gamblobot-caeac76bc248452dacca426ab1f76e6a?pvs=23",
-            "tags": [
-                "Tech",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Fishdroid",
             "from": "Custom TCG Inscryption",
             "displayName": "Fishdroid",
@@ -2835,27 +2814,6 @@
             ]
         },
         {
-            "internalName": "Energy Bot",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Energy Bot",
-            "temple": "Tech",
-            "rarity": "Common",
-            "cost": "1 Energy",
-            "power": "0",
-            "health": "1",
-            "flavor": "Full of energy, but they cannot use it.",
-            "token": "",
-            "sigils": [
-                "Battery Bearer"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Empty-Cell-fba7b82aa9284045b6766bded8e25bcb?pvs=23",
-            "tags": [
-                "Tech",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Energy Conduit",
             "from": "Custom TCG Inscryption",
             "displayName": "Energy Conduit",
@@ -2877,18 +2835,39 @@
             ]
         },
         {
-            "internalName": "Empty Cell",
+            "internalName": "Gamblobot",
             "from": "Custom TCG Inscryption",
-            "displayName": "Empty Cell",
+            "displayName": "Gamblobot",
             "temple": "Tech",
             "rarity": "Common",
-            "cost": "Free",
-            "power": "0",
+            "cost": "3 Energy",
+            "power": "X",
             "health": "1",
-            "flavor": "Careful, the glass is thin.",
+            "flavor": "Push your luck, what could go wrong.",
             "token": "",
             "sigils": [
-                "Sharp Quills"
+                "Power Dice"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Gamblobot-caeac76bc248452dacca426ab1f76e6a?pvs=23",
+            "tags": [
+                "Tech",
+                "Common"
+            ]
+        },
+        {
+            "internalName": "Energy Bot",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Energy Bot",
+            "temple": "Tech",
+            "rarity": "Common",
+            "cost": "1 Energy",
+            "power": "0",
+            "health": "1",
+            "flavor": "Full of energy, but they cannot use it.",
+            "token": "",
+            "sigils": [
+                "Battery Bearer"
             ],
             "artist": "Pixel Profligate",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Empty-Cell-fba7b82aa9284045b6766bded8e25bcb?pvs=23",
@@ -2934,6 +2913,27 @@
             ],
             "artist": "Pixel Profligate",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Double-Gunner-557cd5eb596244a7af57387356e33bf5?pvs=23",
+            "tags": [
+                "Tech",
+                "Common"
+            ]
+        },
+        {
+            "internalName": "Empty Cell",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Empty Cell",
+            "temple": "Tech",
+            "rarity": "Common",
+            "cost": "Free",
+            "power": "0",
+            "health": "1",
+            "flavor": "Careful, the glass is thin.",
+            "token": "",
+            "sigils": [
+                "Sharp Quills"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Empty-Cell-fba7b82aa9284045b6766bded8e25bcb?pvs=23",
             "tags": [
                 "Tech",
                 "Common"
@@ -3004,27 +3004,6 @@
             ]
         },
         {
-            "internalName": "Copperhead",
-            "from": "Custom TCG Inscryption",
-            "displayName": "C0PP3RH34D",
-            "temple": "Tech",
-            "rarity": "Common",
-            "cost": "4 Energy",
-            "power": "1",
-            "health": "1",
-            "flavor": "Provides a violent shock to the system.",
-            "token": "",
-            "sigils": [
-                "Touch Of Death"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Copperhead-6afa42115381436cb22cb4f17f24c947?pvs=23",
-            "tags": [
-                "Tech",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Captive File",
             "from": "Custom TCG Inscryption",
             "displayName": "Captive File",
@@ -3041,6 +3020,27 @@
             ],
             "artist": "Pixel Profligate",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Captive-File-99ec72f0801f447ca9817d03571718b0?pvs=23",
+            "tags": [
+                "Tech",
+                "Common"
+            ]
+        },
+        {
+            "internalName": "Copperhead",
+            "from": "Custom TCG Inscryption",
+            "displayName": "C0PP3RH34D",
+            "temple": "Tech",
+            "rarity": "Common",
+            "cost": "4 Energy",
+            "power": "1",
+            "health": "1",
+            "flavor": "Provides a violent shock to the system.",
+            "token": "",
+            "sigils": [
+                "Touch Of Death"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Copperhead-6afa42115381436cb22cb4f17f24c947?pvs=23",
             "tags": [
                 "Tech",
                 "Common"
@@ -3131,27 +3131,6 @@
             ]
         },
         {
-            "internalName": "Sonar",
-            "from": "Custom TCG Inscryption",
-            "displayName": "50-nar",
-            "temple": "Tech",
-            "rarity": "Common",
-            "cost": "4 energy",
-            "power": "2",
-            "health": "1",
-            "flavor": "A meddlesome little drone.",
-            "token": "",
-            "sigils": [
-                "Airborne"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Sonar-ba774a3d56ea4209974f050a298f6fae?pvs=23",
-            "tags": [
-                "Tech",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Amoebot",
             "from": "Custom TCG Inscryption",
             "displayName": "Amoebot",
@@ -3173,6 +3152,27 @@
             ]
         },
         {
+            "internalName": "Sonar",
+            "from": "Custom TCG Inscryption",
+            "displayName": "50-nar",
+            "temple": "Tech",
+            "rarity": "Common",
+            "cost": "4 energy",
+            "power": "2",
+            "health": "1",
+            "flavor": "A meddlesome little drone.",
+            "token": "",
+            "sigils": [
+                "Airborne"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Sonar-ba774a3d56ea4209974f050a298f6fae?pvs=23",
+            "tags": [
+                "Tech",
+                "Common"
+            ]
+        },
+        {
             "internalName": "49er",
             "from": "Custom TCG Inscryption",
             "displayName": "49er",
@@ -3188,28 +3188,6 @@
             ],
             "artist": "Pixel Profligate",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/49er-c6d7f1bf3df34245be3585b7ca034b25?pvs=23",
-            "tags": [
-                "Tech",
-                "Common"
-            ]
-        },
-        {
-            "internalName": "Observer",
-            "from": "Custom TCG Inscryption",
-            "displayName": "0BS3RV3R",
-            "temple": "Tech",
-            "rarity": "Common",
-            "cost": "6 Energy",
-            "power": "2",
-            "health": "4",
-            "flavor": "Sees all it can, where it can.",
-            "token": "",
-            "sigils": [
-                "Sniper",
-                "Battery Breaker"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Observer-71ff9b94445b4606ae75848befe8b3b0?pvs=23",
             "tags": [
                 "Tech",
                 "Common"
@@ -3237,6 +3215,28 @@
             ]
         },
         {
+            "internalName": "Observer",
+            "from": "Custom TCG Inscryption",
+            "displayName": "0BS3RV3R",
+            "temple": "Tech",
+            "rarity": "Common",
+            "cost": "6 Energy",
+            "power": "2",
+            "health": "4",
+            "flavor": "Sees all it can, where it can.",
+            "token": "",
+            "sigils": [
+                "Sniper",
+                "Battery Breaker"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Observer-71ff9b94445b4606ae75848befe8b3b0?pvs=23",
+            "tags": [
+                "Tech",
+                "Common"
+            ]
+        },
+        {
             "internalName": "Stasis Mage",
             "from": "Custom TCG Inscryption",
             "displayName": "Stasis Mage",
@@ -3253,27 +3253,6 @@
             ],
             "artist": "Pixel Profligate",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Stasis-Mage-7b19563c13794edabfeca2c9715533b5?pvs=23",
-            "tags": [
-                "Magick",
-                "Common"
-            ]
-        },
-        {
-            "internalName": "Spell Slinger",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Spell Slinger",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "cost": "1 Prism Gem",
-            "power": "1",
-            "health": "1",
-            "flavor": "Adept at casting from a distance.",
-            "token": "",
-            "sigils": [
-                "Sniper"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Spell-Slinger-32c2d08860af4eb4a75e966e6a7eaf05?pvs=23",
             "tags": [
                 "Magick",
                 "Common"
@@ -3301,6 +3280,27 @@
             ]
         },
         {
+            "internalName": "Soothsayer",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Soothsayer",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "cost": "2 Sapphire Gems",
+            "power": "0",
+            "health": "1",
+            "flavor": "They see the future, but not much else.",
+            "token": "",
+            "sigils": [
+                "Divination"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Soothsayer-eb6a80c29f35478d911a670433baf0d7?pvs=23",
+            "tags": [
+                "Magick",
+                "Common"
+            ]
+        },
+        {
             "internalName": "Slime Mage",
             "from": "Custom TCG Inscryption",
             "displayName": "Slime Mage",
@@ -3322,21 +3322,21 @@
             ]
         },
         {
-            "internalName": "Soothsayer",
+            "internalName": "Spell Slinger",
             "from": "Custom TCG Inscryption",
-            "displayName": "Soothsayer",
+            "displayName": "Spell Slinger",
             "temple": "Magicks",
             "rarity": "Common",
-            "cost": "2 Sapphire Gems",
-            "power": "0",
+            "cost": "1 Prism Gem",
+            "power": "1",
             "health": "1",
-            "flavor": "They see the future, but not much else.",
+            "flavor": "Adept at casting from a distance.",
             "token": "",
             "sigils": [
-                "Divination"
+                "Sniper"
             ],
             "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Soothsayer-eb6a80c29f35478d911a670433baf0d7?pvs=23",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Spell-Slinger-32c2d08860af4eb4a75e966e6a7eaf05?pvs=23",
             "tags": [
                 "Magick",
                 "Common"
@@ -3688,6 +3688,27 @@
             ]
         },
         {
+            "internalName": "Master Goranj",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Master Goranj",
+            "temple": "Magicks",
+            "rarity": "Rare",
+            "cost": "1 Emerald Gem, 1 Ruby Gem",
+            "power": "3",
+            "health": "6",
+            "flavor": "Admittedly, more brute than wizard.",
+            "token": "",
+            "sigils": [
+                "Gem Dependant"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Master-Gornaj-0d22d628cb2e43b483e00e1cb0ba2210?pvs=23",
+            "tags": [
+                "Magick",
+                "Rare"
+            ]
+        },
+        {
             "internalName": "Master Bleene",
             "from": "Custom TCG Inscryption",
             "displayName": "Master Bleene",
@@ -3709,24 +3730,24 @@
             ]
         },
         {
-            "internalName": "Master Goranj",
+            "internalName": "Mage Pupil",
             "from": "Custom TCG Inscryption",
-            "displayName": "Master Goranj",
+            "displayName": "Mage Pupil",
             "temple": "Magicks",
-            "rarity": "Rare",
-            "cost": "1 Emerald Gem, 1 Ruby Gem",
-            "power": "3",
-            "health": "6",
-            "flavor": "Admittedly, more brute than wizard.",
+            "rarity": "Common",
+            "cost": "Free",
+            "power": "1",
+            "health": "1",
+            "flavor": "New to magic, but excited regardless.",
             "token": "",
             "sigils": [
                 "Gem Dependant"
             ],
             "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Master-Gornaj-0d22d628cb2e43b483e00e1cb0ba2210?pvs=23",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Mage-Pupil-cd3855f348214cd0a36ecfb531ac9bec?pvs=23",
             "tags": [
                 "Magick",
-                "Rare"
+                "Common"
             ]
         },
         {
@@ -3812,27 +3833,6 @@
             "tags": [
                 "Magick",
                 "Talking"
-            ]
-        },
-        {
-            "internalName": "Mage Pupil",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Mage Pupil",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "cost": "Free",
-            "power": "1",
-            "health": "1",
-            "flavor": "New to magic, but excited regardless.",
-            "token": "",
-            "sigils": [
-                "Gem Dependant"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Mage-Pupil-cd3855f348214cd0a36ecfb531ac9bec?pvs=23",
-            "tags": [
-                "Magick",
-                "Common"
             ]
         },
         {
@@ -3922,6 +3922,27 @@
             ]
         },
         {
+            "internalName": "Hover Mage",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Hover Mage",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "cost": "1 Sapphire Gem",
+            "power": "1",
+            "health": "1",
+            "flavor": "Flight is challenging but useful.",
+            "token": "",
+            "sigils": [
+                "Airborne"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Hover-Mage-9aa1017a83e14a9ba8f6d492955b9136?pvs=23",
+            "tags": [
+                "Magick",
+                "Common"
+            ]
+        },
+        {
             "internalName": "Iron Maiden",
             "from": "Custom TCG Inscryption",
             "displayName": "Iron Maiden",
@@ -3938,27 +3959,6 @@
             ],
             "artist": "Pixel Profligate",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Iron-Maiden-fc7166c1767f44ed8986f6e73de2b2e3?pvs=23",
-            "tags": [
-                "Magick",
-                "Common"
-            ]
-        },
-        {
-            "internalName": "Hover Mage",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Hover Mage",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "cost": "1 Sapphire Gem",
-            "power": "1",
-            "health": "1",
-            "flavor": "Flight is challenging but useful.",
-            "token": "",
-            "sigils": [
-                "Airborne"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Hover-Mage-9aa1017a83e14a9ba8f6d492955b9136?pvs=23",
             "tags": [
                 "Magick",
                 "Common"
@@ -4221,28 +4221,6 @@
             ]
         },
         {
-            "internalName": "Emerald Mox",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Emerald Mox",
-            "temple": "Magicks",
-            "rarity": "Side-Deck",
-            "cost": "Free",
-            "power": "0",
-            "health": "1",
-            "flavor": "A conduit for emerald magicks.",
-            "token": "",
-            "sigils": [
-                "Green Gem",
-                "Bloodless"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Emerald-Mox-b78224d73b6a4e77b7be0a92194d70fa?pvs=23",
-            "tags": [
-                "Magick",
-                "Side-Deck"
-            ]
-        },
-        {
             "internalName": "Dizzy Mage",
             "from": "Custom TCG Inscryption",
             "displayName": "Dizzy Mage",
@@ -4304,6 +4282,28 @@
             "tags": [
                 "Magick",
                 "Rare"
+            ]
+        },
+        {
+            "internalName": "Emerald Mox",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Emerald Mox",
+            "temple": "Magicks",
+            "rarity": "Side-Deck",
+            "cost": "Free",
+            "power": "0",
+            "health": "1",
+            "flavor": "A conduit for emerald magicks.",
+            "token": "",
+            "sigils": [
+                "Green Gem",
+                "Bloodless"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/inscryption-pvp-wiki/Emerald-Mox-b78224d73b6a4e77b7be0a92194d70fa?pvs=23",
+            "tags": [
+                "Magick",
+                "Side-Deck"
             ]
         },
         {
@@ -4457,6 +4457,26 @@
             ]
         },
         {
+            "internalName": "Wolf",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Wolf",
+            "temple": "Beast",
+            "rarity": "Common",
+            "cost": "2 Blood",
+            "power": "3",
+            "health": "2",
+            "flavor": "A proud, and vicious, contender.",
+            "token": "",
+            "sigils": [
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Wolf-f126c54eb4184dfc985d5514b4549556?pvs=23",
+            "tags": [
+                "Beast",
+                "Common"
+            ]
+        },
+        {
             "internalName": "Wild Mutt",
             "from": "Custom TCG Inscryption",
             "displayName": "Wild Mutt",
@@ -4478,26 +4498,6 @@
             ]
         },
         {
-            "internalName": "Wolf",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Wolf",
-            "temple": "Beast",
-            "rarity": "Common",
-            "cost": "2 Blood",
-            "power": "3",
-            "health": "2",
-            "flavor": "A proud, and vicious, contender.",
-            "token": "",
-            "sigils": [
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Wolf-f126c54eb4184dfc985d5514b4549556?pvs=23",
-            "tags": [
-                "Beast",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Wild Bull",
             "from": "Custom TCG Inscryption",
             "displayName": "Wild Bull",
@@ -4513,27 +4513,6 @@
             ],
             "artist": "Pixel Profligate",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Wild-Bull-ae85e0f416df43d1b6e2e81d368a0065?pvs=23",
-            "tags": [
-                "Beast",
-                "Common"
-            ]
-        },
-        {
-            "internalName": "Warren",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Warren",
-            "temple": "Beast",
-            "rarity": "Common",
-            "cost": "1 Blood",
-            "power": "0",
-            "health": "2",
-            "flavor": "A bountiful pit of hares.",
-            "token": "",
-            "sigils": [
-                "Rabbit Hole"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Warren-51a3992d0402470287b892e44cc947a4?pvs=23",
             "tags": [
                 "Beast",
                 "Common"
@@ -4559,6 +4538,27 @@
             "tags": [
                 "Beast",
                 "Rare"
+            ]
+        },
+        {
+            "internalName": "Warren",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Warren",
+            "temple": "Beast",
+            "rarity": "Common",
+            "cost": "1 Blood",
+            "power": "0",
+            "health": "2",
+            "flavor": "A bountiful pit of hares.",
+            "token": "",
+            "sigils": [
+                "Rabbit Hole"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Warren-51a3992d0402470287b892e44cc947a4?pvs=23",
+            "tags": [
+                "Beast",
+                "Common"
             ]
         },
         {
@@ -4775,24 +4775,23 @@
             ]
         },
         {
-            "internalName": "Stinkbug",
+            "internalName": "Stoat",
             "from": "Custom TCG Inscryption",
-            "displayName": "Stinkbug",
+            "displayName": "Stoat",
             "temple": "Beast",
-            "rarity": "Talking",
-            "cost": "2 Bones",
+            "rarity": "Common",
+            "cost": "1 Blood",
             "power": "1",
             "health": "2",
-            "flavor": "Salutations, a lucky draw.",
+            "flavor": "A lowly, but ever noble creature.",
             "token": "",
             "sigils": [
-                "Stinky"
             ],
             "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Stinkbug-48dd8522fcb645c2a341746a0d1bc38d?pvs=23",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Stoat-931925e8e2c84cbfac6825b811e7f709?pvs=23",
             "tags": [
                 "Beast",
-                "Talking"
+                "Common"
             ]
         },
         {
@@ -4817,23 +4816,24 @@
             ]
         },
         {
-            "internalName": "Stoat",
+            "internalName": "Stinkbug",
             "from": "Custom TCG Inscryption",
-            "displayName": "Stoat",
+            "displayName": "Stinkbug",
             "temple": "Beast",
-            "rarity": "Common",
-            "cost": "1 Blood",
+            "rarity": "Talking",
+            "cost": "2 Bones",
             "power": "1",
             "health": "2",
-            "flavor": "A lowly, but ever noble creature.",
+            "flavor": "Salutations, a lucky draw.",
             "token": "",
             "sigils": [
+                "Stinky"
             ],
             "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Stoat-931925e8e2c84cbfac6825b811e7f709?pvs=23",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Stinkbug-48dd8522fcb645c2a341746a0d1bc38d?pvs=23",
             "tags": [
                 "Beast",
-                "Common"
+                "Talking"
             ]
         },
         {
@@ -4921,27 +4921,6 @@
             ]
         },
         {
-            "internalName": "Salamander",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Salamander",
-            "temple": "Beast",
-            "rarity": "Common",
-            "cost": "1 Blood",
-            "power": "0",
-            "health": "3",
-            "flavor": "Careful, Just a touch can be deadly.",
-            "token": "",
-            "sigils": [
-                "Death Veil"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Salamander-b26c18cfd0b4413abcf5ecdf1a946573?pvs=23",
-            "tags": [
-                "Beast",
-                "Common"
-            ]
-        },
-        {
             "internalName": "River Snapper",
             "from": "Custom TCG Inscryption",
             "displayName": "River Snapper",
@@ -4963,21 +4942,21 @@
             ]
         },
         {
-            "internalName": "River Otter",
+            "internalName": "Salamander",
             "from": "Custom TCG Inscryption",
-            "displayName": "River Otter",
+            "displayName": "Salamander",
             "temple": "Beast",
             "rarity": "Common",
             "cost": "1 Blood",
-            "power": "1",
-            "health": "1",
-            "flavor": "Elusive, but not very menacing.",
+            "power": "0",
+            "health": "3",
+            "flavor": "Careful, Just a touch can be deadly.",
             "token": "",
             "sigils": [
-                "Waterborne"
+                "Death Veil"
             ],
             "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/River-Otter-862d689d539e43b2a3f3728b6508e73b?pvs=23",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Salamander-b26c18cfd0b4413abcf5ecdf1a946573?pvs=23",
             "tags": [
                 "Beast",
                 "Common"
@@ -5004,22 +4983,21 @@
             ]
         },
         {
-            "internalName": "Red Herring",
+            "internalName": "River Otter",
             "from": "Custom TCG Inscryption",
-            "displayName": "Red Herring",
+            "displayName": "River Otter",
             "temple": "Beast",
             "rarity": "Common",
-            "cost": "1 Bone",
+            "cost": "1 Blood",
             "power": "1",
             "health": "1",
-            "flavor": "They all go for it, every time.",
+            "flavor": "Elusive, but not very menacing.",
             "token": "",
             "sigils": [
-                "Waterborne",
-                "Easy Target"
+                "Waterborne"
             ],
             "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Red-Herring-9233673c649943d693e2dd63cade5ece?pvs=23",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/River-Otter-862d689d539e43b2a3f3728b6508e73b?pvs=23",
             "tags": [
                 "Beast",
                 "Common"
@@ -5048,21 +5026,22 @@
             ]
         },
         {
-            "internalName": "Raven Egg",
+            "internalName": "Red Herring",
             "from": "Custom TCG Inscryption",
-            "displayName": "Raven Egg",
+            "displayName": "Red Herring",
             "temple": "Beast",
             "rarity": "Common",
-            "cost": "1 Blood",
-            "power": "0",
-            "health": "2",
-            "flavor": "No less conniving in incubation.",
-            "token": "Raven",
+            "cost": "1 Bone",
+            "power": "1",
+            "health": "1",
+            "flavor": "They all go for it, every time.",
+            "token": "",
             "sigils": [
-                "Fledgling"
+                "Waterborne",
+                "Easy Target"
             ],
             "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Raven-Egg-e193ea45aa4e475688414547f41dea04?pvs=23",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Red-Herring-9233673c649943d693e2dd63cade5ece?pvs=23",
             "tags": [
                 "Beast",
                 "Common"
@@ -5084,6 +5063,27 @@
             ],
             "artist": "Pixel Profligate",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Raven-22aac6bb043f40a6b45660b01fb58fb6?pvs=23",
+            "tags": [
+                "Beast",
+                "Common"
+            ]
+        },
+        {
+            "internalName": "Raven Egg",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Raven Egg",
+            "temple": "Beast",
+            "rarity": "Common",
+            "cost": "1 Blood",
+            "power": "0",
+            "health": "2",
+            "flavor": "No less conniving in incubation.",
+            "token": "Raven",
+            "sigils": [
+                "Fledgling"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Raven-Egg-e193ea45aa4e475688414547f41dea04?pvs=23",
             "tags": [
                 "Beast",
                 "Common"
@@ -5132,6 +5132,26 @@
             ]
         },
         {
+            "internalName": "Rabbit",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Rabbit",
+            "temple": "Beast",
+            "rarity": "Common",
+            "cost": "Free",
+            "power": "0",
+            "health": "1",
+            "flavor": "What purpose could it serve?",
+            "token": "",
+            "sigils": [
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Rabbit-cad79bd66bb5404bbdd33e6d342853d8?pvs=23",
+            "tags": [
+                "Beast",
+                "Common"
+            ]
+        },
+        {
             "internalName": "Raccoon",
             "from": "Custom TCG Inscryption",
             "displayName": "Raccoon",
@@ -5147,26 +5167,6 @@
             ],
             "artist": "Pixel Profligate",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Raccoon-aa10d08af5d446b2a8003e89422c48b2?pvs=23",
-            "tags": [
-                "Beast",
-                "Common"
-            ]
-        },
-        {
-            "internalName": "Rabbit",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Rabbit",
-            "temple": "Beast",
-            "rarity": "Common",
-            "cost": "Free",
-            "power": "0",
-            "health": "1",
-            "flavor": "What purpose could it serve?",
-            "token": "",
-            "sigils": [
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Rabbit-cad79bd66bb5404bbdd33e6d342853d8?pvs=23",
             "tags": [
                 "Beast",
                 "Common"
@@ -5325,6 +5325,26 @@
             ]
         },
         {
+            "internalName": "Opossum",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Opossum",
+            "temple": "Beast",
+            "rarity": "Common",
+            "cost": "2 Bones",
+            "power": "1",
+            "health": "1",
+            "flavor": "Resourceful, weak, but endearing.",
+            "token": "",
+            "sigils": [
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Opossum-f44d8277d5ab4987b6d2f892178ba93c?pvs=23",
+            "tags": [
+                "Beast",
+                "Common"
+            ]
+        },
+        {
             "internalName": "Mud Turtle",
             "from": "Custom TCG Inscryption",
             "displayName": "Mud Turtle",
@@ -5367,26 +5387,6 @@
             ]
         },
         {
-            "internalName": "Opossum",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Opossum",
-            "temple": "Beast",
-            "rarity": "Common",
-            "cost": "2 Bones",
-            "power": "1",
-            "health": "1",
-            "flavor": "Resourceful, weak, but endearing.",
-            "token": "",
-            "sigils": [
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Opossum-f44d8277d5ab4987b6d2f892178ba93c?pvs=23",
-            "tags": [
-                "Beast",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Moose Buck",
             "from": "Custom TCG Inscryption",
             "displayName": "Moose Buck",
@@ -5405,28 +5405,6 @@
             "tags": [
                 "Beast",
                 "Common"
-            ]
-        },
-        {
-            "internalName": "Mole Man",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Mole Man",
-            "temple": "Beast",
-            "rarity": "Rare",
-            "cost": "1 Blood",
-            "power": "0",
-            "health": "6",
-            "flavor": "An unyielding, ultimate defense.",
-            "token": "",
-            "sigils": [
-                "Burrower",
-                "Mighty Leap"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mole-Man-f321be74aa49478ebfbdbb483fba00d7?pvs=23",
-            "tags": [
-                "Beast",
-                "Rare"
             ]
         },
         {
@@ -5469,6 +5447,28 @@
             "tags": [
                 "Beast",
                 "Common"
+            ]
+        },
+        {
+            "internalName": "Mole Man",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Mole Man",
+            "temple": "Beast",
+            "rarity": "Rare",
+            "cost": "1 Blood",
+            "power": "0",
+            "health": "6",
+            "flavor": "An unyielding, ultimate defense.",
+            "token": "",
+            "sigils": [
+                "Burrower",
+                "Mighty Leap"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mole-Man-f321be74aa49478ebfbdbb483fba00d7?pvs=23",
+            "tags": [
+                "Beast",
+                "Rare"
             ]
         },
         {
@@ -5922,27 +5922,6 @@
             ]
         },
         {
-            "internalName": "Dung Beetle",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Dung Beetle",
-            "temple": "Beast",
-            "rarity": "Common",
-            "cost": "2 Bones",
-            "power": "0",
-            "health": "1",
-            "flavor": "Quite strong, despite its meager size.",
-            "token": "",
-            "sigils": [
-                "Hefty"
-            ],
-            "artist": "Pixel Profligate, Ixams",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Dung-Beetle-3ae08c6220ac46748ff999b6be076ed9",
-            "tags": [
-                "Beast",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Elk",
             "from": "Custom TCG Inscryption",
             "displayName": "Elk",
@@ -5964,21 +5943,21 @@
             ]
         },
         {
-            "internalName": "Direwolf",
+            "internalName": "Dung Beetle",
             "from": "Custom TCG Inscryption",
-            "displayName": "Direwolf",
+            "displayName": "Dung Beetle",
             "temple": "Beast",
             "rarity": "Common",
-            "cost": "3 Blood",
-            "power": "2",
-            "health": "3",
-            "flavor": "An unrelenting, terrifying canine.",
+            "cost": "2 Bones",
+            "power": "0",
+            "health": "1",
+            "flavor": "Quite strong, despite its meager size.",
             "token": "",
             "sigils": [
-                "Double Strike"
+                "Hefty"
             ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Direwolf-d1b9dc75d4084301ab5b2ff3b9a2daf9",
+            "artist": "Pixel Profligate, Ixams",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Dung-Beetle-3ae08c6220ac46748ff999b6be076ed9",
             "tags": [
                 "Beast",
                 "Common"
@@ -6007,22 +5986,21 @@
             ]
         },
         {
-            "internalName": "Cuckoo",
+            "internalName": "Direwolf",
             "from": "Custom TCG Inscryption",
-            "displayName": "Cuckoo",
+            "displayName": "Direwolf",
             "temple": "Beast",
             "rarity": "Common",
-            "cost": "1 Blood",
-            "power": "1",
-            "health": "1",
-            "flavor": "Unfortunately, not all eggs hatch.",
+            "cost": "3 Blood",
+            "power": "2",
+            "health": "3",
+            "flavor": "An unrelenting, terrifying canine.",
             "token": "",
             "sigils": [
-                "Airborne",
-                "Brood Parasite"
+                "Double Strike"
             ],
             "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Cuckoo-a6f557da95a84fdc87713d2bd79fe0a9",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Direwolf-d1b9dc75d4084301ab5b2ff3b9a2daf9",
             "tags": [
                 "Beast",
                 "Common"
@@ -6051,21 +6029,22 @@
             ]
         },
         {
-            "internalName": "Corpse Maggots",
+            "internalName": "Cuckoo",
             "from": "Custom TCG Inscryption",
-            "displayName": "Cormorant",
+            "displayName": "Cuckoo",
             "temple": "Beast",
             "rarity": "Common",
-            "cost": "5 Bones",
+            "cost": "1 Blood",
             "power": "1",
-            "health": "2",
-            "flavor": "Always inevitable, emerging from death.",
+            "health": "1",
+            "flavor": "Unfortunately, not all eggs hatch.",
             "token": "",
             "sigils": [
-                "Corpse Eater"
+                "Airborne",
+                "Brood Parasite"
             ],
             "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Corpse-Maggots-4c194467561445ef96fce627f0873752",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Cuckoo-a6f557da95a84fdc87713d2bd79fe0a9",
             "tags": [
                 "Beast",
                 "Common"
@@ -6092,25 +6071,24 @@
             ]
         },
         {
-            "internalName": "Cormorant",
+            "internalName": "Corpse Maggots",
             "from": "Custom TCG Inscryption",
             "displayName": "Cormorant",
             "temple": "Beast",
-            "rarity": "Talking",
-            "cost": "4 Bones",
-            "power": "2",
+            "rarity": "Common",
+            "cost": "5 Bones",
+            "power": "1",
             "health": "2",
-            "flavor": "You play. I fish.",
+            "flavor": "Always inevitable, emerging from death.",
             "token": "",
             "sigils": [
-                "Airborne",
-                "Aquanaut"
+                "Corpse Eater"
             ],
             "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Cormorant-f272771876df4008a2f6900293a7b308",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Corpse-Maggots-4c194467561445ef96fce627f0873752",
             "tags": [
                 "Beast",
-                "Talking"
+                "Common"
             ]
         },
         {
@@ -6132,6 +6110,28 @@
             "tags": [
                 "Beast",
                 "Common"
+            ]
+        },
+        {
+            "internalName": "Cormorant",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Cormorant",
+            "temple": "Beast",
+            "rarity": "Talking",
+            "cost": "4 Bones",
+            "power": "2",
+            "health": "2",
+            "flavor": "You play. I fish.",
+            "token": "",
+            "sigils": [
+                "Airborne",
+                "Aquanaut"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Cormorant-f272771876df4008a2f6900293a7b308",
+            "tags": [
+                "Beast",
+                "Talking"
             ]
         },
         {
@@ -6327,6 +6327,27 @@
             ]
         },
         {
+            "internalName": "Bee",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Bee",
+            "temple": "Beast",
+            "rarity": "Common",
+            "cost": "Free",
+            "power": "1",
+            "health": "1",
+            "flavor": "Unassuming, but determined Pest.",
+            "token": "",
+            "sigils": [
+                "Airborne"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Bee-463e56202d3f4de59570dfb3206288a1",
+            "tags": [
+                "Beast",
+                "Common"
+            ]
+        },
+        {
             "internalName": "Beaver",
             "from": "Custom TCG Inscryption",
             "displayName": "Beaver",
@@ -6349,27 +6370,6 @@
             ]
         },
         {
-            "internalName": "Bee",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Bee",
-            "temple": "Beast",
-            "rarity": "Common",
-            "cost": "Free",
-            "power": "1",
-            "health": "1",
-            "flavor": "Unassuming, but determined Pest.",
-            "token": "",
-            "sigils": [
-                "Airborne"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Bee-463e56202d3f4de59570dfb3206288a1",
-            "tags": [
-                "Beast",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Bat",
             "from": "Custom TCG Inscryption",
             "displayName": "Bat",
@@ -6385,6 +6385,27 @@
             ],
             "artist": "Pixel Profligate",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Bat-005151f56764431b85a5efdb182e9fda",
+            "tags": [
+                "Beast",
+                "Common"
+            ]
+        },
+        {
+            "internalName": "Axolotl",
+            "from": "Custom TCG Inscryption",
+            "displayName": "Axolotl",
+            "temple": "Beast",
+            "rarity": "Common",
+            "cost": "1 Blood",
+            "power": "1",
+            "health": "2",
+            "flavor": "A Friend Shaped Regenerator.",
+            "token": "",
+            "sigils": [
+                "Convalesce"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Axolotl-132938e1363c45779377a7c39af4c5a4",
             "tags": [
                 "Beast",
                 "Common"
@@ -6431,27 +6452,6 @@
             "tags": [
                 "Beast",
                 "Rare"
-            ]
-        },
-        {
-            "internalName": "Axolotl",
-            "from": "Custom TCG Inscryption",
-            "displayName": "Axolotl",
-            "temple": "Beast",
-            "rarity": "Common",
-            "cost": "1 Blood",
-            "power": "1",
-            "health": "2",
-            "flavor": "A Friend Shaped Regenerator.",
-            "token": "",
-            "sigils": [
-                "Convalesce"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Axolotl-132938e1363c45779377a7c39af4c5a4",
-            "tags": [
-                "Beast",
-                "Common"
             ]
         },
         {
