@@ -3,22 +3,28 @@
     "type": "Sigil",
     "items": [
         {
-            "internalName": "Unkillable",
-            "name": "Unkillable",
-            "description": "When this card perishes, it goes back to your hand instead of being discarded.",
-            "category": "Strange Oddities"
-        },
-        {
             "internalName": "Target Required",
             "name": "Target Required",
             "description": "This cards’ power is set to 0, when there is no card opposing it.",
             "category": "Attack Modification"
         },
         {
+            "internalName": "Unkillable",
+            "name": "Unkillable",
+            "description": "When this card perishes, it goes back to your hand instead of being discarded.",
+            "category": "Strange Oddities"
+        },
+        {
             "internalName": "Whimsical Healer",
             "name": "Whimsical Healer",
             "description": "During your end step, target 1 card on your side of the field, that card gains 1 health to a maximum of 5 health.",
             "category": "Blocking"
+        },
+        {
+            "internalName": "Inscrybe",
+            "name": "Inscrybe",
+            "description": "When a card is played opposite this card, the opponent selects 1 card from their hand. They discard that card, and the card opposite this one gains the discarded cards sigils until it perishes. Then this card perishes.",
+            "category": "Strange Oddities"
         },
         {
             "internalName": "Tarot Reading",
@@ -73,12 +79,6 @@
             "name": "Trifurcated Strike",
             "description": "This card attacks the lanes left and right of, as well as, the opposing space when it attacks.",
             "category": "Attack Modification"
-        },
-        {
-            "internalName": "Inscrybe",
-            "name": "Inscrybe",
-            "description": "When a card is played opposite this card, the opponent selects 1 card from their hand. They discard that card, and the card opposite this one gains the discarded cards sigils until it perishes. Then this card perishes.",
-            "category": "Strange Oddities"
         },
         {
             "internalName": "Touch Of Death",
@@ -147,16 +147,16 @@
             "category": "Attack Modification"
         },
         {
-            "internalName": "Skeleton Crew",
-            "name": "Skeleton Crew",
-            "description": "During your end step, this card moves to an adjacent empty lane. Search 1 “Skeleton” card from your side deck and play it in this card’s previous lane",
-            "category": "Movement"
-        },
-        {
             "internalName": "Snapshot",
             "name": "Snapshot",
             "description": "When this card is played, target 1 card on the field. Discard that card.",
             "category": "Strange Oddities"
+        },
+        {
+            "internalName": "Skeleton Crew",
+            "name": "Skeleton Crew",
+            "description": "During your end step, this card moves to an adjacent empty lane. Search 1 “Skeleton” card from your side deck and play it in this card’s previous lane",
+            "category": "Movement"
         },
         {
             "internalName": "Sharp Quills",
@@ -255,16 +255,16 @@
             "category": "Cost-Based"
         },
         {
-            "internalName": "Omnistrike",
-            "name": "Omnistrike",
-            "description": "This card attacks all opposing spaces when it attacks.",
-            "category": "Attack Modification"
-        },
-        {
             "internalName": "Orange Conduit",
             "name": "Orange Conduit",
             "description": "While this card is part of a circuit, it provides 1 Ruby Gem.",
             "category": "Conduit"
+        },
+        {
+            "internalName": "Omnistrike",
+            "name": "Omnistrike",
+            "description": "This card attacks all opposing spaces when it attacks.",
+            "category": "Attack Modification"
         },
         {
             "internalName": "Null Conduit",
@@ -309,12 +309,6 @@
             "category": "Strange Oddities"
         },
         {
-            "internalName": "Made Of Stone",
-            "name": "Made Of Stone",
-            "description": "This card is unaffected by the effects of Stinky and Touch of Death.",
-            "category": "Blocking"
-        },
-        {
             "internalName": "Looter",
             "name": "Looter",
             "description": "When this card deals damage directly, draw a card for each damage dealt by this card.",
@@ -327,22 +321,28 @@
             "category": "Draw Power"
         },
         {
+            "internalName": "Made Of Stone",
+            "name": "Made Of Stone",
+            "description": "This card is unaffected by the effects of Stinky and Touch of Death.",
+            "category": "Blocking"
+        },
+        {
             "internalName": "Insta-Bomber",
             "name": "Insta-Bomber",
             "description": "When this card is played, target 1 card on the field. That card takes 10 damage.",
             "category": "Strange Oddities"
         },
         {
-            "internalName": "Leader",
-            "name": "Leader",
-            "description": "While this card is on the field, increase the power of the cards left and right by 1.",
-            "category": "Attack Modification"
-        },
-        {
             "internalName": "Hopper",
             "name": "Hopper",
             "description": "During your end step, this card moves to any empty space on your side of the board.",
             "category": "Movement"
+        },
+        {
+            "internalName": "Leader",
+            "name": "Leader",
+            "description": "While this card is on the field, increase the power of the cards left and right by 1.",
+            "category": "Attack Modification"
         },
         {
             "internalName": "Hoarder",
@@ -369,22 +369,28 @@
             "category": "Conduit"
         },
         {
-            "internalName": "Haunter",
-            "name": "Haunter",
-            "description": "When this card perishes, select 1 card on your side of the field. That card gains all other sigils on this card.",
-            "category": "Strange Oddities"
-        },
-        {
             "internalName": "Handy",
             "name": "Handy",
             "description": "When this card is played, discard your hand, then draw a total of 4 cards from your deck and/or side deck.",
             "category": "Draw Power"
         },
         {
+            "internalName": "Haunter",
+            "name": "Haunter",
+            "description": "When this card perishes, select 1 card on your side of the field. That card gains all other sigils on this card.",
+            "category": "Strange Oddities"
+        },
+        {
             "internalName": "Guardian",
             "name": "Guardian",
             "description": "When an opposing card is played opposite of an empty space, this card moves to that space.",
             "category": "Blocking"
+        },
+        {
+            "internalName": "Grim Epitaph",
+            "name": "Grim Epitaph",
+            "description": "When this card is played, search your discard pile for 1 card and add it to your hand.",
+            "category": "Strange Oddities"
         },
         {
             "internalName": "Green Gem",
@@ -403,12 +409,6 @@
             "name": "Gravity",
             "description": "When this card is played, target 1 card on the opposing side of the field and move it to an empty space on your side of the field.",
             "category": "Movement"
-        },
-        {
-            "internalName": "Grim Epitaph",
-            "name": "Grim Epitaph",
-            "description": "When this card is played, search your discard pile for 1 card and add it to your hand.",
-            "category": "Strange Oddities"
         },
         {
             "internalName": "Grand Mox",
@@ -459,6 +459,12 @@
             "category": "Gem Based"
         },
         {
+            "internalName": "Frog Friend",
+            "name": "Frog Friend",
+            "description": "During your end step, this card moves to an adjacent empty lane. Search 1 “Frog” card from your deck and play it in this card’s previous lane.",
+            "category": "Movement"
+        },
+        {
             "internalName": "Frozen Away",
             "name": "Frozen Away",
             "description": "When this card perishes, search 1 “[Token]” from your deck and play it in this card’s place.",
@@ -469,12 +475,6 @@
             "name": "Fledgling",
             "description": "During your next play step after this card is played, it ages into a “[Token]”.",
             "category": "Blocking"
-        },
-        {
-            "internalName": "Frog Friend",
-            "name": "Frog Friend",
-            "description": "During your end step, this card moves to an adjacent empty lane. Search 1 “Frog” card from your deck and play it in this card’s previous lane.",
-            "category": "Movement"
         },
         {
             "internalName": "Fecundity",
@@ -501,16 +501,22 @@
             "category": "Activated Sigils"
         },
         {
-            "internalName": "Double Strike",
-            "name": "Double Strike",
-            "description": "This card attacks the opposing space twice when it attacks.",
-            "category": "Attack Modification"
+            "internalName": "Energy Conduit",
+            "name": "Energy Conduit",
+            "description": "While this card is part of a circuit, your energy does not deplete from its current level.",
+            "category": "Conduit"
         },
         {
             "internalName": "Double Death",
             "name": "Double Death",
             "description": "When this card is on the field, any cards that perish on your side of the field perish a second time.",
             "category": "Draw Power"
+        },
+        {
+            "internalName": "Double Strike",
+            "name": "Double Strike",
+            "description": "This card attacks the opposing space twice when it attacks.",
+            "category": "Attack Modification"
         },
         {
             "internalName": "Divination",
@@ -537,15 +543,15 @@
             "category": "Negative"
         },
         {
-            "internalName": "Dam Builder",
-            "name": "Dam Builder",
-            "description": "When this card is played, play a “Dam” card in adjacent empty lanes.",
-            "category": "Draw Power"
-        },
-        {
             "internalName": "Corpse Eater",
             "name": "Corpse Eater",
             "description": "When a card on your side of the field perishes by battle, this card is played in its place.",
+            "category": "Draw Power"
+        },
+        {
+            "internalName": "Dam Builder",
+            "name": "Dam Builder",
+            "description": "When this card is played, play a “Dam” card in adjacent empty lanes.",
             "category": "Draw Power"
         },
         {
@@ -577,12 +583,6 @@
             "name": "Brittle",
             "description": "During your end step, this card perishes.",
             "category": "Negative"
-        },
-        {
-            "internalName": "Energy Conduit",
-            "name": "Energy Conduit",
-            "description": "While this card is part of a circuit, your energy does not deplete from its current level.",
-            "category": "Conduit"
         },
         {
             "internalName": "Boneless",
@@ -687,16 +687,16 @@
             "category": "Blocking"
         },
         {
-            "internalName": "Armored",
-            "name": "Armored",
-            "description": "The first time this card would take damage, negate that damage.",
-            "category": "Blocking"
-        },
-        {
             "internalName": "Attack Conduit",
             "name": "Attack Conduit",
             "description": "While this card is part of a circuit, all cards inside the circuit gain 1 power.",
             "category": "Conduit"
+        },
+        {
+            "internalName": "Armored",
+            "name": "Armored",
+            "description": "The first time this card would take damage, negate that damage.",
+            "category": "Blocking"
         },
         {
             "internalName": "Aquanaut",
@@ -717,16 +717,16 @@
             "category": "Negative"
         },
         {
-            "internalName": "Amorphous",
-            "name": "Amorphous",
-            "description": "When this card is played, select 1 card from your discard pile. This card gains the selected cards’ sigils until it perishes.",
-            "category": "Strange Oddities"
-        },
-        {
             "internalName": "Airborne",
             "name": "Airborne",
             "description": "This card attacks the opponent directly instead of the opposing card.",
             "category": "Attack Modification"
+        },
+        {
+            "internalName": "Amorphous",
+            "name": "Amorphous",
+            "description": "When this card is played, select 1 card from your discard pile. This card gains the selected cards’ sigils until it perishes.",
+            "category": "Strange Oddities"
         }
     ]
 }
