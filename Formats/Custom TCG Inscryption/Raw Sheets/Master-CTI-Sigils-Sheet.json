@@ -15,16 +15,16 @@
             "category": "Strange Oddities"
         },
         {
-            "internalName": "Inscrybe",
-            "name": "Inscrybe",
-            "description": "When a card is played opposite this card, the opponent selects 1 card from their hand. They discard that card, and the card opposite this one gains the discarded cards sigils until it perishes. Then this card perishes.",
-            "category": "Strange Oddities"
-        },
-        {
             "internalName": "Whimsical Healer",
             "name": "Whimsical Healer",
             "description": "During your end step, target 1 card on your side of the field, that card gains 1 health to a maximum of 5 health.",
             "category": "Blocking"
+        },
+        {
+            "internalName": "Inscrybe",
+            "name": "Inscrybe",
+            "description": "When a card is played opposite this card, the opponent selects 1 card from their hand. They discard that card, and the card opposite this one gains the discarded cards sigils until it perishes. Then this card perishes.",
+            "category": "Strange Oddities"
         },
         {
             "internalName": "Tarot Reading",
@@ -165,22 +165,16 @@
             "category": "Blocking"
         },
         {
-            "internalName": "Sentry",
-            "name": "Sentry",
-            "description": "When a card is played, or moved opposite this card, this card deals the opposing card 1 damage.",
-            "category": "Blocking"
-        },
-        {
             "internalName": "Scavenger",
             "name": "Scavenger",
             "description": "While this card is on the field, when an opposing card perishes, you gain a bone.",
             "category": "Cost-Based"
         },
         {
-            "internalName": "Scattered Bones",
-            "name": "Scattered Bones",
-            "description": "This cards’ power is equal to half the number of unspent bones the owner has, rounded down and to a maximum of 5 power.",
-            "category": "Attack Modification"
+            "internalName": "Sentry",
+            "name": "Sentry",
+            "description": "When a card is played, or moved opposite this card, this card deals the opposing card 1 damage.",
+            "category": "Blocking"
         },
         {
             "internalName": "Ruby Heart",
@@ -189,15 +183,21 @@
             "category": "Gem Based"
         },
         {
-            "internalName": "Rooted",
-            "name": "Rooted",
-            "description": "This card cannot move from the space it is played in except by perishing.",
-            "category": "Blocking"
+            "internalName": "Scattered Bones",
+            "name": "Scattered Bones",
+            "description": "This cards’ power is equal to half the number of unspent bones the owner has, rounded down and to a maximum of 5 power.",
+            "category": "Attack Modification"
         },
         {
             "internalName": "Repulsive",
             "name": "Repulsive",
             "description": "If an opposing card would attack this card, negate that attack.",
+            "category": "Blocking"
+        },
+        {
+            "internalName": "Rooted",
+            "name": "Rooted",
+            "description": "This card cannot move from the space it is played in except by perishing.",
             "category": "Blocking"
         },
         {
@@ -243,22 +243,16 @@
             "category": "Strange Oddities"
         },
         {
-            "internalName": "Overclocked",
-            "name": "Overclocked",
-            "description": "This cards’ power becomes equal to the amount of energy spent during your play step the turn this card is played, to a maximum of 5 power.",
-            "category": "Attack Modification"
-        },
-        {
             "internalName": "Orange Gem",
             "name": "Orange Gem",
             "description": "While this card is on the field, it provides 1 Ruby Gem.",
             "category": "Cost-Based"
         },
         {
-            "internalName": "Orange Conduit",
-            "name": "Orange Conduit",
-            "description": "While this card is part of a circuit, it provides 1 Ruby Gem.",
-            "category": "Conduit"
+            "internalName": "Overclocked",
+            "name": "Overclocked",
+            "description": "This cards’ power becomes equal to the amount of energy spent during your play step the turn this card is played, to a maximum of 5 power.",
+            "category": "Attack Modification"
         },
         {
             "internalName": "Omnistrike",
@@ -267,9 +261,9 @@
             "category": "Attack Modification"
         },
         {
-            "internalName": "Null Conduit",
-            "name": "Null Conduit",
-            "description": "This card may complete a circuit, but provides no effect.",
+            "internalName": "Orange Conduit",
+            "name": "Orange Conduit",
+            "description": "While this card is part of a circuit, it provides 1 Ruby Gem.",
             "category": "Conduit"
         },
         {
@@ -279,16 +273,22 @@
             "category": "Cost-Based"
         },
         {
-            "internalName": "Mox Dropper",
-            "name": "Mox Dropper",
-            "description": "During your end step, this card moves to an adjacent lane. Search 1 “Mox” card from your side deck and play it in this cards space.",
-            "category": "Movement"
+            "internalName": "Null Conduit",
+            "name": "Null Conduit",
+            "description": "This card may complete a circuit, but provides no effect.",
+            "category": "Conduit"
         },
         {
             "internalName": "Mighty Leap",
             "name": "Mighty Leap",
             "description": "If the opposing card has the Airborne sigil, it attacks this card instead of attacking directly.",
             "category": "Blocking"
+        },
+        {
+            "internalName": "Mox Dropper",
+            "name": "Mox Dropper",
+            "description": "During your end step, this card moves to an adjacent lane. Search 1 “Mox” card from your side deck and play it in this cards space.",
+            "category": "Movement"
         },
         {
             "internalName": "Mental Gemnastics",
@@ -315,12 +315,6 @@
             "category": "Blocking"
         },
         {
-            "internalName": "Looter",
-            "name": "Looter",
-            "description": "When this card deals damage directly, draw a card for each damage dealt by this card.",
-            "category": "Draw Power"
-        },
-        {
             "internalName": "Loaded",
             "name": "Loaded",
             "description": "When this card perishes, draw a total of 3 cards from your deck and/or side deck.",
@@ -339,15 +333,15 @@
             "category": "Strange Oddities"
         },
         {
+            "internalName": "Looter",
+            "name": "Looter",
+            "description": "When this card deals damage directly, draw a card for each damage dealt by this card.",
+            "category": "Draw Power"
+        },
+        {
             "internalName": "Hopper",
             "name": "Hopper",
             "description": "During your end step, this card moves to any empty space on your side of the board.",
-            "category": "Movement"
-        },
-        {
-            "internalName": "Hefty",
-            "name": "Hefty",
-            "description": "During your end step, this card moves to an adjacent lane, moving cards in the way with it if possible.",
             "category": "Movement"
         },
         {
@@ -355,6 +349,12 @@
             "name": "Hoarder",
             "description": "When this card is played search any 1 card from your deck to your hand.",
             "category": "Draw Power"
+        },
+        {
+            "internalName": "Hefty",
+            "name": "Hefty",
+            "description": "During your end step, this card moves to an adjacent lane, moving cards in the way with it if possible.",
+            "category": "Movement"
         },
         {
             "internalName": "Hearty Offering",
@@ -375,10 +375,10 @@
             "category": "Strange Oddities"
         },
         {
-            "internalName": "Guardian",
-            "name": "Guardian",
-            "description": "When an opposing card is played opposite of an empty space, this card moves to that space.",
-            "category": "Blocking"
+            "internalName": "Handy",
+            "name": "Handy",
+            "description": "When this card is played, discard your hand, then draw a total of 4 cards from your deck and/or side deck.",
+            "category": "Draw Power"
         },
         {
             "internalName": "Grim Epitaph",
@@ -393,10 +393,10 @@
             "category": "Cost-Based"
         },
         {
-            "internalName": "Handy",
-            "name": "Handy",
-            "description": "When this card is played, discard your hand, then draw a total of 4 cards from your deck and/or side deck.",
-            "category": "Draw Power"
+            "internalName": "Guardian",
+            "name": "Guardian",
+            "description": "When an opposing card is played opposite of an empty space, this card moves to that space.",
+            "category": "Blocking"
         },
         {
             "internalName": "Green Conduit",
@@ -405,16 +405,16 @@
             "category": "Conduit"
         },
         {
-            "internalName": "Grand Mox",
-            "name": "Grand Mox",
-            "description": "While this card is on the field, 1 Ruby Gem, 1 Sapphire Gem, and 1 Emerald Gem.",
-            "category": "Cost-Based"
-        },
-        {
             "internalName": "Gravity",
             "name": "Gravity",
             "description": "When this card is played, target 1 card on the opposing side of the field and move it to an empty space on your side of the field.",
             "category": "Movement"
+        },
+        {
+            "internalName": "Grand Mox",
+            "name": "Grand Mox",
+            "description": "While this card is on the field, 1 Ruby Gem, 1 Sapphire Gem, and 1 Emerald Gem.",
+            "category": "Cost-Based"
         },
         {
             "internalName": "Gift Bearer",
@@ -435,28 +435,28 @@
             "category": "Gem Based"
         },
         {
-            "internalName": "Gem Guardian",
-            "name": "Gem Guardian",
-            "description": "While this card is on the field, any attacks targeting Mox cards on your side of the field are negated.",
-            "category": "Gem Based"
-        },
-        {
             "internalName": "Gem Dependant",
             "name": "Gem Dependant",
             "description": "If there are no gems on your side of the field, this card perishes.",
             "category": "Negative"
         },
         {
-            "internalName": "Gem Conduit",
-            "name": "Gem Conduit",
-            "description": "While this card is part of a circuit, it provides 1 Sapphire Gem, 1 Ruby Gem, and 1 Emerald Gem.",
-            "category": "Conduit"
+            "internalName": "Gem Guardian",
+            "name": "Gem Guardian",
+            "description": "While this card is on the field, any attacks targeting Mox cards on your side of the field are negated.",
+            "category": "Gem Based"
         },
         {
             "internalName": "Gem Animator",
             "name": "Gem Animator",
             "description": "While this card is on the field, all Mox cards on your side of the field gain 1 power.",
             "category": "Gem Based"
+        },
+        {
+            "internalName": "Gem Conduit",
+            "name": "Gem Conduit",
+            "description": "While this card is part of a circuit, it provides 1 Sapphire Gem, 1 Ruby Gem, and 1 Emerald Gem.",
+            "category": "Conduit"
         },
         {
             "internalName": "Frog Friend",
@@ -525,12 +525,6 @@
             "category": "Strange Oddities"
         },
         {
-            "internalName": "Disentomb",
-            "name": "Disentomb",
-            "description": "During your play step, you may pay 1 bone to search 1 Skeleton from your side deck to your hand.",
-            "category": "Activated Sigils"
-        },
-        {
             "internalName": "Detonator",
             "name": "Detonator",
             "description": "When this card perishes, adjacent and opposing cards are dealt 10 damage.",
@@ -541,6 +535,12 @@
             "name": "Defiler",
             "description": "When this card perishes, draw a card from your deck and discard it,",
             "category": "Negative"
+        },
+        {
+            "internalName": "Disentomb",
+            "name": "Disentomb",
+            "description": "During your play step, you may pay 1 bone to search 1 Skeleton from your side deck to your hand.",
+            "category": "Activated Sigils"
         },
         {
             "internalName": "Dam Builder",
@@ -573,16 +573,16 @@
             "category": "Blocking"
         },
         {
-            "internalName": "Brittle",
-            "name": "Brittle",
-            "description": "During your end step, this card perishes.",
-            "category": "Negative"
-        },
-        {
             "internalName": "Brood Parasite",
             "name": "Brood Parasite",
             "description": "When this card is played, play 1 “Broken Egg” card in the opposing space if that space is empty.",
             "category": "Draw Power"
+        },
+        {
+            "internalName": "Brittle",
+            "name": "Brittle",
+            "description": "During your end step, this card perishes.",
+            "category": "Negative"
         },
         {
             "internalName": "Boneless",
@@ -615,12 +615,6 @@
             "category": "Cost-Based"
         },
         {
-            "internalName": "Blue Conduit",
-            "name": "Blue Conduit",
-            "description": "When this card is part of a circuit, it provides 1 Sapphire Gem.",
-            "category": "Conduit"
-        },
-        {
             "internalName": "Bloodsucker",
             "name": "Bloodsucker",
             "description": "When this card damages the health of an opposing card, this card restores 1 health, to a maximum of 5 health.",
@@ -639,22 +633,28 @@
             "category": "Negative"
         },
         {
+            "internalName": "Blue Conduit",
+            "name": "Blue Conduit",
+            "description": "When this card is part of a circuit, it provides 1 Sapphire Gem.",
+            "category": "Conduit"
+        },
+        {
             "internalName": "Black Hole",
             "name": "Black Hole",
             "description": "During your opponents end step, if a card is opposing this card, that card perishes.",
             "category": "Blocking"
         },
         {
-            "internalName": "Bifurcated Strike",
-            "name": "Bifurcated Strike",
-            "description": "This card attacks only the lanes left and right of the opposing space when it attacks.",
-            "category": "Attack Modification"
-        },
-        {
             "internalName": "Bellist",
             "name": "Bellist",
             "description": "When this card is played, play a “Chime” card in adjacent empty lanes.",
             "category": "Draw Power"
+        },
+        {
+            "internalName": "Bifurcated Strike",
+            "name": "Bifurcated Strike",
+            "description": "This card attacks only the lanes left and right of the opposing space when it attacks.",
+            "category": "Attack Modification"
         },
         {
             "internalName": "Bell Ringer",
@@ -687,12 +687,6 @@
             "category": "Blocking"
         },
         {
-            "internalName": "Attack Conduit",
-            "name": "Attack Conduit",
-            "description": "While this card is part of a circuit, all cards inside the circuit gain 1 power.",
-            "category": "Conduit"
-        },
-        {
             "internalName": "Armored",
             "name": "Armored",
             "description": "The first time this card would take damage, negate that damage.",
@@ -703,6 +697,12 @@
             "name": "Aquanaut",
             "description": "If the opposing card has the Waterborne sigil, this card attacks it direct;y.",
             "category": "Attack Modification"
+        },
+        {
+            "internalName": "Attack Conduit",
+            "name": "Attack Conduit",
+            "description": "While this card is part of a circuit, all cards inside the circuit gain 1 power.",
+            "category": "Conduit"
         },
         {
             "internalName": "Ant Spawner",
