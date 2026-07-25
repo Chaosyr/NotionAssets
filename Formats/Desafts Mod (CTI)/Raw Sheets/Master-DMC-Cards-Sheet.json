@@ -75,54 +75,6 @@
             ]
         },
         {
-            "internalName": "Undead Cat",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Undead Cat",
-            "temple": "Undead",
-            "rarity": "Common",
-            "tribes": [
-            ]
-            "cost": "4 Blood",
-            "power": "3",
-            "health": "6",
-            "flavor": "Poor creature, how it has suffered.",
-            "token": "",
-            "sigils": [
-                "Unkillable"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Undead-Cat-886579aecedb4b43b42a05507ab6c67d?pvs=23",
-            "tags": [
-                "Undead",
-                "Common"
-            ]
-        },
-        {
-            "internalName": "Tomb Robber",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Tomb Robber",
-            "temple": "Undead",
-            "rarity": "Rare",
-            "tribes": [
-                "Skeletal"
-            ]
-            "cost": "3 Bones",
-            "power": "0",
-            "health": "2",
-            "flavor": "A little investment goes a long way.",
-            "token": "",
-            "sigils": [
-                "Disentomb"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Tomb-Robber-a2fe145b4ca245b3b22c854dcdf17f04?pvs=23",
-            "tags": [
-                "Undead",
-                "Rare",
-                "Skeletal"
-            ]
-        },
-        {
             "internalName": "Tombstone",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Tombstone",
@@ -141,6 +93,29 @@
             ],
             "artist": "",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Tombstone-355bd5fa5ddb46929fc1478d05e36cfa?pvs=23",
+            "tags": [
+                "Undead",
+                "Common"
+            ]
+        },
+        {
+            "internalName": "Undead Cat",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Undead Cat",
+            "temple": "Undead",
+            "rarity": "Common",
+            "tribes": [
+            ]
+            "cost": "4 Blood",
+            "power": "3",
+            "health": "6",
+            "flavor": "Poor creature, how it has suffered.",
+            "token": "",
+            "sigils": [
+                "Unkillable"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Undead-Cat-886579aecedb4b43b42a05507ab6c67d?pvs=23",
             "tags": [
                 "Undead",
                 "Common"
@@ -169,6 +144,31 @@
                 "Undead",
                 "Common",
                 "Fleshy"
+            ]
+        },
+        {
+            "internalName": "Tomb Robber",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Tomb Robber",
+            "temple": "Undead",
+            "rarity": "Rare",
+            "tribes": [
+                "Skeletal"
+            ]
+            "cost": "3 Bones",
+            "power": "0",
+            "health": "2",
+            "flavor": "A little investment goes a long way.",
+            "token": "",
+            "sigils": [
+                "Disentomb"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Tomb-Robber-a2fe145b4ca245b3b22c854dcdf17f04?pvs=23",
+            "tags": [
+                "Undead",
+                "Rare",
+                "Skeletal"
             ]
         },
         {
@@ -348,6 +348,31 @@
             ]
         },
         {
+            "internalName": "Skeleton Army",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Skeleton Army",
+            "temple": "Undead",
+            "rarity": "Common",
+            "tribes": [
+                "Skeletal"
+            ]
+            "cost": "7 Bones",
+            "power": "1",
+            "health": "2",
+            "flavor": "A horde of those who seek vengeance.",
+            "token": "",
+            "sigils": [
+                "Skeletal Horde"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Skeleton-Army-b2da7076546e4b2c92aa61898228f26a?pvs=23",
+            "tags": [
+                "Undead",
+                "Common",
+                "Skeletal"
+            ]
+        },
+        {
             "internalName": "Skeleton",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Skeleton",
@@ -371,24 +396,25 @@
             ]
         },
         {
-            "internalName": "Skeleton Army",
+            "internalName": "Skelemancer",
             "from": "Desaft’s Mod (CTI)",
-            "displayName": "Skeleton Army",
+            "displayName": "Skelemancer",
             "temple": "Undead",
             "rarity": "Common",
             "tribes": [
                 "Skeletal"
             ]
-            "cost": "7 Bones",
-            "power": "1",
+            "cost": "4 Bones",
+            "power": "0",
             "health": "2",
-            "flavor": "A horde of those who seek vengeance.",
+            "flavor": "Still training to raise dead properly.",
             "token": "",
             "sigils": [
-                "Skeletal Horde"
+                "Double Death (Skelemancer)",
+                "Fleeting"
             ],
             "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Skeleton-Army-b2da7076546e4b2c92aa61898228f26a?pvs=23",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Skelemancer-f4bb641915784fbcb06596f0adccef0b?pvs=23",
             "tags": [
                 "Undead",
                 "Common",
@@ -417,32 +443,6 @@
             "tags": [
                 "Undead",
                 "Common"
-            ]
-        },
-        {
-            "internalName": "Skelemancer",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Skelemancer",
-            "temple": "Undead",
-            "rarity": "Common",
-            "tribes": [
-                "Skeletal"
-            ]
-            "cost": "4 Bones",
-            "power": "0",
-            "health": "2",
-            "flavor": "Still training to raise dead properly.",
-            "token": "",
-            "sigils": [
-                "Double Death (Skelemancer)",
-                "Fleeting"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Skelemancer-f4bb641915784fbcb06596f0adccef0b?pvs=23",
-            "tags": [
-                "Undead",
-                "Common",
-                "Skeletal"
             ]
         },
         {
@@ -601,6 +601,32 @@
             ]
         },
         {
+            "internalName": "Patiant Zero",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Patiant Zero",
+            "temple": "Undead",
+            "rarity": "Common",
+            "tribes": [
+                "Insectoid"
+            ]
+            "cost": "5 Bones",
+            "power": "X",
+            "health": "1",
+            "flavor": "Isn’t nature just beautiful?",
+            "token": "",
+            "sigils": [
+                "Mycolony",
+                "Ant Eater"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Patiant-Zero-af995ba213684d2ea642982b59323c4c?pvs=23",
+            "tags": [
+                "Undead",
+                "Common",
+                "Insectoid"
+            ]
+        },
+        {
             "internalName": "Nosferatu",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Nosferatu",
@@ -647,32 +673,6 @@
                 "Undead",
                 "Rare",
                 "Skeletal"
-            ]
-        },
-        {
-            "internalName": "Patiant Zero",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Patiant Zero",
-            "temple": "Undead",
-            "rarity": "Common",
-            "tribes": [
-                "Insectoid"
-            ]
-            "cost": "5 Bones",
-            "power": "X",
-            "health": "1",
-            "flavor": "Isn’t nature just beautiful?",
-            "token": "",
-            "sigils": [
-                "Mycolony",
-                "Ant Eater"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Patiant-Zero-af995ba213684d2ea642982b59323c4c?pvs=23",
-            "tags": [
-                "Undead",
-                "Common",
-                "Insectoid"
             ]
         },
         {
@@ -1053,31 +1053,6 @@
             ]
         },
         {
-            "internalName": "Ghast",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Ghast",
-            "temple": "Undead",
-            "rarity": "Common",
-            "tribes": [
-                "Fleshy"
-            ]
-            "cost": "3 Bones",
-            "power": "1",
-            "health": "1",
-            "flavor": "A corpse left rotten and deformed.",
-            "token": "",
-            "sigils": [
-                "Stinky"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Ghast-2c1435bd046848c69e6810d695edbc59?pvs=23",
-            "tags": [
-                "Undead",
-                "Common",
-                "Fleshy"
-            ]
-        },
-        {
             "internalName": "Ghoul",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Ghoul",
@@ -1127,26 +1102,28 @@
             ]
         },
         {
-            "internalName": "Ectoplasm",
+            "internalName": "Ghast",
             "from": "Desaft’s Mod (CTI)",
-            "displayName": "Ectoplasm",
+            "displayName": "Ghast",
             "temple": "Undead",
             "rarity": "Common",
             "tribes": [
+                "Fleshy"
             ]
-            "cost": "5 Bones",
+            "cost": "3 Bones",
             "power": "1",
-            "health": "2",
-            "flavor": "Remains of a spirit, quick to expand.",
+            "health": "1",
+            "flavor": "A corpse left rotten and deformed.",
             "token": "",
             "sigils": [
-                "Fecundity"
+                "Stinky"
             ],
             "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Ectoplasm-c0c64ded48524797af977a12b9df5d29?pvs=23",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Ghast-2c1435bd046848c69e6810d695edbc59?pvs=23",
             "tags": [
                 "Undead",
-                "Common"
+                "Common",
+                "Fleshy"
             ]
         },
         {
@@ -1174,24 +1151,23 @@
             ]
         },
         {
-            "internalName": "Draugr",
+            "internalName": "Ectoplasm",
             "from": "Desaft’s Mod (CTI)",
-            "displayName": "Draugr",
+            "displayName": "Ectoplasm",
             "temple": "Undead",
             "rarity": "Common",
             "tribes": [
             ]
-            "cost": "1 Bone",
-            "power": "0",
-            "health": "1",
-            "flavor": "Frozen in time, waiting for freedom.",
+            "cost": "5 Bones",
+            "power": "1",
+            "health": "2",
+            "flavor": "Remains of a spirit, quick to expand.",
             "token": "",
             "sigils": [
-                "Frozen Away",
-                "Bloodless"
+                "Fecundity"
             ],
             "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Draugr-cf37c0b788aa4bcda74cc12bce337e27?pvs=23",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Ectoplasm-c0c64ded48524797af977a12b9df5d29?pvs=23",
             "tags": [
                 "Undead",
                 "Common"
@@ -1221,6 +1197,30 @@
                 "Undead",
                 "Rare",
                 "Spectral"
+            ]
+        },
+        {
+            "internalName": "Draugr",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Draugr",
+            "temple": "Undead",
+            "rarity": "Common",
+            "tribes": [
+            ]
+            "cost": "1 Bone",
+            "power": "0",
+            "health": "1",
+            "flavor": "Frozen in time, waiting for freedom.",
+            "token": "",
+            "sigils": [
+                "Frozen Away",
+                "Bloodless"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Draugr-cf37c0b788aa4bcda74cc12bce337e27?pvs=23",
+            "tags": [
+                "Undead",
+                "Common"
             ]
         },
         {
@@ -1527,31 +1527,6 @@
             ]
         },
         {
-            "internalName": "Bag’O’Bones",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Bag’O’Bones",
-            "temple": "Undead",
-            "rarity": "Talking",
-            "tribes": [
-                "Skeletal"
-            ]
-            "cost": "3 Bones",
-            "power": "1",
-            "health": "2",
-            "flavor": "Welp, guess it’s my turn.",
-            "token": "",
-            "sigils": [
-                "Looter"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Bag-O-Bones-372b58843a6a4d3c8228e6d11541070a?pvs=23",
-            "tags": [
-                "Undead",
-                "Talking",
-                "Skeletal"
-            ]
-        },
-        {
             "internalName": "Animator",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Animator",
@@ -1573,6 +1548,31 @@
             "tags": [
                 "Undead",
                 "Rare",
+                "Skeletal"
+            ]
+        },
+        {
+            "internalName": "Bag’O’Bones",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Bag’O’Bones",
+            "temple": "Undead",
+            "rarity": "Talking",
+            "tribes": [
+                "Skeletal"
+            ]
+            "cost": "3 Bones",
+            "power": "1",
+            "health": "2",
+            "flavor": "Welp, guess it’s my turn.",
+            "token": "",
+            "sigils": [
+                "Looter"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Bag-O-Bones-372b58843a6a4d3c8228e6d11541070a?pvs=23",
+            "tags": [
+                "Undead",
+                "Talking",
                 "Skeletal"
             ]
         },
@@ -1630,29 +1630,6 @@
             ]
         },
         {
-            "internalName": "Thick Droid",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Thick Droid",
-            "temple": "Technology",
-            "rarity": "Common",
-            "tribes": [
-            ]
-            "cost": "5 Energy",
-            "power": "1",
-            "health": "4",
-            "flavor": "It is just happy to be here, admittedly.",
-            "token": "",
-            "sigils": [
-                "Bastion"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Thick-Droid-43e614c745ce4aeab07009de7c58ac91?pvs=23",
-            "tags": [
-                "Technology",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Swapbot",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Swapbot",
@@ -1670,6 +1647,29 @@
             ],
             "artist": "",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Swapbot-2cf01737361a4bff8ba80dafba3948a2?pvs=23",
+            "tags": [
+                "Technology",
+                "Common"
+            ]
+        },
+        {
+            "internalName": "Thick Droid",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Thick Droid",
+            "temple": "Technology",
+            "rarity": "Common",
+            "tribes": [
+            ]
+            "cost": "5 Energy",
+            "power": "1",
+            "health": "4",
+            "flavor": "It is just happy to be here, admittedly.",
+            "token": "",
+            "sigils": [
+                "Bastion"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Thick-Droid-43e614c745ce4aeab07009de7c58ac91?pvs=23",
             "tags": [
                 "Technology",
                 "Common"
@@ -1772,6 +1772,32 @@
             ]
         },
         {
+            "internalName": "Splinter Cell",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Splinter Cell",
+            "temple": "Technology",
+            "rarity": "Common",
+            "tribes": [
+                "Cell"
+            ]
+            "cost": "3 Energy",
+            "power": "1",
+            "health": "2",
+            "flavor": "We couldn’t fit a fourth strike in there.",
+            "token": "",
+            "sigils": [
+                "Trifurcated When Powered",
+                "Unbuffable"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Splinter-Cell-8778e7f8633344e39dce3a1dadafc774?pvs=23",
+            "tags": [
+                "Technology",
+                "Common",
+                "Cell"
+            ]
+        },
+        {
             "internalName": "Sniper Bot",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Sniper Bot",
@@ -1820,55 +1846,28 @@
             ]
         },
         {
-            "internalName": "Shutterbug",
+            "internalName": "Shieldbot",
             "from": "Desaft’s Mod (CTI)",
-            "displayName": "Shutterbug",
-            "temple": "Technology",
-            "rarity": "Rare",
-            "tribes": [
-                "Security"
-            ]
-            "cost": "3 Energy, 3 Overcharge",
-            "power": "1",
-            "health": "1",
-            "flavor": "One photo to capture the rest of your life.",
-            "token": "",
-            "sigils": [
-                "Sentry",
-                "Touch Of Death"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Shutterbug-5527e7683dae457bbec6cd1922015515?pvs=23",
-            "tags": [
-                "Technology",
-                "Rare",
-                "Security"
-            ]
-        },
-        {
-            "internalName": "Splinter Cell",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Splinter Cell",
+            "displayName": "Shieldbot",
             "temple": "Technology",
             "rarity": "Common",
             "tribes": [
-                "Cell"
+                "Utility"
             ]
             "cost": "3 Energy",
             "power": "1",
-            "health": "2",
-            "flavor": "We couldn’t fit a fourth strike in there.",
+            "health": "1",
+            "flavor": "Surprisingly sturdy, given its size.",
             "token": "",
             "sigils": [
-                "Trifurcated When Powered",
-                "Unbuffable"
+                "Armored"
             ],
             "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Splinter-Cell-8778e7f8633344e39dce3a1dadafc774?pvs=23",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Shieldbot-e93f327ec2cf46edbcf7dfc1bdfa273c?pvs=23",
             "tags": [
                 "Technology",
                 "Common",
-                "Cell"
+                "Utility"
             ]
         },
         {
@@ -1897,31 +1896,6 @@
             ]
         },
         {
-            "internalName": "Shieldbot",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Shieldbot",
-            "temple": "Technology",
-            "rarity": "Common",
-            "tribes": [
-                "Utility"
-            ]
-            "cost": "3 Energy",
-            "power": "1",
-            "health": "1",
-            "flavor": "Surprisingly sturdy, given its size.",
-            "token": "",
-            "sigils": [
-                "Armored"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Shieldbot-e93f327ec2cf46edbcf7dfc1bdfa273c?pvs=23",
-            "tags": [
-                "Technology",
-                "Common",
-                "Utility"
-            ]
-        },
-        {
             "internalName": "Scrapdigger",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Scrapdigger",
@@ -1947,6 +1921,32 @@
                 "Common",
                 "Utility",
                 "Conduit"
+            ]
+        },
+        {
+            "internalName": "Shutterbug",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Shutterbug",
+            "temple": "Technology",
+            "rarity": "Rare",
+            "tribes": [
+                "Security"
+            ]
+            "cost": "3 Energy, 3 Overcharge",
+            "power": "1",
+            "health": "1",
+            "flavor": "One photo to capture the rest of your life.",
+            "token": "",
+            "sigils": [
+                "Sentry",
+                "Touch Of Death"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Shutterbug-5527e7683dae457bbec6cd1922015515?pvs=23",
+            "tags": [
+                "Technology",
+                "Rare",
+                "Security"
             ]
         },
         {
@@ -2260,6 +2260,29 @@
             ]
         },
         {
+            "internalName": "Null Conduit",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Null Conduit",
+            "temple": "Technology",
+            "rarity": "Side-Deck",
+            "tribes": [
+            ]
+            "cost": "1 Energy",
+            "power": "0",
+            "health": "1",
+            "flavor": "Transfers power, but not much else.",
+            "token": "",
+            "sigils": [
+                "Null Conduit"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Null-Conduit-84ce082966f741d3b9c8a5225c27d3ea?pvs=23",
+            "tags": [
+                "Technology",
+                "Side-Deck"
+            ]
+        },
+        {
             "internalName": "Nanoarmor Conduit",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Nanoarmor Conduit",
@@ -2282,29 +2305,6 @@
                 "Technology",
                 "Common",
                 "Conduit"
-            ]
-        },
-        {
-            "internalName": "Null Conduit",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Null Conduit",
-            "temple": "Technology",
-            "rarity": "Side-Deck",
-            "tribes": [
-            ]
-            "cost": "1 Energy",
-            "power": "0",
-            "health": "1",
-            "flavor": "Transfers power, but not much else.",
-            "token": "",
-            "sigils": [
-                "Null Conduit"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Null-Conduit-84ce082966f741d3b9c8a5225c27d3ea?pvs=23",
-            "tags": [
-                "Technology",
-                "Side-Deck"
             ]
         },
         {
@@ -2360,33 +2360,6 @@
             ]
         },
         {
-            "internalName": "Mox Module (BGO)",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Mox Module",
-            "temple": "Technology",
-            "rarity": "Rare",
-            "tribes": [
-                "Gem",
-                "Utility"
-            ]
-            "cost": "6 Energy, 3 Overcharge",
-            "power": "0",
-            "health": "3",
-            "flavor": "Its grimy, but the gems work regardless.",
-            "token": "",
-            "sigils": [
-                "Grand Mox"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mox-Module-BGO-3c3471d613094e6c92fb63629b777c31?pvs=23",
-            "tags": [
-                "Technology",
-                "Rare",
-                "Gem",
-                "Utility"
-            ]
-        },
-        {
             "internalName": "Mispr’s Vessel",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Mispr’s Vessel",
@@ -2411,6 +2384,33 @@
                 "Rare",
                 "Gem",
                 "Conduit"
+            ]
+        },
+        {
+            "internalName": "Mox Module (BGO)",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Mox Module",
+            "temple": "Technology",
+            "rarity": "Rare",
+            "tribes": [
+                "Gem",
+                "Utility"
+            ]
+            "cost": "6 Energy, 3 Overcharge",
+            "power": "0",
+            "health": "3",
+            "flavor": "Its grimy, but the gems work regardless.",
+            "token": "",
+            "sigils": [
+                "Grand Mox"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mox-Module-BGO-3c3471d613094e6c92fb63629b777c31?pvs=23",
+            "tags": [
+                "Technology",
+                "Rare",
+                "Gem",
+                "Utility"
             ]
         },
         {
@@ -3202,6 +3202,33 @@
             ]
         },
         {
+            "internalName": "Bolthound",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Bolthound",
+            "temple": "Technology",
+            "rarity": "Common",
+            "tribes": [
+                "Canine",
+                "Security"
+            ]
+            "cost": "5 Energy",
+            "power": "2",
+            "health": "3",
+            "flavor": "A vicious and protective bucket of bolts.",
+            "token": "",
+            "sigils": [
+                "Guardian"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Bolthound-877aad7e9020437684a067e1a815d890?pvs=23",
+            "tags": [
+                "Technology",
+                "Common",
+                "Canine",
+                "Security"
+            ]
+        },
+        {
             "internalName": "Blood Bank",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Blood Bank",
@@ -3277,33 +3304,6 @@
             ]
         },
         {
-            "internalName": "Bolthound",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Bolthound",
-            "temple": "Technology",
-            "rarity": "Common",
-            "tribes": [
-                "Canine",
-                "Security"
-            ]
-            "cost": "5 Energy",
-            "power": "2",
-            "health": "3",
-            "flavor": "A vicious and protective bucket of bolts.",
-            "token": "",
-            "sigils": [
-                "Guardian"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Bolthound-877aad7e9020437684a067e1a815d890?pvs=23",
-            "tags": [
-                "Technology",
-                "Common",
-                "Canine",
-                "Security"
-            ]
-        },
-        {
             "internalName": "Belle’s Vessel",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Belle’s Vessel",
@@ -3328,6 +3328,31 @@
                 "Rare",
                 "Gem",
                 "Conduit"
+            ]
+        },
+        {
+            "internalName": "Automaton",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Automaton",
+            "temple": "Technology",
+            "rarity": "Common",
+            "tribes": [
+                "Utility"
+            ]
+            "cost": "3 Energy",
+            "power": "1",
+            "health": "2",
+            "flavor": "The most basic in function and form.",
+            "token": "",
+            "sigils": [
+                "Made Of Stone"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Automaton-98e9bfca047c4ce590ab3e5e93c5c9b3?pvs=23",
+            "tags": [
+                "Magick",
+                "Common",
+                "Utility"
             ]
         },
         {
@@ -3427,31 +3452,6 @@
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/49er-e52cfb4aff3f4b1f9f9931761414f426?pvs=23",
             "tags": [
                 "Technology",
-                "Common",
-                "Utility"
-            ]
-        },
-        {
-            "internalName": "Automaton",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Automaton",
-            "temple": "Technology",
-            "rarity": "Common",
-            "tribes": [
-                "Utility"
-            ]
-            "cost": "3 Energy",
-            "power": "1",
-            "health": "2",
-            "flavor": "The most basic in function and form.",
-            "token": "",
-            "sigils": [
-                "Made Of Stone"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Automaton-98e9bfca047c4ce590ab3e5e93c5c9b3?pvs=23",
-            "tags": [
-                "Magick",
                 "Common",
                 "Utility"
             ]
@@ -3658,31 +3658,6 @@
             ]
         },
         {
-            "internalName": "Ticked Mage",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Ticked Mage",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "tribes": [
-                "Guardian"
-            ]
-            "cost": "2 Garnet Gems",
-            "power": "2",
-            "health": "4",
-            "flavor": "A mage with a temper.",
-            "token": "",
-            "sigils": [
-                "Gem Dependant"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Ticked-Mage-b4f2a21816c242b48b15a369a4951123?pvs=23",
-            "tags": [
-                "Magick",
-                "Common",
-                "Guardian"
-            ]
-        },
-        {
             "internalName": "Telekinetic",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Telekenetic",
@@ -3705,6 +3680,31 @@
                 "Magick",
                 "Common",
                 "Scholar"
+            ]
+        },
+        {
+            "internalName": "Ticked Mage",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Ticked Mage",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "tribes": [
+                "Guardian"
+            ]
+            "cost": "2 Garnet Gems",
+            "power": "2",
+            "health": "4",
+            "flavor": "A mage with a temper.",
+            "token": "",
+            "sigils": [
+                "Gem Dependant"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Ticked-Mage-b4f2a21816c242b48b15a369a4951123?pvs=23",
+            "tags": [
+                "Magick",
+                "Common",
+                "Guardian"
             ]
         },
         {
@@ -3926,6 +3926,30 @@
             ]
         },
         {
+            "internalName": "Soul Altar",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Soul Altar",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "tribes": [
+            ]
+            "cost": "3 Shattered Prism Gems",
+            "power": "0",
+            "health": "1",
+            "flavor": "Eternal, unstoppable, inevitable.",
+            "token": "",
+            "sigils": [
+                "Revelation",
+                "Prism Gem"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Soul-Altar-b02bf7f2e8ef4069894b5f9c52b58f0b?pvs=23",
+            "tags": [
+                "Magick",
+                "Common"
+            ]
+        },
+        {
             "internalName": "Spear Mage",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Spear Mage",
@@ -3948,30 +3972,6 @@
                 "Magick",
                 "Talking",
                 "Guardian"
-            ]
-        },
-        {
-            "internalName": "Soul Altar",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Soul Altar",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "tribes": [
-            ]
-            "cost": "3 Shattered Prism Gems",
-            "power": "0",
-            "health": "1",
-            "flavor": "Eternal, unstoppable, inevitable.",
-            "token": "",
-            "sigils": [
-                "Revelation",
-                "Prism Gem"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Soul-Altar-b02bf7f2e8ef4069894b5f9c52b58f0b?pvs=23",
-            "tags": [
-                "Magick",
-                "Common"
             ]
         },
         {
@@ -4371,6 +4371,31 @@
             ]
         },
         {
+            "internalName": "Reanimator",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Reanimator",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "tribes": [
+                "Scholar"
+            ]
+            "cost": "2 Amethyst Gems",
+            "power": "0",
+            "health": "3",
+            "flavor": "Returning souls to battle once again.",
+            "token": "",
+            "sigils": [
+                "Reanimate"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Reanimator-7c3006749fe642cd81ce55b99efc8a29?pvs=23",
+            "tags": [
+                "Magick",
+                "Common",
+                "Scholar"
+            ]
+        },
+        {
             "internalName": "Purple Mage",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Purple Mage",
@@ -4445,28 +4470,27 @@
             ]
         },
         {
-            "internalName": "Reanimator",
+            "internalName": "Practice Mage",
             "from": "Desaft’s Mod (CTI)",
-            "displayName": "Reanimator",
+            "displayName": "Practice Mage",
             "temple": "Magicks",
             "rarity": "Common",
             "tribes": [
-                "Scholar"
             ]
-            "cost": "2 Amethyst Gems",
+            "cost": "1 Ruby Gem",
             "power": "0",
             "health": "3",
-            "flavor": "Returning souls to battle once again.",
+            "flavor": "Good for getting hit, but not much else.",
             "token": "",
             "sigils": [
-                "Reanimate"
+                "Mighty Leap",
+                "Taunt"
             ],
             "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Reanimator-7c3006749fe642cd81ce55b99efc8a29?pvs=23",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Practice-Mage-994e2dc9343c4216bf4c71a0b8b9c84f?pvs=23",
             "tags": [
                 "Magick",
-                "Common",
-                "Scholar"
+                "Common"
             ]
         },
         {
@@ -4494,24 +4518,23 @@
             ]
         },
         {
-            "internalName": "Practice Mage",
+            "internalName": "Pot Of Red",
             "from": "Desaft’s Mod (CTI)",
-            "displayName": "Practice Mage",
+            "displayName": "Pot Of Red",
             "temple": "Magicks",
             "rarity": "Common",
             "tribes": [
             ]
-            "cost": "1 Ruby Gem",
+            "cost": "1 Shattered Ruby Gem",
             "power": "0",
-            "health": "3",
-            "flavor": "Good for getting hit, but not much else.",
+            "health": "1",
+            "flavor": "Now running a full clearance sale!",
             "token": "",
             "sigils": [
-                "Mighty Leap",
-                "Taunt"
+                "Desiring"
             ],
             "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Practice-Mage-994e2dc9343c4216bf4c71a0b8b9c84f?pvs=23",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Pot-Of-Red-f4a805768fd04d25a0f324cab283bece?pvs=23",
             "tags": [
                 "Magick",
                 "Common"
@@ -4535,29 +4558,6 @@
             ],
             "artist": "",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Pot-Of-Yellow-fe809dac7f0f453c918022ef77178ebe?pvs=23",
-            "tags": [
-                "Magick",
-                "Common"
-            ]
-        },
-        {
-            "internalName": "Pot Of Red",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Pot Of Red",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "tribes": [
-            ]
-            "cost": "1 Shattered Ruby Gem",
-            "power": "0",
-            "health": "1",
-            "flavor": "Now running a full clearance sale!",
-            "token": "",
-            "sigils": [
-                "Desiring"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Pot-Of-Red-f4a805768fd04d25a0f324cab283bece?pvs=23",
             "tags": [
                 "Magick",
                 "Common"
@@ -5057,31 +5057,6 @@
             ]
         },
         {
-            "internalName": "Master Yurpo",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Master Yurpo",
-            "temple": "Magicks",
-            "rarity": "Rare",
-            "tribes": [
-                "Scholar"
-            ]
-            "cost": "1 Topaz Gem, 1 Amethyst Gem",
-            "power": "0",
-            "health": "3",
-            "flavor": "Master of animation, though not specific.",
-            "token": "",
-            "sigils": [
-                "Never The End"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Master-Yurpo-ff27a4beb600476bad120424351f207e?pvs=23",
-            "tags": [
-                "Magick",
-                "Rare",
-                "Scholar"
-            ]
-        },
-        {
             "internalName": "Master Yed",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Master Yed",
@@ -5105,6 +5080,31 @@
                 "Magick",
                 "Rare",
                 "Guardian"
+            ]
+        },
+        {
+            "internalName": "Master Yurpo",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Master Yurpo",
+            "temple": "Magicks",
+            "rarity": "Rare",
+            "tribes": [
+                "Scholar"
+            ]
+            "cost": "1 Topaz Gem, 1 Amethyst Gem",
+            "power": "0",
+            "health": "3",
+            "flavor": "Master of animation, though not specific.",
+            "token": "",
+            "sigils": [
+                "Never The End"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Master-Yurpo-ff27a4beb600476bad120424351f207e?pvs=23",
+            "tags": [
+                "Magick",
+                "Rare",
+                "Scholar"
             ]
         },
         {
@@ -5412,32 +5412,6 @@
             ]
         },
         {
-            "internalName": "Mass Of Marrow",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Mass Of Marrow",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "tribes": [
-                "Skeletal",
-                "Guardian"
-            ]
-            "cost": "1 Amethyst Gem, 7 Bones",
-            "power": "3",
-            "health": "5",
-            "flavor": "A shambling conglomeration of bones.",
-            "token": "",
-            "sigils": [
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mass-Of-Marrow-75f928d5a71e4028abf5769a7f5db232?pvs=23",
-            "tags": [
-                "Magick",
-                "Common",
-                "Skeletal",
-                "Guardian"
-            ]
-        },
-        {
             "internalName": "Master Belle",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Master Belle",
@@ -5461,6 +5435,32 @@
                 "Magick",
                 "Rare",
                 "Scholar"
+            ]
+        },
+        {
+            "internalName": "Mass Of Marrow",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Mass Of Marrow",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "tribes": [
+                "Skeletal",
+                "Guardian"
+            ]
+            "cost": "1 Amethyst Gem, 7 Bones",
+            "power": "3",
+            "health": "5",
+            "flavor": "A shambling conglomeration of bones.",
+            "token": "",
+            "sigils": [
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mass-Of-Marrow-75f928d5a71e4028abf5769a7f5db232?pvs=23",
+            "tags": [
+                "Magick",
+                "Common",
+                "Skeletal",
+                "Guardian"
             ]
         },
         {
@@ -5510,31 +5510,6 @@
                 "Magick",
                 "Rare",
                 "Gem"
-            ]
-        },
-        {
-            "internalName": "Magiquartet",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Magiquartet",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "tribes": [
-                "Scholar"
-            ]
-            "cost": "1 Prism Gem, 1 Sapphire Gem",
-            "power": "2",
-            "health": "1",
-            "flavor": "A group of powerful, if feeble mages.",
-            "token": "",
-            "sigils": [
-                "Bone King"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Magiquartet-68dfb360b1c54ff09e480ece818f40a7?pvs=23",
-            "tags": [
-                "Magick",
-                "Common",
-                "Scholar"
             ]
         },
         {
@@ -5605,6 +5580,31 @@
             ],
             "artist": "",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mage-Pupil-5d55719343ad4d869e5d44572972600d?pvs=23",
+            "tags": [
+                "Magick",
+                "Common",
+                "Scholar"
+            ]
+        },
+        {
+            "internalName": "Magiquartet",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Magiquartet",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "tribes": [
+                "Scholar"
+            ]
+            "cost": "1 Prism Gem, 1 Sapphire Gem",
+            "power": "2",
+            "health": "1",
+            "flavor": "A group of powerful, if feeble mages.",
+            "token": "",
+            "sigils": [
+                "Bone King"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Magiquartet-68dfb360b1c54ff09e480ece818f40a7?pvs=23",
             "tags": [
                 "Magick",
                 "Common",
@@ -5684,6 +5684,32 @@
                 "Magick",
                 "Common",
                 "Scholar"
+            ]
+        },
+        {
+            "internalName": "Lazuli Construct",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Lazuli Construct",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "tribes": [
+                "Guardian"
+            ]
+            "cost": "1 Sapphire Gem",
+            "power": "1",
+            "health": "2",
+            "flavor": "A mox powered energy producer.",
+            "token": "",
+            "sigils": [
+                "Battery Bearer",
+                "Bloodless"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Lazuli-Construct-7b7ebd1f78e742f395f34e94d57ac98f?pvs=23",
+            "tags": [
+                "Magick",
+                "Common",
+                "Guardian"
             ]
         },
         {
@@ -5782,32 +5808,6 @@
             "tags": [
                 "Magick",
                 "Common"
-            ]
-        },
-        {
-            "internalName": "Lazuli Construct",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Lazuli Construct",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "tribes": [
-                "Guardian"
-            ]
-            "cost": "1 Sapphire Gem",
-            "power": "1",
-            "health": "2",
-            "flavor": "A mox powered energy producer.",
-            "token": "",
-            "sigils": [
-                "Battery Bearer",
-                "Bloodless"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Lazuli-Construct-7b7ebd1f78e742f395f34e94d57ac98f?pvs=23",
-            "tags": [
-                "Magick",
-                "Common",
-                "Guardian"
             ]
         },
         {
@@ -6201,6 +6201,29 @@
             ]
         },
         {
+            "internalName": "Gem Devourer",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Gem Devourer",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "tribes": [
+            ]
+            "cost": "2 Emerald Gems",
+            "power": "2",
+            "health": "1",
+            "flavor": "Munching on those delicious gems.",
+            "token": "",
+            "sigils": [
+                "Mox Eater"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Gem-Devourer-9e3799d554ec478094bb8e595a61e74c?pvs=23",
+            "tags": [
+                "Magick",
+                "Common"
+            ]
+        },
+        {
             "internalName": "Gem Channeler",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Gem Channeler",
@@ -6222,29 +6245,6 @@
             "tags": [
                 "Magick",
                 "Talking"
-            ]
-        },
-        {
-            "internalName": "Gem Devourer",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Gem Devourer",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "tribes": [
-            ]
-            "cost": "2 Emerald Gems",
-            "power": "2",
-            "health": "1",
-            "flavor": "Munching on those delicious gems.",
-            "token": "",
-            "sigils": [
-                "Mox Eater"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Gem-Devourer-9e3799d554ec478094bb8e595a61e74c?pvs=23",
-            "tags": [
-                "Magick",
-                "Common"
             ]
         },
         {
@@ -6553,6 +6553,30 @@
             ],
             "artist": "",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Drow-Knight-58409d19a82847eb81def19fccc579d3?pvs=23",
+            "tags": [
+                "Magick",
+                "Common"
+            ]
+        },
+        {
+            "internalName": "Dizzy Mage",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Dizzy Mage",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "tribes": [
+                "Scholar"
+            ]
+            "cost": "1 Topaz Gem",
+            "power": "2",
+            "health": "1",
+            "flavor": "Wowee! This is gonna be so much fun!",
+            "token": "",
+            "sigils": [
+                "Dervish"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Dizzy-Mage-868c613678564d09b025c2c43fedb058?pvs=23",
             "tags": [
                 "Magick",
                 "Common"
@@ -6899,29 +6923,6 @@
             ]
         },
         {
-            "internalName": "Book Of Darkness",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Book Of Darkness",
-            "temple": "Magicks",
-            "rarity": "Rare",
-            "tribes": [
-            ]
-            "cost": "2 Amethyst Gems",
-            "power": "0",
-            "health": "1",
-            "flavor": "Pure darkness, in the palm of your hand.",
-            "token": "",
-            "sigils": [
-                "Gem Lock"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Book-Of-Darkness-66163b4051174ed6a49b726670dce94e?pvs=23",
-            "tags": [
-                "Magick",
-                "Rare"
-            ]
-        },
-        {
             "internalName": "Book Keeper",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Book Keeper",
@@ -7119,6 +7120,29 @@
             ]
         },
         {
+            "internalName": "Book Of Darkness",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Book Of Darkness",
+            "temple": "Magicks",
+            "rarity": "Rare",
+            "tribes": [
+            ]
+            "cost": "2 Amethyst Gems",
+            "power": "0",
+            "health": "1",
+            "flavor": "Pure darkness, in the palm of your hand.",
+            "token": "",
+            "sigils": [
+                "Gem Lock"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Book-Of-Darkness-66163b4051174ed6a49b726670dce94e?pvs=23",
+            "tags": [
+                "Magick",
+                "Rare"
+            ]
+        },
+        {
             "internalName": "Automatox",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Automatox",
@@ -7269,30 +7293,6 @@
             ]
         },
         {
-            "internalName": "Dizzy Mage",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Dizzy Mage",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "tribes": [
-                "Scholar"
-            ]
-            "cost": "1 Topaz Gem",
-            "power": "2",
-            "health": "1",
-            "flavor": "Wowee! This is gonna be so much fun!",
-            "token": "",
-            "sigils": [
-                "Dervish"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Dizzy-Mage-868c613678564d09b025c2c43fedb058?pvs=23",
-            "tags": [
-                "Magick",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Altar Of Efficacy",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Altar Of Efficacy",
@@ -7364,30 +7364,6 @@
             ]
         },
         {
-            "internalName": "Altar Of Form",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Altar Of Form",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "tribes": [
-            ]
-            "cost": "1 Shattered Emerald Gem",
-            "power": "0",
-            "health": "1",
-            "flavor": "What we see is but a diluted speck of his true glory.",
-            "token": "",
-            "sigils": [
-                "Omnipresent",
-                "Armored"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Altar-Of-Form-874c5175880a4146a401e436d324c6c3?pvs=23",
-            "tags": [
-                "Magick",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Altar Of Mind",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Altar Of Mind",
@@ -7406,6 +7382,30 @@
             ],
             "artist": "",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Altar-Of-Mind-13d4f288a67e4ff082f08850dde13aa2?pvs=23",
+            "tags": [
+                "Magick",
+                "Common"
+            ]
+        },
+        {
+            "internalName": "Altar Of Form",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Altar Of Form",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "tribes": [
+            ]
+            "cost": "1 Shattered Emerald Gem",
+            "power": "0",
+            "health": "1",
+            "flavor": "What we see is but a diluted speck of his true glory.",
+            "token": "",
+            "sigils": [
+                "Omnipresent",
+                "Armored"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Altar-Of-Form-874c5175880a4146a401e436d324c6c3?pvs=23",
             "tags": [
                 "Magick",
                 "Common"
@@ -7557,6 +7557,32 @@
             ]
         },
         {
+            "internalName": "Strange Frog",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Strange Frog",
+            "temple": "Terrain/Extra",
+            "rarity": "Common",
+            "tribes": [
+                "Reptile"
+            ]
+            "cost": "3 Energy",
+            "power": "1",
+            "health": "2",
+            "flavor": "The trapper and his…interesting gadgets.",
+            "token": "Leaping Trap",
+            "sigils": [
+                "Frozen Away",
+                "Mighty Leap"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Strange-Frog-2ea9bc0e958a410d914c7142e4778e8a?pvs=23",
+            "tags": [
+                "Terrain",
+                "Common",
+                "Reptile"
+            ]
+        },
+        {
             "internalName": "Sporedigger",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Sporedigger",
@@ -7604,32 +7630,6 @@
             "tags": [
                 "Beast",
                 "Common"
-            ]
-        },
-        {
-            "internalName": "Spore Mancer",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Spore Mancer",
-            "temple": "Terrain/Extra",
-            "rarity": "Rare",
-            "tribes": [
-                "Skeletal"
-            ]
-            "cost": "4 Skulls, 3 Bones",
-            "power": "1",
-            "health": "2",
-            "flavor": "What…horrific necromancy is this?",
-            "token": "",
-            "sigils": [
-                "Rise Again",
-                "Stinky"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Spore-Mancer-7f1e2875cf684ca8a1207b0f8816fe83?pvs=23",
-            "tags": [
-                "Undead",
-                "Rare",
-                "Skeletal"
             ]
         },
         {
@@ -7682,6 +7682,32 @@
                 "Technology",
                 "Rare",
                 "Conduit"
+            ]
+        },
+        {
+            "internalName": "Spore Mancer",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Spore Mancer",
+            "temple": "Terrain/Extra",
+            "rarity": "Rare",
+            "tribes": [
+                "Skeletal"
+            ]
+            "cost": "4 Skulls, 3 Bones",
+            "power": "1",
+            "health": "2",
+            "flavor": "What…horrific necromancy is this?",
+            "token": "",
+            "sigils": [
+                "Rise Again",
+                "Stinky"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Spore-Mancer-7f1e2875cf684ca8a1207b0f8816fe83?pvs=23",
+            "tags": [
+                "Undead",
+                "Rare",
+                "Skeletal"
             ]
         },
         {
@@ -7784,29 +7810,6 @@
             ]
         },
         {
-            "internalName": "Rabbit Pelt",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Rabbit Pelt",
-            "temple": "Terrain/Extra",
-            "rarity": "Common",
-            "tribes": [
-            ]
-            "cost": "Free",
-            "power": "0",
-            "health": "1",
-            "flavor": "Perhaps she will trade scraps for this.",
-            "token": "",
-            "sigils": [
-                "Bloodless"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Rabbit-Pelt-5809504a7b9f42df85ab3abd8294a1b0?pvs=23",
-            "tags": [
-                "Terrain",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Nills",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Nills",
@@ -7828,6 +7831,29 @@
             "tags": [
                 "Beast",
                 "Deathcard"
+            ]
+        },
+        {
+            "internalName": "Rabbit Pelt",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Rabbit Pelt",
+            "temple": "Terrain/Extra",
+            "rarity": "Common",
+            "tribes": [
+            ]
+            "cost": "Free",
+            "power": "0",
+            "health": "1",
+            "flavor": "Perhaps she will trade scraps for this.",
+            "token": "",
+            "sigils": [
+                "Bloodless"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Rabbit-Pelt-5809504a7b9f42df85ab3abd8294a1b0?pvs=23",
+            "tags": [
+                "Terrain",
+                "Common"
             ]
         },
         {
@@ -7855,6 +7881,30 @@
             ]
         },
         {
+            "internalName": "Master Sporanj",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Master Sporanj",
+            "temple": "Terrain/Extra",
+            "rarity": "Rare",
+            "tribes": [
+            ]
+            "cost": "1 Emerald Gem, 1 Ruby Gem, 2 Blood",
+            "power": "3",
+            "health": "6",
+            "flavor": "Poor master…what happened to you?",
+            "token": "",
+            "sigils": [
+                "Gem Dependant",
+                "Bifurcated Strike"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Master-Sporenaj-906104ce454947dba77b15a80a31caf6?pvs=23",
+            "tags": [
+                "Magick",
+                "Rare"
+            ]
+        },
+        {
             "internalName": "Mc Clain",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Mc Clain",
@@ -7877,30 +7927,6 @@
             "tags": [
                 "Beast",
                 "Deathcard"
-            ]
-        },
-        {
-            "internalName": "Master Sporanj",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Master Sporanj",
-            "temple": "Terrain/Extra",
-            "rarity": "Rare",
-            "tribes": [
-            ]
-            "cost": "1 Emerald Gem, 1 Ruby Gem, 2 Blood",
-            "power": "3",
-            "health": "6",
-            "flavor": "Poor master…what happened to you?",
-            "token": "",
-            "sigils": [
-                "Gem Dependant",
-                "Bifurcated Strike"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Master-Sporenaj-906104ce454947dba77b15a80a31caf6?pvs=23",
-            "tags": [
-                "Magick",
-                "Rare"
             ]
         },
         {
@@ -8257,32 +8283,6 @@
             "tags": [
                 "Beast",
                 "Deathcard"
-            ]
-        },
-        {
-            "internalName": "Strange Frog",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Strange Frog",
-            "temple": "Terrain/Extra",
-            "rarity": "Common",
-            "tribes": [
-                "Reptile"
-            ]
-            "cost": "3 Energy",
-            "power": "1",
-            "health": "2",
-            "flavor": "The trapper and his…interesting gadgets.",
-            "token": "Leaping Trap",
-            "sigils": [
-                "Frozen Away",
-                "Mighty Leap"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Strange-Frog-2ea9bc0e958a410d914c7142e4778e8a?pvs=23",
-            "tags": [
-                "Terrain",
-                "Common",
-                "Reptile"
             ]
         },
         {
@@ -8643,6 +8643,30 @@
             ]
         },
         {
+            "internalName": "Stinkbug",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Stinkbug",
+            "temple": "Beast",
+            "rarity": "Talking",
+            "tribes": [
+            ]
+            "cost": "3 Bones",
+            "power": "0",
+            "health": "1",
+            "flavor": "Salutations, a lucky draw.",
+            "token": "",
+            "sigils": [
+                "Double Death",
+                "Stinky"
+            ],
+            "artist": "Pixel Profligate, Synthia_2000",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Stinkbug-79cc3f3df60f42969f4fd4dc0b61e9e6?pvs=23",
+            "tags": [
+                "Beast",
+                "Talking"
+            ]
+        },
+        {
             "internalName": "Squirrel",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Squirrel",
@@ -8733,30 +8757,6 @@
             "tags": [
                 "Beast",
                 "Common"
-            ]
-        },
-        {
-            "internalName": "Stinkbug",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Stinkbug",
-            "temple": "Beast",
-            "rarity": "Talking",
-            "tribes": [
-            ]
-            "cost": "3 Bones",
-            "power": "0",
-            "health": "1",
-            "flavor": "Salutations, a lucky draw.",
-            "token": "",
-            "sigils": [
-                "Double Death",
-                "Stinky"
-            ],
-            "artist": "Pixel Profligate, Synthia_2000",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Stinkbug-79cc3f3df60f42969f4fd4dc0b61e9e6?pvs=23",
-            "tags": [
-                "Beast",
-                "Talking"
             ]
         },
         {
@@ -8955,6 +8955,30 @@
             ]
         },
         {
+            "internalName": "Rattler",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Rattler",
+            "temple": "Beast",
+            "rarity": "Common",
+            "tribes": [
+                "Reptile"
+            ]
+            "cost": "6 Bones",
+            "power": "3",
+            "health": "1",
+            "flavor": "Brittle, if you can survive its bite.",
+            "token": "",
+            "sigils": [
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Rattler-b44fc39e10b5423998505df6ee161b69?pvs=23",
+            "tags": [
+                "Beast",
+                "Common",
+                "Reptile"
+            ]
+        },
+        {
             "internalName": "Rat King",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Rat King",
@@ -8972,29 +8996,6 @@
             ],
             "artist": "Pixel Profligate",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Rat-King-4656b63ce654489fae25bfd6c1a364bd?pvs=23",
-            "tags": [
-                "Beast",
-                "Common"
-            ]
-        },
-        {
-            "internalName": "Raccoon",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Raccoon",
-            "temple": "Beast",
-            "rarity": "Common",
-            "tribes": [
-            ]
-            "cost": "1 Blood",
-            "power": "1",
-            "health": "1",
-            "flavor": "A cute, if not scrappy, little gatherer.",
-            "token": "",
-            "sigils": [
-                "Scavenger"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Raccoon-f648789ff2b743d6a3944662f0097ebc?pvs=23",
             "tags": [
                 "Beast",
                 "Common"
@@ -9023,27 +9024,26 @@
             ]
         },
         {
-            "internalName": "Rattler",
+            "internalName": "Raccoon",
             "from": "Desaft’s Mod (CTI)",
-            "displayName": "Rattler",
+            "displayName": "Raccoon",
             "temple": "Beast",
             "rarity": "Common",
             "tribes": [
-                "Reptile"
             ]
-            "cost": "6 Bones",
-            "power": "3",
+            "cost": "1 Blood",
+            "power": "1",
             "health": "1",
-            "flavor": "Brittle, if you can survive its bite.",
+            "flavor": "A cute, if not scrappy, little gatherer.",
             "token": "",
             "sigils": [
+                "Scavenger"
             ],
             "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Rattler-b44fc39e10b5423998505df6ee161b69?pvs=23",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Raccoon-f648789ff2b743d6a3944662f0097ebc?pvs=23",
             "tags": [
                 "Beast",
-                "Common",
-                "Reptile"
+                "Common"
             ]
         },
         {
@@ -9165,29 +9165,6 @@
             ]
         },
         {
-            "internalName": "Mox Tentacle",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Mox Tentacle",
-            "temple": "Beast",
-            "rarity": "Common",
-            "tribes": [
-            ]
-            "cost": "1 Shattered Prism Gem",
-            "power": "X",
-            "health": "1",
-            "flavor": "Mysterios…",
-            "token": "",
-            "sigils": [
-                "Gem Powered"
-            ],
-            "artist": "Desaft, Synthia_2000",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mox-Tentacle-3834a102dddb41bea6f9479f495dc9ac?pvs=23",
-            "tags": [
-                "Beast",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Octopus",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Octopus",
@@ -9205,6 +9182,29 @@
             ],
             "artist": "Synthia_2000",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Octopus-e386dff27bb649d395dd68ddce066cc1?pvs=23",
+            "tags": [
+                "Beast",
+                "Common"
+            ]
+        },
+        {
+            "internalName": "Mox Tentacle",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Mox Tentacle",
+            "temple": "Beast",
+            "rarity": "Common",
+            "tribes": [
+            ]
+            "cost": "1 Shattered Prism Gem",
+            "power": "X",
+            "health": "1",
+            "flavor": "Mysterios…",
+            "token": "",
+            "sigils": [
+                "Gem Powered"
+            ],
+            "artist": "Desaft, Synthia_2000",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mox-Tentacle-3834a102dddb41bea6f9479f495dc9ac?pvs=23",
             "tags": [
                 "Beast",
                 "Common"
@@ -9260,29 +9260,6 @@
             ]
         },
         {
-            "internalName": "Mirror Tentacle",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Mirror Tentacle",
-            "temple": "Beast",
-            "rarity": "Common",
-            "tribes": [
-            ]
-            "cost": "1 Blood",
-            "power": "X",
-            "health": "3",
-            "flavor": "Curious…",
-            "token": "",
-            "sigils": [
-                "Facsimile"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mirror-Tentacle-9da1281e0864493bb5c54cc08e88516d?pvs=23",
-            "tags": [
-                "Beast",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Mole Man",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Mole Man",
@@ -9304,6 +9281,29 @@
             "tags": [
                 "Beast",
                 "Rare"
+            ]
+        },
+        {
+            "internalName": "Mirror Tentacle",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Mirror Tentacle",
+            "temple": "Beast",
+            "rarity": "Common",
+            "tribes": [
+            ]
+            "cost": "1 Blood",
+            "power": "X",
+            "health": "3",
+            "flavor": "Curious…",
+            "token": "",
+            "sigils": [
+                "Facsimile"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mirror-Tentacle-9da1281e0864493bb5c54cc08e88516d?pvs=23",
+            "tags": [
+                "Beast",
+                "Common"
             ]
         },
         {
@@ -9621,30 +9621,6 @@
             ]
         },
         {
-            "internalName": "Geck",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Geck",
-            "temple": "Beast",
-            "rarity": "Rare",
-            "tribes": [
-                "Reptile"
-            ]
-            "cost": "Free",
-            "power": "1",
-            "health": "1",
-            "flavor": "Uninspiring, but charming despite it all.",
-            "token": "",
-            "sigils": [
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Geck-2dc6ffeb4efc46a89c6ab11451e9680b?pvs=23",
-            "tags": [
-                "Beast",
-                "Rare",
-                "Reptile"
-            ]
-        },
-        {
             "internalName": "Gametuna",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Gametuna",
@@ -9669,6 +9645,30 @@
                 "Undead",
                 "Terrain",
                 "Rare"
+            ]
+        },
+        {
+            "internalName": "Geck",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Geck",
+            "temple": "Beast",
+            "rarity": "Rare",
+            "tribes": [
+                "Reptile"
+            ]
+            "cost": "Free",
+            "power": "1",
+            "health": "1",
+            "flavor": "Uninspiring, but charming despite it all.",
+            "token": "",
+            "sigils": [
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Geck-2dc6ffeb4efc46a89c6ab11451e9680b?pvs=23",
+            "tags": [
+                "Beast",
+                "Rare",
+                "Reptile"
             ]
         },
         {
@@ -9821,6 +9821,30 @@
             ]
         },
         {
+            "internalName": "Coyote",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Coyote",
+            "temple": "Beast",
+            "rarity": "Common",
+            "tribes": [
+                "Canine"
+            ]
+            "cost": "4 Bones",
+            "power": "2",
+            "health": "1",
+            "flavor": "A meager, but dangerous, scavenger.",
+            "token": "",
+            "sigils": [
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Coyote-8cb7fa75c16044188d6ac3c5b91ff30a?pvs=23",
+            "tags": [
+                "Beast",
+                "Common",
+                "Canine"
+            ]
+        },
+        {
             "internalName": "Corpse Maggots",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Corpse Maggots",
@@ -9843,30 +9867,6 @@
                 "Beast",
                 "Common",
                 "Insectoid"
-            ]
-        },
-        {
-            "internalName": "Coyote",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Coyote",
-            "temple": "Beast",
-            "rarity": "Common",
-            "tribes": [
-                "Canine"
-            ]
-            "cost": "4 Bones",
-            "power": "2",
-            "health": "1",
-            "flavor": "A meager, but dangerous, scavenger.",
-            "token": "",
-            "sigils": [
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Coyote-8cb7fa75c16044188d6ac3c5b91ff30a?pvs=23",
-            "tags": [
-                "Beast",
-                "Common",
-                "Canine"
             ]
         },
         {
@@ -9945,6 +9945,29 @@
             ]
         },
         {
+            "internalName": "Bone Tentacle",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Bone Tentacle",
+            "temple": "Beast",
+            "rarity": "Common",
+            "tribes": [
+            ]
+            "cost": "6 Bones",
+            "power": "X",
+            "health": "2",
+            "flavor": "Confounding…",
+            "token": "",
+            "sigils": [
+                "One-Half Bones"
+            ],
+            "artist": "Desaft, Synthia_2000",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Bone-Tentacle-131991f2aade4c52b9fc593c8fa9fd61?pvs=23",
+            "tags": [
+                "Beast",
+                "Common"
+            ]
+        },
+        {
             "internalName": "Bullfrog",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Bullfrog",
@@ -9995,26 +10018,28 @@
             ]
         },
         {
-            "internalName": "Bone Tentacle",
+            "internalName": "Black Goat",
             "from": "Desaft’s Mod (CTI)",
-            "displayName": "Bone Tentacle",
+            "displayName": "Black Goat",
             "temple": "Beast",
             "rarity": "Common",
             "tribes": [
+                "Hooved"
             ]
-            "cost": "6 Bones",
-            "power": "X",
-            "health": "2",
-            "flavor": "Confounding…",
+            "cost": "1 Blood",
+            "power": "0",
+            "health": "1",
+            "flavor": "A true sacrifice, despite all the blood.",
             "token": "",
             "sigils": [
-                "One-Half Bones"
+                "Worthy Sacrifice"
             ],
-            "artist": "Desaft, Synthia_2000",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Bone-Tentacle-131991f2aade4c52b9fc593c8fa9fd61?pvs=23",
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Black-Goat-093a4b096b4a49ecaf7922c2fc09ab1a?pvs=23",
             "tags": [
                 "Beast",
-                "Common"
+                "Common",
+                "Hooved"
             ]
         },
         {
@@ -10038,31 +10063,6 @@
             "tags": [
                 "Beast",
                 "Common"
-            ]
-        },
-        {
-            "internalName": "Black Goat",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Black Goat",
-            "temple": "Beast",
-            "rarity": "Common",
-            "tribes": [
-                "Hooved"
-            ]
-            "cost": "1 Blood",
-            "power": "0",
-            "health": "1",
-            "flavor": "A true sacrifice, despite all the blood.",
-            "token": "",
-            "sigils": [
-                "Worthy Sacrifice"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Black-Goat-093a4b096b4a49ecaf7922c2fc09ab1a?pvs=23",
-            "tags": [
-                "Beast",
-                "Common",
-                "Hooved"
             ]
         },
         {
@@ -10211,31 +10211,6 @@
             ]
         },
         {
-            "internalName": "Alpha",
-            "from": "Desaft’s Mod (CTI)",
-            "displayName": "Alpha",
-            "temple": "Beast",
-            "rarity": "Common",
-            "tribes": [
-                "Canine"
-            ]
-            "cost": "5 Bones",
-            "power": "1",
-            "health": "2",
-            "flavor": "A venerable leader, emboldening others,",
-            "token": "",
-            "sigils": [
-                "Leader"
-            ],
-            "artist": "Pixel Profligate",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Alpha-978c08f4353d48a7b2532d6e82581b66?pvs=23",
-            "tags": [
-                "Beast",
-                "Common",
-                "Canine"
-            ]
-        },
-        {
             "internalName": "Amalgam",
             "from": "Desaft’s Mod (CTI)",
             "displayName": "Amalgam",
@@ -10265,6 +10240,31 @@
                 "Hooved",
                 "Insectoid",
                 "Reptile"
+            ]
+        },
+        {
+            "internalName": "Alpha",
+            "from": "Desaft’s Mod (CTI)",
+            "displayName": "Alpha",
+            "temple": "Beast",
+            "rarity": "Common",
+            "tribes": [
+                "Canine"
+            ]
+            "cost": "5 Bones",
+            "power": "1",
+            "health": "2",
+            "flavor": "A venerable leader, emboldening others,",
+            "token": "",
+            "sigils": [
+                "Leader"
+            ],
+            "artist": "Pixel Profligate",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Alpha-978c08f4353d48a7b2532d6e82581b66?pvs=23",
+            "tags": [
+                "Beast",
+                "Common",
+                "Canine"
             ]
         },
         {
