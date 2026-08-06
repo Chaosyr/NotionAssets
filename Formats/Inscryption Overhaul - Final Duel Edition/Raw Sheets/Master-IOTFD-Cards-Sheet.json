@@ -3,6 +3,28 @@
     "type": "Card",
     "items": [
         {
+            "internalName": "Dead Ringer",
+            "from": "Inscryption Overhaul",
+            "displayName": "Dead Ringer",
+            "temple": "Technology",
+            "rarity": "Common",
+            "cost": "4 Bones, 2 Energy, 2 Overcharge",
+            "power": "2",
+            "health": "2",
+            "flavor": "The constant ringing drove them mad.",
+            "token": "",
+            "sigils": [
+                "Agro When Powered",
+                "Dead Line"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Dead-Ringer-2ff64bd9f60680e0816bdf45e06e0f4b",
+            "tags": [
+                "Technology",
+                "Common"
+            ]
+        },
+        {
             "internalName": "Curve Hopper",
             "from": "Inscryption Overhaul",
             "displayName": "Curve Hopper",
@@ -25,22 +47,22 @@
             ]
         },
         {
-            "internalName": "Dead Ringer",
+            "internalName": "Copper Head",
             "from": "Inscryption Overhaul",
-            "displayName": "Dead Ringer",
+            "displayName": "C0PP3R-H34D",
             "temple": "Technology",
             "rarity": "Common",
-            "cost": "4 Bones, 2 Energy, 2 Overcharge",
-            "power": "2",
+            "cost": "1 Blood",
+            "power": "1",
             "health": "2",
-            "flavor": "The constant ringing drove them mad.",
+            "flavor": "Provides a violent shock to the system.",
             "token": "",
             "sigils": [
-                "Agro When Powered",
-                "Dead Line"
+                "Venom When Powered",
+                "Aggro When Powered"
             ],
             "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Dead-Ringer-2ff64bd9f60680e0816bdf45e06e0f4b",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Copper-Head-2ff64bd9f60680cdbc09c860f03bc6fa",
             "tags": [
                 "Technology",
                 "Common"
@@ -69,27 +91,6 @@
             ]
         },
         {
-            "internalName": "Coffee Head",
-            "from": "Inscryption Overhaul",
-            "displayName": "Coffee Head",
-            "temple": "Technology",
-            "rarity": "Common",
-            "cost": "6 Energy",
-            "power": "1",
-            "health": "2",
-            "flavor": "Finally at peace with the perfect cup.",
-            "token": "",
-            "sigils": [
-                "Pure When Powered"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Coffee-Head-2ff64bd9f60680d68160d0d4ae7afb30",
-            "tags": [
-                "Technology",
-                "Common"
-            ]
-        },
-        {
             "internalName": "C-Mine",
             "from": "Inscryption Overhaul",
             "displayName": "C-Mine",
@@ -112,22 +113,42 @@
             ]
         },
         {
-            "internalName": "Copper Head",
+            "internalName": "Coffee Head",
             "from": "Inscryption Overhaul",
-            "displayName": "C0PP3R-H34D",
+            "displayName": "Coffee Head",
             "temple": "Technology",
             "rarity": "Common",
-            "cost": "1 Blood",
+            "cost": "6 Energy",
             "power": "1",
             "health": "2",
-            "flavor": "Provides a violent shock to the system.",
+            "flavor": "Finally at peace with the perfect cup.",
             "token": "",
             "sigils": [
-                "Venom When Powered",
-                "Aggro When Powered"
+                "Pure When Powered"
             ],
             "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Copper-Head-2ff64bd9f60680cdbc09c860f03bc6fa",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Coffee-Head-2ff64bd9f60680d68160d0d4ae7afb30",
+            "tags": [
+                "Technology",
+                "Common"
+            ]
+        },
+        {
+            "internalName": "Cellphone",
+            "from": "Inscryption Overhaul",
+            "displayName": "Cellphone",
+            "temple": "Technology",
+            "rarity": "Common",
+            "cost": "5 Energy",
+            "power": "0",
+            "health": "2",
+            "flavor": "One of our newest models.",
+            "token": "",
+            "sigils": [
+                "Motivation When Powered"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Cellphone-2ff64bd9f60680c8b2bfc7d613a944cd",
             "tags": [
                 "Technology",
                 "Common"
@@ -199,27 +220,6 @@
             ]
         },
         {
-            "internalName": "Cellphone",
-            "from": "Inscryption Overhaul",
-            "displayName": "Cellphone",
-            "temple": "Technology",
-            "rarity": "Common",
-            "cost": "5 Energy",
-            "power": "0",
-            "health": "2",
-            "flavor": "One of our newest models.",
-            "token": "",
-            "sigils": [
-                "Motivation When Powered"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Cellphone-2ff64bd9f60680c8b2bfc7d613a944cd",
-            "tags": [
-                "Technology",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Bone Mill",
             "from": "Inscryption Overhaul",
             "displayName": "Bone Mill",
@@ -284,6 +284,28 @@
             ]
         },
         {
+            "internalName": "Blood Bank",
+            "from": "Inscryption Overhaul",
+            "displayName": "Blood Bank",
+            "temple": "Technology",
+            "rarity": "Common",
+            "cost": "2 Energy, 2 Overcharge",
+            "power": "0",
+            "health": "2",
+            "flavor": "Makes people generously “donate” blood.",
+            "token": "",
+            "sigils": [
+                "Blood Storage",
+                "Hearty Offering"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Blood-Bank-2fe64bd9f60680bdb7b6c4bb44042e30",
+            "tags": [
+                "Technology",
+                "Common"
+            ]
+        },
+        {
             "internalName": "Blank Canvas",
             "from": "Inscryption Overhaul",
             "displayName": "Blank Canvas",
@@ -306,22 +328,21 @@
             ]
         },
         {
-            "internalName": "Blood Bank",
+            "internalName": "Bishobot",
             "from": "Inscryption Overhaul",
-            "displayName": "Blood Bank",
+            "displayName": "Bishobot",
             "temple": "Technology",
             "rarity": "Common",
-            "cost": "2 Energy, 2 Overcharge",
+            "cost": "1 Amethyst Gem, 4 Overcharge, 4 Energy",
             "power": "0",
             "health": "2",
-            "flavor": "Makes people generously “donate” blood.",
+            "flavor": "Fine tuned to the spiritual world.",
             "token": "",
             "sigils": [
-                "Blood Storage",
-                "Hearty Offering"
+                "Spiritual Persistance"
             ],
             "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Blood-Bank-2fe64bd9f60680bdb7b6c4bb44042e30",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Bishobot-23e64bd9f606802d9ffed29a76bccc82",
             "tags": [
                 "Technology",
                 "Common"
@@ -350,21 +371,22 @@
             ]
         },
         {
-            "internalName": "Bishobot",
+            "internalName": "Bad Fish",
             "from": "Inscryption Overhaul",
-            "displayName": "Bishobot",
+            "displayName": "Bad Fish",
             "temple": "Technology",
             "rarity": "Common",
-            "cost": "1 Amethyst Gem, 4 Overcharge, 4 Energy",
-            "power": "0",
-            "health": "2",
-            "flavor": "Fine tuned to the spiritual world.",
+            "cost": "3 Blood, 3 Overcharge, 3 Energy",
+            "power": "1",
+            "health": "1",
+            "flavor": "An inefficient use of power at best.",
             "token": "",
             "sigils": [
-                "Spiritual Persistance"
+                "Diver When Powered",
+                "Brittle"
             ],
             "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Bishobot-23e64bd9f606802d9ffed29a76bccc82",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Bad-Fish-23e64bd9f606800db3b8d68aad5684c9",
             "tags": [
                 "Technology",
                 "Common"
@@ -386,28 +408,6 @@
             ],
             "artist": "",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Automaton-20b64bd9f60680079d13c8612a799901",
-            "tags": [
-                "Technology",
-                "Common"
-            ]
-        },
-        {
-            "internalName": "Bad Fish",
-            "from": "Inscryption Overhaul",
-            "displayName": "Bad Fish",
-            "temple": "Technology",
-            "rarity": "Common",
-            "cost": "3 Blood, 3 Overcharge, 3 Energy",
-            "power": "1",
-            "health": "1",
-            "flavor": "An inefficient use of power at best.",
-            "token": "",
-            "sigils": [
-                "Diver When Powered",
-                "Brittle"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Bad-Fish-23e64bd9f606800db3b8d68aad5684c9",
             "tags": [
                 "Technology",
                 "Common"
@@ -626,6 +626,27 @@
             ]
         },
         {
+            "internalName": "Essence Weaver",
+            "from": "Inscryption Overhaul",
+            "displayName": "Essence Weaver",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "cost": "1 Garnet Gem",
+            "power": "X",
+            "health": "2",
+            "flavor": "Manipulating remnants of past magicks.",
+            "token": "",
+            "sigils": [
+                "Mana Manipulation"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Essence-Weaver-20a64bd9f60680b0a162e2734cc2fe2b",
+            "tags": [
+                "Magick",
+                "Common"
+            ]
+        },
+        {
             "internalName": "Mage Pupil",
             "from": "Inscryption Overhaul",
             "displayName": "Mage Pupil",
@@ -642,27 +663,6 @@
             ],
             "artist": "",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mage-Pupil-20a64bd9f6068042b994f99f99165183",
-            "tags": [
-                "Magick",
-                "Common"
-            ]
-        },
-        {
-            "internalName": "Essence Weaver",
-            "from": "Inscryption Overhaul",
-            "displayName": "Essence Weaver",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "cost": "1 Garnet Gem",
-            "power": "X",
-            "health": "2",
-            "flavor": "Manipulating remnants of past magicks.",
-            "token": "",
-            "sigils": [
-                "Mana Manipulation"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Essence-Weaver-20a64bd9f60680b0a162e2734cc2fe2b",
             "tags": [
                 "Magick",
                 "Common"
@@ -733,27 +733,6 @@
             ]
         },
         {
-            "internalName": "Sparrow",
-            "from": "Inscryption Overhaul",
-            "displayName": "Sparrow",
-            "temple": "Beasts",
-            "rarity": "Common",
-            "cost": "1 Blood",
-            "power": "1",
-            "health": "2",
-            "flavor": "Meek and feeble, yes, but ever so useful.",
-            "token": "",
-            "sigils": [
-                "Airborne"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Sparrow-20a64bd9f6068015b8dce0ecbdf78ffb",
-            "tags": [
-                "Beast",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Magpie",
             "from": "Inscryption Overhaul",
             "displayName": "Magpie",
@@ -770,6 +749,27 @@
             ],
             "artist": "",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Magpie-20a64bd9f606807e9a1aecb89bf09984",
+            "tags": [
+                "Beast",
+                "Common"
+            ]
+        },
+        {
+            "internalName": "Sparrow",
+            "from": "Inscryption Overhaul",
+            "displayName": "Sparrow",
+            "temple": "Beasts",
+            "rarity": "Common",
+            "cost": "1 Blood",
+            "power": "1",
+            "health": "2",
+            "flavor": "Meek and feeble, yes, but ever so useful.",
+            "token": "",
+            "sigils": [
+                "Airborne"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Sparrow-20a64bd9f6068015b8dce0ecbdf78ffb",
             "tags": [
                 "Beast",
                 "Common"
@@ -1057,28 +1057,6 @@
             ]
         },
         {
-            "internalName": "Leaping Trap",
-            "from": "Inscryption Overhaul",
-            "displayName": "Leaping Trap",
-            "temple": "Extras",
-            "rarity": "Common",
-            "cost": "4 Bones",
-            "power": "0",
-            "health": "1",
-            "flavor": "Very few escape it’s metal teeth.",
-            "token": "",
-            "sigils": [
-                "Steel Trap",
-                "Bloodless"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Leaping-Trap-20964bd9f60680cc9419cf794526d2d9",
-            "tags": [
-                "Terrain",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Louis",
             "from": "Inscryption Overhaul",
             "displayName": "Louis",
@@ -1098,6 +1076,28 @@
             "tags": [
                 "Beast",
                 "Deathcard"
+            ]
+        },
+        {
+            "internalName": "Leaping Trap",
+            "from": "Inscryption Overhaul",
+            "displayName": "Leaping Trap",
+            "temple": "Extras",
+            "rarity": "Common",
+            "cost": "4 Bones",
+            "power": "0",
+            "health": "1",
+            "flavor": "Very few escape it’s metal teeth.",
+            "token": "",
+            "sigils": [
+                "Steel Trap",
+                "Bloodless"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Leaping-Trap-20964bd9f60680cc9419cf794526d2d9",
+            "tags": [
+                "Terrain",
+                "Common"
             ]
         },
         {
@@ -1167,6 +1167,27 @@
             ]
         },
         {
+            "internalName": "Hunter",
+            "from": "Inscryption Overhaul",
+            "displayName": "Hunter",
+            "temple": "Extras",
+            "rarity": "Deathcard",
+            "cost": "2 Blood",
+            "power": "2",
+            "health": "3",
+            "flavor": "You know… somebody once told me…",
+            "token": "",
+            "sigils": [
+                "Unkillable"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Hunter-20964bd9f606806bb946c66c73531ed6",
+            "tags": [
+                "Beast",
+                "Deathcard"
+            ]
+        },
+        {
             "internalName": "Golden Pelt",
             "from": "Inscryption Overhaul",
             "displayName": "Golden Pelt",
@@ -1188,24 +1209,25 @@
             ]
         },
         {
-            "internalName": "Hunter",
+            "internalName": "Gold Nugget",
             "from": "Inscryption Overhaul",
-            "displayName": "Hunter",
+            "displayName": "Gold Nugget",
             "temple": "Extras",
-            "rarity": "Deathcard",
-            "cost": "2 Blood",
-            "power": "2",
-            "health": "3",
-            "flavor": "You know… somebody once told me…",
+            "rarity": "Rare",
+            "cost": "Free",
+            "power": "0",
+            "health": "2",
+            "flavor": "He finally stuck gold, did he?",
             "token": "",
             "sigils": [
-                "Unkillable"
+                "Made Of Stone",
+                "Bloodless"
             ],
             "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Hunter-20964bd9f606806bb946c66c73531ed6",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Gold-Nugget-20964bd9f606802080b2d936aab092ad",
             "tags": [
-                "Beast",
-                "Deathcard"
+                "Terrain",
+                "Rare"
             ]
         },
         {
@@ -1251,28 +1273,6 @@
                 "Technology",
                 "Terrain",
                 "Undead",
-                "Rare"
-            ]
-        },
-        {
-            "internalName": "Gold Nugget",
-            "from": "Inscryption Overhaul",
-            "displayName": "Gold Nugget",
-            "temple": "Extras",
-            "rarity": "Rare",
-            "cost": "Free",
-            "power": "0",
-            "health": "2",
-            "flavor": "He finally stuck gold, did he?",
-            "token": "",
-            "sigils": [
-                "Made Of Stone",
-                "Bloodless"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Gold-Nugget-20964bd9f606802080b2d936aab092ad",
-            "tags": [
-                "Terrain",
                 "Rare"
             ]
         },
@@ -1470,28 +1470,6 @@
             ]
         },
         {
-            "internalName": "Annabelle",
-            "from": "Inscryption Overhaul",
-            "displayName": "Annabelle",
-            "temple": "Extras",
-            "rarity": "Deathcard",
-            "cost": "2 Shattered Sapphire Gems",
-            "power": "5",
-            "health": "1",
-            "flavor": "Winning against me? Futile. Futile! Futile!",
-            "token": "",
-            "sigils": [
-                "Gem Dependant",
-                "Airborne"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Annabelle-20964bd9f60680f19aadc9fac553c572",
-            "tags": [
-                "Beast",
-                "Deathcard"
-            ]
-        },
-        {
             "internalName": "Bait Bucket",
             "from": "Inscryption Overhaul",
             "displayName": "Bait Bucket",
@@ -1511,6 +1489,28 @@
             "tags": [
                 "Terrain",
                 "Common"
+            ]
+        },
+        {
+            "internalName": "Annabelle",
+            "from": "Inscryption Overhaul",
+            "displayName": "Annabelle",
+            "temple": "Extras",
+            "rarity": "Deathcard",
+            "cost": "2 Shattered Sapphire Gems",
+            "power": "5",
+            "health": "1",
+            "flavor": "Winning against me? Futile. Futile! Futile!",
+            "token": "",
+            "sigils": [
+                "Gem Dependant",
+                "Airborne"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Annabelle-20964bd9f60680f19aadc9fac553c572",
+            "tags": [
+                "Beast",
+                "Deathcard"
             ]
         },
         {
@@ -1557,27 +1557,6 @@
             ]
         },
         {
-            "internalName": "Worm Mage",
-            "from": "Inscryption Overhaul",
-            "displayName": "Worm Mage",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "cost": "1 Blood, 1 Ruby Gem",
-            "power": "1",
-            "health": "3",
-            "flavor": "Keeps dutiful watch for intruders.",
-            "token": "",
-            "sigils": [
-                "Sentry"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Worm-Mage-20664bd9f60680c49c48e1614687be9f",
-            "tags": [
-                "Magick",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Yed’s Mox",
             "from": "Inscryption Overhaul",
             "displayName": "Yed’s Mox",
@@ -1597,6 +1576,27 @@
             "tags": [
                 "Magick",
                 "Rare"
+            ]
+        },
+        {
+            "internalName": "Worm Mage",
+            "from": "Inscryption Overhaul",
+            "displayName": "Worm Mage",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "cost": "1 Blood, 1 Ruby Gem",
+            "power": "1",
+            "health": "3",
+            "flavor": "Keeps dutiful watch for intruders.",
+            "token": "",
+            "sigils": [
+                "Sentry"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Worm-Mage-20664bd9f60680c49c48e1614687be9f",
+            "tags": [
+                "Magick",
+                "Common"
             ]
         },
         {
@@ -1707,27 +1707,6 @@
             ]
         },
         {
-            "internalName": "Tome Sage",
-            "from": "Inscryption Overhaul",
-            "displayName": "Tome Sage",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "cost": "1 Topaz Gem",
-            "power": "1",
-            "health": "2",
-            "flavor": "Always studying the ancient texts.",
-            "token": "",
-            "sigils": [
-                "Mox Miner"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Tome-Sage-20664bd9f6068071a94cea31405d1a38",
-            "tags": [
-                "Magick",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Ticked Mage",
             "from": "Inscryption Overhaul",
             "displayName": "Ticked Mage",
@@ -1743,6 +1722,27 @@
             ],
             "artist": "",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Ticked-Mage-20664bd9f60680338549fe4b037ec379",
+            "tags": [
+                "Magick",
+                "Common"
+            ]
+        },
+        {
+            "internalName": "Tome Sage",
+            "from": "Inscryption Overhaul",
+            "displayName": "Tome Sage",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "cost": "1 Topaz Gem",
+            "power": "1",
+            "health": "2",
+            "flavor": "Always studying the ancient texts.",
+            "token": "",
+            "sigils": [
+                "Mox Miner"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Tome-Sage-20664bd9f6068071a94cea31405d1a38",
             "tags": [
                 "Magick",
                 "Common"
@@ -2283,27 +2283,6 @@
             ]
         },
         {
-            "internalName": "Ruby Mox",
-            "from": "Inscryption Overhaul",
-            "displayName": "Ruby Mox",
-            "temple": "Magicks",
-            "rarity": "Side-Deck",
-            "cost": "Free",
-            "power": "0",
-            "health": "1",
-            "flavor": "A conduit for ruby magicks.",
-            "token": "",
-            "sigils": [
-                "Orange Gem"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Ruby-Mox-20264bd9f606800bb045e5694e4a0579",
-            "tags": [
-                "Magick",
-                "Side-Deck"
-            ]
-        },
-        {
             "internalName": "Ruby Golem",
             "from": "Inscryption Overhaul",
             "displayName": "Ruby Golem",
@@ -2322,6 +2301,27 @@
             "tags": [
                 "Magick",
                 "Common"
+            ]
+        },
+        {
+            "internalName": "Ruby Mox",
+            "from": "Inscryption Overhaul",
+            "displayName": "Ruby Mox",
+            "temple": "Magicks",
+            "rarity": "Side-Deck",
+            "cost": "Free",
+            "power": "0",
+            "health": "1",
+            "flavor": "A conduit for ruby magicks.",
+            "token": "",
+            "sigils": [
+                "Orange Gem"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Ruby-Mox-20264bd9f606800bb045e5694e4a0579",
+            "tags": [
+                "Magick",
+                "Side-Deck"
             ]
         },
         {
@@ -2497,6 +2497,27 @@
             ]
         },
         {
+            "internalName": "Prismatic Pillar",
+            "from": "Inscryption Overhaul",
+            "displayName": "Prismatic Enchantment",
+            "temple": "Magicks",
+            "rarity": "Rare",
+            "cost": "2 Shattered Prism Gem, 1 Shattered Emerald Gem",
+            "power": "0",
+            "health": "2",
+            "flavor": "An experimental meddling of magicks and science.",
+            "token": "",
+            "sigils": [
+                "Moximum Enchantment"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Prismatic-Enchantment-1fa64bd9f60680b7b9d8de84ced776d5",
+            "tags": [
+                "Magick",
+                "Rare"
+            ]
+        },
+        {
             "internalName": "Prism Mox",
             "from": "Inscryption Overhaul",
             "displayName": "Prism Mox",
@@ -2559,27 +2580,6 @@
             "tags": [
                 "Magick",
                 "Common"
-            ]
-        },
-        {
-            "internalName": "Prismatic Pillar",
-            "from": "Inscryption Overhaul",
-            "displayName": "Prismatic Enchantment",
-            "temple": "Magicks",
-            "rarity": "Rare",
-            "cost": "2 Shattered Prism Gem, 1 Shattered Emerald Gem",
-            "power": "0",
-            "health": "2",
-            "flavor": "An experimental meddling of magicks and science.",
-            "token": "",
-            "sigils": [
-                "Moximum Enchantment"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Prismatic-Enchantment-1fa64bd9f60680b7b9d8de84ced776d5",
-            "tags": [
-                "Magick",
-                "Rare"
             ]
         },
         {
@@ -2752,27 +2752,6 @@
             ]
         },
         {
-            "internalName": "Party Magician",
-            "from": "Inscryption Overhaul",
-            "displayName": "Party Magician",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "cost": "1 Shattered Sapphire Gem",
-            "power": "1",
-            "health": "1",
-            "flavor": "Nothing spectacular…but entertaining.",
-            "token": "",
-            "sigils": [
-                "Rabbit Hole"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Party-Magician-1f864bd9f60680a4bef1cbba9d6d63aa",
-            "tags": [
-                "Magick",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Osteomancer",
             "from": "Inscryption Overhaul",
             "displayName": "Osteomancer",
@@ -2792,6 +2771,27 @@
             "tags": [
                 "Magick",
                 "Rare"
+            ]
+        },
+        {
+            "internalName": "Party Magician",
+            "from": "Inscryption Overhaul",
+            "displayName": "Party Magician",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "cost": "1 Shattered Sapphire Gem",
+            "power": "1",
+            "health": "1",
+            "flavor": "Nothing spectacular…but entertaining.",
+            "token": "",
+            "sigils": [
+                "Rabbit Hole"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Party-Magician-1f864bd9f60680a4bef1cbba9d6d63aa",
+            "tags": [
+                "Magick",
+                "Common"
             ]
         },
         {
@@ -2860,28 +2860,6 @@
             ]
         },
         {
-            "internalName": "Mox Conduit",
-            "from": "Inscryption Overhaul",
-            "displayName": "Mox Conduit",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "cost": "1 Shattered Emerald Gem",
-            "power": "0",
-            "health": "2",
-            "flavor": "An experimental meddling of magicks and science.",
-            "token": "",
-            "sigils": [
-                "Null Conduit",
-                "Null Enchantment"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mox-Mage-1f264bd9f60680e59b30eb571785d279",
-            "tags": [
-                "Magick",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Muscle Mage",
             "from": "Inscryption Overhaul",
             "displayName": "Muscle Mage",
@@ -2898,6 +2876,28 @@
             ],
             "artist": "",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Muscle-Mage-1f264bd9f6068060887ee63c0edfa0bd",
+            "tags": [
+                "Magick",
+                "Common"
+            ]
+        },
+        {
+            "internalName": "Mox Conduit",
+            "from": "Inscryption Overhaul",
+            "displayName": "Mox Conduit",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "cost": "1 Shattered Emerald Gem",
+            "power": "0",
+            "health": "2",
+            "flavor": "An experimental meddling of magicks and science.",
+            "token": "",
+            "sigils": [
+                "Null Conduit",
+                "Null Enchantment"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mox-Mage-1f264bd9f60680e59b30eb571785d279",
             "tags": [
                 "Magick",
                 "Common"
@@ -2989,6 +2989,27 @@
             ]
         },
         {
+            "internalName": "Mind Flayer",
+            "from": "Inscryption Overhaul",
+            "displayName": "Mind Flayer",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "cost": "2 Amethyst Gems",
+            "power": "2",
+            "health": "1",
+            "flavor": "Immense psionic power, frail physically.",
+            "token": "",
+            "sigils": [
+                "Aggressive Anticipation"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mind-Flayer-1f264bd9f606801c8206d47f7c234f9c",
+            "tags": [
+                "Magick",
+                "Common"
+            ]
+        },
+        {
             "internalName": "Mirror Mage",
             "from": "Inscryption Overhaul",
             "displayName": "Mirror Mage",
@@ -3029,27 +3050,6 @@
             "tags": [
                 "Magick",
                 "Rare"
-            ]
-        },
-        {
-            "internalName": "Mind Flayer",
-            "from": "Inscryption Overhaul",
-            "displayName": "Mind Flayer",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "cost": "2 Amethyst Gems",
-            "power": "2",
-            "health": "1",
-            "flavor": "Immense psionic power, frail physically.",
-            "token": "",
-            "sigils": [
-                "Aggressive Anticipation"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mind-Flayer-1f264bd9f606801c8206d47f7c234f9c",
-            "tags": [
-                "Magick",
-                "Common"
             ]
         },
         {
@@ -3202,6 +3202,27 @@
             ]
         },
         {
+            "internalName": "Master Gurple",
+            "from": "Inscryption Overhaul",
+            "displayName": "Master Gurple",
+            "temple": "Magicks",
+            "rarity": "Rare",
+            "cost": "1 Emerald Gem, 1 Amethyst Gem",
+            "power": "0",
+            "health": "3",
+            "flavor": "A ruinous and false king, yet powerful.",
+            "token": "",
+            "sigils": [
+                "Rotten Feast"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Master-Gurple-1f264bd9f60680aaaaf5ec7c8226dd93",
+            "tags": [
+                "Magick",
+                "Rare"
+            ]
+        },
+        {
             "internalName": "Master Grielo",
             "from": "Inscryption Overhaul",
             "displayName": "Master Grielo",
@@ -3218,27 +3239,6 @@
             ],
             "artist": "",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Master-Grielo-1f264bd9f6068092b237cd611f0054fe",
-            "tags": [
-                "Magick",
-                "Rare"
-            ]
-        },
-        {
-            "internalName": "Master Gurple",
-            "from": "Inscryption Overhaul",
-            "displayName": "Master Gurple",
-            "temple": "Magicks",
-            "rarity": "Rare",
-            "cost": "1 Emerald Gem, 1 Amethyst Gem",
-            "power": "0",
-            "health": "3",
-            "flavor": "A ruinous and false king, yet powerful.",
-            "token": "",
-            "sigils": [
-                "Rotten Feast"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Master-Gurple-1f264bd9f60680aaaaf5ec7c8226dd93",
             "tags": [
                 "Magick",
                 "Rare"
@@ -3458,28 +3458,6 @@
             ]
         },
         {
-            "internalName": "Magickant",
-            "from": "Inscryption Overhaul",
-            "displayName": "Magickant",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "cost": "3 Sapphire Gems",
-            "power": "X",
-            "health": "2",
-            "flavor": "It has learned the ways of the summoner.",
-            "token": "",
-            "sigils": [
-                "Colony",
-                "Many Lives"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Magickant-1ec64bd9f60680a4bae7f5b153c48fcc",
-            "tags": [
-                "Magick",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Magickal Mariner",
             "from": "Inscryption Overhaul",
             "displayName": "Magickal Mariner",
@@ -3501,22 +3479,22 @@
             ]
         },
         {
-            "internalName": "Mage Slayer",
+            "internalName": "Magickant",
             "from": "Inscryption Overhaul",
-            "displayName": "Mage Slayer",
+            "displayName": "Magickant",
             "temple": "Magicks",
             "rarity": "Common",
-            "cost": "1 Shattered Prism Gem",
-            "power": "2",
-            "health": "1",
-            "flavor": "Strikes down mages for what they are.",
+            "cost": "3 Sapphire Gems",
+            "power": "X",
+            "health": "2",
+            "flavor": "It has learned the ways of the summoner.",
             "token": "",
             "sigils": [
-                "Purist",
-                "Gem Dependent"
+                "Colony",
+                "Many Lives"
             ],
             "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mage-Slayer-1e764bd9f60680879f08e0034e835fd9",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Magickant-1ec64bd9f60680a4bae7f5b153c48fcc",
             "tags": [
                 "Magick",
                 "Common"
@@ -3541,6 +3519,28 @@
             "tags": [
                 "Magick",
                 "Rare"
+            ]
+        },
+        {
+            "internalName": "Mage Slayer",
+            "from": "Inscryption Overhaul",
+            "displayName": "Mage Slayer",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "cost": "1 Shattered Prism Gem",
+            "power": "2",
+            "health": "1",
+            "flavor": "Strikes down mages for what they are.",
+            "token": "",
+            "sigils": [
+                "Purist",
+                "Gem Dependent"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mage-Slayer-1e764bd9f60680879f08e0034e835fd9",
+            "tags": [
+                "Magick",
+                "Common"
             ]
         },
         {
@@ -3758,6 +3758,27 @@
             ]
         },
         {
+            "internalName": "Hexen",
+            "from": "Inscryption Overhaul",
+            "displayName": "Hexen",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "cost": "1 Prism Gem, 1 Amethyst Gem",
+            "power": "1",
+            "health": "1",
+            "flavor": "Once you’ve been marked, there is no escape, give up.",
+            "token": "",
+            "sigils": [
+                "Mark For Death"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Hexen-1e364bd9f6068021a0c3d3d26dc0d91d",
+            "tags": [
+                "Magick",
+                "Common"
+            ]
+        },
+        {
             "internalName": "Hat Trickster",
             "from": "Inscryption Overhaul",
             "displayName": "Hat Trickster",
@@ -3774,27 +3795,6 @@
             ],
             "artist": "",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Hat-Trickster-1e364bd9f6068025a99ce1d4aa641395",
-            "tags": [
-                "Magick",
-                "Common"
-            ]
-        },
-        {
-            "internalName": "Hexen",
-            "from": "Inscryption Overhaul",
-            "displayName": "Hexen",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "cost": "1 Prism Gem, 1 Amethyst Gem",
-            "power": "1",
-            "health": "1",
-            "flavor": "Once you’ve been marked, there is no escape, give up.",
-            "token": "",
-            "sigils": [
-                "Mark For Death"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Hexen-1e364bd9f6068021a0c3d3d26dc0d91d",
             "tags": [
                 "Magick",
                 "Common"
@@ -3844,6 +3844,27 @@
             ]
         },
         {
+            "internalName": "Guardian Mage",
+            "from": "Inscryption Overhaul",
+            "displayName": "Guardian Mage",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "cost": "1 Shattered Ruby Gem",
+            "power": "1",
+            "health": "1",
+            "flavor": "Protective of what fuels their magic.",
+            "token": "",
+            "sigils": [
+                "Gem Guardian"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Guardian-Mage-1e364bd9f60680e98398fa99069f912b",
+            "tags": [
+                "Magick",
+                "Common"
+            ]
+        },
+        {
             "internalName": "Grielo’s Mox",
             "from": "Inscryption Overhaul",
             "displayName": "Grielo’s Mox",
@@ -3866,21 +3887,21 @@
             ]
         },
         {
-            "internalName": "Guardian Mage",
+            "internalName": "Green Mage",
             "from": "Inscryption Overhaul",
-            "displayName": "Guardian Mage",
+            "displayName": "Green Mage",
             "temple": "Magicks",
             "rarity": "Common",
-            "cost": "1 Shattered Ruby Gem",
-            "power": "1",
-            "health": "1",
-            "flavor": "Protective of what fuels their magic.",
+            "cost": "1 Emerald Gem",
+            "power": "X",
+            "health": "2",
+            "flavor": "They’re powered directly by gems.",
             "token": "",
             "sigils": [
-                "Gem Guardian"
+                "Mox Powered"
             ],
             "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Guardian-Mage-1e364bd9f60680e98398fa99069f912b",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Green-Mage-1df64bd9f60680b69d7ce35d02feba64",
             "tags": [
                 "Magick",
                 "Common"
@@ -3931,21 +3952,21 @@
             ]
         },
         {
-            "internalName": "Green Mage",
+            "internalName": "Gourmage",
             "from": "Inscryption Overhaul",
-            "displayName": "Green Mage",
+            "displayName": "Gourmage",
             "temple": "Magicks",
             "rarity": "Common",
             "cost": "1 Emerald Gem",
-            "power": "X",
-            "health": "2",
-            "flavor": "They’re powered directly by gems.",
+            "power": "1",
+            "health": "1",
+            "flavor": "A fine chef of the highest class.",
             "token": "",
             "sigils": [
-                "Mox Powered"
+                "Gourmet Gulper"
             ],
             "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Green-Mage-1df64bd9f60680b69d7ce35d02feba64",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Gourmage-1df64bd9f6068075a897cff70c6adae9",
             "tags": [
                 "Magick",
                 "Common"
@@ -3993,27 +4014,6 @@
             "tags": [
                 "Magick",
                 "Talking"
-            ]
-        },
-        {
-            "internalName": "Gourmage",
-            "from": "Inscryption Overhaul",
-            "displayName": "Gourmage",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "cost": "1 Emerald Gem",
-            "power": "1",
-            "health": "1",
-            "flavor": "A fine chef of the highest class.",
-            "token": "",
-            "sigils": [
-                "Gourmet Gulper"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Gourmage-1df64bd9f6068075a897cff70c6adae9",
-            "tags": [
-                "Magick",
-                "Common"
             ]
         },
         {
@@ -4255,6 +4255,27 @@
             ]
         },
         {
+            "internalName": "Fortune Teller",
+            "from": "Inscryption Overhaul",
+            "displayName": "Fortune Teller",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "cost": "2 Sapphire Gems",
+            "power": "0",
+            "health": "2",
+            "flavor": "Sees the future and your fate.",
+            "token": "",
+            "sigils": [
+                "Scry"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Fortune-Teller-1c164bd9f606806d856ad762d895aabd",
+            "tags": [
+                "Magick",
+                "Common"
+            ]
+        },
+        {
             "internalName": "Former Noble",
             "from": "Inscryption Overhaul",
             "displayName": "Former Noble",
@@ -4277,21 +4298,21 @@
             ]
         },
         {
-            "internalName": "Fortune Teller",
+            "internalName": "Forest Gnome",
             "from": "Inscryption Overhaul",
-            "displayName": "Fortune Teller",
+            "displayName": "Forest Gnome",
             "temple": "Magicks",
             "rarity": "Common",
-            "cost": "2 Sapphire Gems",
-            "power": "0",
-            "health": "2",
-            "flavor": "Sees the future and your fate.",
+            "cost": "2 Shattered Topaz Gems",
+            "power": "1",
+            "health": "3",
+            "flavor": "You won’t hurt a fly.",
             "token": "",
             "sigils": [
-                "Scry"
+                "Nature Protector"
             ],
             "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Fortune-Teller-1c164bd9f606806d856ad762d895aabd",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Forest-Gnome-1b564bd9f6068068998fc08111f40096",
             "tags": [
                 "Magick",
                 "Common"
@@ -4341,27 +4362,6 @@
             ]
         },
         {
-            "internalName": "Forest Gnome",
-            "from": "Inscryption Overhaul",
-            "displayName": "Forest Gnome",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "cost": "2 Shattered Topaz Gems",
-            "power": "1",
-            "health": "3",
-            "flavor": "You won’t hurt a fly.",
-            "token": "",
-            "sigils": [
-                "Nature Protector"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Forest-Gnome-1b564bd9f6068068998fc08111f40096",
-            "tags": [
-                "Magick",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Flawless Clockwork",
             "from": "Inscryption Overhaul",
             "displayName": "Flawless Clockwork",
@@ -4381,28 +4381,6 @@
             "tags": [
                 "Magick",
                 "Rare"
-            ]
-        },
-        {
-            "internalName": "Fire Breather",
-            "from": "Inscryption Overhaul",
-            "displayName": "Fire Breather",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "cost": "2 Topaz Gems",
-            "power": "1",
-            "health": "1",
-            "flavor": "Gets the audience all fired up.",
-            "token": "",
-            "sigils": [
-                "Stacker",
-                "Flame Spewing"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Fire-Breather-1b564bd9f60680bd9b2bc0019b515a8f",
-            "tags": [
-                "Magick",
-                "Common"
             ]
         },
         {
@@ -4527,6 +4505,28 @@
             ],
             "artist": "",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Electromancer-1b564bd9f6068098a9d9dcbe50bb0fdd",
+            "tags": [
+                "Magick",
+                "Common"
+            ]
+        },
+        {
+            "internalName": "Fire Breather",
+            "from": "Inscryption Overhaul",
+            "displayName": "Fire Breather",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "cost": "2 Topaz Gems",
+            "power": "1",
+            "health": "1",
+            "flavor": "Gets the audience all fired up.",
+            "token": "",
+            "sigils": [
+                "Stacker",
+                "Flame Spewing"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Fire-Breather-1b564bd9f60680bd9b2bc0019b515a8f",
             "tags": [
                 "Magick",
                 "Common"
@@ -4661,27 +4661,6 @@
             ]
         },
         {
-            "internalName": "Detective Mage",
-            "from": "Inscryption Overhaul",
-            "displayName": "Detective Mage",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "cost": "2 Shattered Emerald Gems",
-            "power": "1",
-            "health": "2",
-            "flavor": "Always has bright ideas.",
-            "token": "",
-            "sigils": [
-                "Hoarder"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Detective-Mage-1b564bd9f6068084bef2e4392bf79ed6",
-            "tags": [
-                "Magick",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Death Lich",
             "from": "Inscryption Overhaul",
             "displayName": "Death Lich",
@@ -4701,6 +4680,27 @@
             "tags": [
                 "Magick",
                 "Rare"
+            ]
+        },
+        {
+            "internalName": "Detective Mage",
+            "from": "Inscryption Overhaul",
+            "displayName": "Detective Mage",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "cost": "2 Shattered Emerald Gems",
+            "power": "1",
+            "health": "2",
+            "flavor": "Always has bright ideas.",
+            "token": "",
+            "sigils": [
+                "Hoarder"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Detective-Mage-1b564bd9f6068084bef2e4392bf79ed6",
+            "tags": [
+                "Magick",
+                "Common"
             ]
         },
         {
@@ -4812,24 +4812,24 @@
             ]
         },
         {
-            "internalName": "Chaos Sorcerer",
+            "internalName": "Chronogolem",
             "from": "Inscryption Overhaul",
-            "displayName": "Chaos Sorcerer",
+            "displayName": "Chronogolem",
             "temple": "Magicks",
-            "rarity": "Common",
-            "cost": "2 Topaz Gems",
-            "power": "2",
-            "health": "2",
-            "flavor": "Reality has never been weirder.",
+            "rarity": "Rare",
+            "cost": "3 Emerald Gems",
+            "power": "0",
+            "health": "3",
+            "flavor": "Counting the sands of time, grain by grain.",
             "token": "",
             "sigils": [
-                "Chaos Magic"
+                "Extra Seconds"
             ],
             "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Chaos-Sorcerer-1b364bd9f60680d2a5b7fa35ab7aff65",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Chronogolem-1b464bd9f60680feb4fef352a2798de5",
             "tags": [
                 "Magick",
-                "Common"
+                "Rare"
             ]
         },
         {
@@ -4848,6 +4848,27 @@
             ],
             "artist": "",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Chaos-Gnome-1b364bd9f6068020918ae450e6dd48a8",
+            "tags": [
+                "Magick",
+                "Common"
+            ]
+        },
+        {
+            "internalName": "Chaos Sorcerer",
+            "from": "Inscryption Overhaul",
+            "displayName": "Chaos Sorcerer",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "cost": "2 Topaz Gems",
+            "power": "2",
+            "health": "2",
+            "flavor": "Reality has never been weirder.",
+            "token": "",
+            "sigils": [
+                "Chaos Magic"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Chaos-Sorcerer-1b364bd9f60680d2a5b7fa35ab7aff65",
             "tags": [
                 "Magick",
                 "Common"
@@ -4897,48 +4918,6 @@
             ]
         },
         {
-            "internalName": "Brutalist Beast",
-            "from": "Inscryption Overhaul",
-            "displayName": "Brutalist Beast",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "cost": "1 Blood, 1 Ruby Gem",
-            "power": "1",
-            "health": "3",
-            "flavor": "God [BLEEP] dammit, drow knight-",
-            "token": "",
-            "sigils": [
-                "Bloodlust"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Brutalist-Beast-1b364bd9f60680049b2ae35b98069685",
-            "tags": [
-                "Magick",
-                "Common"
-            ]
-        },
-        {
-            "internalName": "Chronogolem",
-            "from": "Inscryption Overhaul",
-            "displayName": "Chronogolem",
-            "temple": "Magicks",
-            "rarity": "Rare",
-            "cost": "3 Emerald Gems",
-            "power": "0",
-            "health": "3",
-            "flavor": "Counting the sands of time, grain by grain.",
-            "token": "",
-            "sigils": [
-                "Extra Seconds"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Chronogolem-1b464bd9f60680feb4fef352a2798de5",
-            "tags": [
-                "Magick",
-                "Rare"
-            ]
-        },
-        {
             "internalName": "Brush Mage",
             "from": "Inscryption Overhaul",
             "displayName": "Brush Mage",
@@ -4957,6 +4936,27 @@
             "tags": [
                 "Magick",
                 "Talking"
+            ]
+        },
+        {
+            "internalName": "Brutalist Beast",
+            "from": "Inscryption Overhaul",
+            "displayName": "Brutalist Beast",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "cost": "1 Blood, 1 Ruby Gem",
+            "power": "1",
+            "health": "3",
+            "flavor": "God [BLEEP] dammit, drow knight-",
+            "token": "",
+            "sigils": [
+                "Bloodlust"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Brutalist-Beast-1b364bd9f60680049b2ae35b98069685",
+            "tags": [
+                "Magick",
+                "Common"
             ]
         },
         {
@@ -5004,28 +5004,6 @@
             ]
         },
         {
-            "internalName": "Box Tricksters",
-            "from": "Inscryption Overhaul",
-            "displayName": "Box Tricksters",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "cost": "2 Topaz Gems",
-            "power": "1",
-            "health": "1",
-            "flavor": "In one box, out the other.",
-            "token": "",
-            "sigils": [
-                "Stacker",
-                "Box Trick"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Box-Tricksters-1b364bd9f60680cc8c0cf6ac033f8a1b",
-            "tags": [
-                "Magick",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Bookkeeper",
             "from": "Inscryption Overhaul",
             "displayName": "Bookkeeper",
@@ -5069,6 +5047,28 @@
             ]
         },
         {
+            "internalName": "Box Tricksters",
+            "from": "Inscryption Overhaul",
+            "displayName": "Box Tricksters",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "cost": "2 Topaz Gems",
+            "power": "1",
+            "health": "1",
+            "flavor": "In one box, out the other.",
+            "token": "",
+            "sigils": [
+                "Stacker",
+                "Box Trick"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Box-Tricksters-1b364bd9f60680cc8c0cf6ac033f8a1b",
+            "tags": [
+                "Magick",
+                "Common"
+            ]
+        },
+        {
             "internalName": "Blue Magus The Good",
             "from": "Inscryption Overhaul",
             "displayName": "Blue Magus The Good",
@@ -5087,6 +5087,27 @@
             "tags": [
                 "Magick",
                 "Talking"
+            ]
+        },
+        {
+            "internalName": "Blue Mage",
+            "from": "Inscryption Overhaul",
+            "displayName": "Blue Mage",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "cost": "1 Sapphire Gem",
+            "power": "0",
+            "health": "1",
+            "flavor": "Creation is a powerful tool.",
+            "token": "",
+            "sigils": [
+                "Mental Gemnastics"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Blue-Mage-1ad64bd9f606808c806ed349d14be46f",
+            "tags": [
+                "Magick",
+                "Common"
             ]
         },
         {
@@ -5112,24 +5133,25 @@
             ]
         },
         {
-            "internalName": "Blue Mage",
+            "internalName": "Bleene’s Mox",
             "from": "Inscryption Overhaul",
-            "displayName": "Blue Mage",
+            "displayName": "Bleene’s Mox",
             "temple": "Magicks",
-            "rarity": "Common",
-            "cost": "1 Sapphire Gem",
+            "rarity": "Rare",
+            "cost": "Free",
             "power": "0",
-            "health": "1",
-            "flavor": "Creation is a powerful tool.",
+            "health": "2",
+            "flavor": "Created by bleene to focus their mind.",
             "token": "",
             "sigils": [
-                "Mental Gemnastics"
+                "Blue Gem",
+                "Green Gem"
             ],
             "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Blue-Mage-1ad64bd9f606808c806ed349d14be46f",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Bleene-s-Mox-1ad64bd9f60680929cc8cf11591e001b",
             "tags": [
                 "Magick",
-                "Common"
+                "Rare"
             ]
         },
         {
@@ -5149,28 +5171,6 @@
             ],
             "artist": "",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Belle-s-Mox-1ad64bd9f606806bac87c31acbe318b1",
-            "tags": [
-                "Magick",
-                "Rare"
-            ]
-        },
-        {
-            "internalName": "Bleene’s Mox",
-            "from": "Inscryption Overhaul",
-            "displayName": "Bleene’s Mox",
-            "temple": "Magicks",
-            "rarity": "Rare",
-            "cost": "Free",
-            "power": "0",
-            "health": "2",
-            "flavor": "Created by bleene to focus their mind.",
-            "token": "",
-            "sigils": [
-                "Blue Gem",
-                "Green Gem"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Bleene-s-Mox-1ad64bd9f60680929cc8cf11591e001b",
             "tags": [
                 "Magick",
                 "Rare"
@@ -5261,27 +5261,6 @@
             ]
         },
         {
-            "internalName": "Ascended Slime",
-            "from": "Inscryption Overhaul",
-            "displayName": "Ascended Slime",
-            "temple": "Magicks",
-            "rarity": "Common",
-            "cost": "3 Blood, 1 Emerald Gem",
-            "power": "3",
-            "health": "3",
-            "flavor": "An ascended slime approaches menacingly…",
-            "token": "",
-            "sigils": [
-                "Sword and Shield"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Ascended-Slime-1ab64bd9f6068020a26cf7b8ce862040",
-            "tags": [
-                "Magick",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Automatox",
             "from": "Inscryption Overhaul",
             "displayName": "Automatox",
@@ -5304,22 +5283,21 @@
             ]
         },
         {
-            "internalName": "Animox",
+            "internalName": "Ascended Slime",
             "from": "Inscryption Overhaul",
-            "displayName": "Animox",
+            "displayName": "Ascended Slime",
             "temple": "Magicks",
             "rarity": "Common",
-            "cost": "1 Shattered Sapphire Gem",
-            "power": "1",
-            "health": "1",
-            "flavor": "It got up, and it walked away.",
+            "cost": "3 Blood, 1 Emerald Gem",
+            "power": "3",
+            "health": "3",
+            "flavor": "An ascended slime approaches menacingly…",
             "token": "",
             "sigils": [
-                "Blue Gem",
-                "Sprinter"
+                "Sword and Shield"
             ],
             "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Animox-1ab64bd9f606809d9f66eb2eca925994",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Ascended-Slime-1ab64bd9f6068020a26cf7b8ce862040",
             "tags": [
                 "Magick",
                 "Common"
@@ -5345,6 +5323,28 @@
             "tags": [
                 "Magick",
                 "Rare"
+            ]
+        },
+        {
+            "internalName": "Animox",
+            "from": "Inscryption Overhaul",
+            "displayName": "Animox",
+            "temple": "Magicks",
+            "rarity": "Common",
+            "cost": "1 Shattered Sapphire Gem",
+            "power": "1",
+            "health": "1",
+            "flavor": "It got up, and it walked away.",
+            "token": "",
+            "sigils": [
+                "Blue Gem",
+                "Sprinter"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Animox-1ab64bd9f606809d9f66eb2eca925994",
+            "tags": [
+                "Magick",
+                "Common"
             ]
         },
         {
@@ -5518,27 +5518,6 @@
             ]
         },
         {
-            "internalName": "Wolf Cub",
-            "from": "Inscryption Overhaul",
-            "displayName": "Wolf Cub",
-            "temple": "Beasts",
-            "rarity": "Common",
-            "cost": "1 Blood",
-            "power": "1",
-            "health": "1",
-            "flavor": "An ambitious predator, needing only time.",
-            "token": "Wolf",
-            "sigils": [
-                "Fledgling"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Wolf-Cub-1a564bd9f60680d8bf7ed29a724bcefe",
-            "tags": [
-                "Beast",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Wolf",
             "from": "Inscryption Overhaul",
             "displayName": "Wolf",
@@ -5560,27 +5539,6 @@
             ]
         },
         {
-            "internalName": "Warren",
-            "from": "Inscryption Overhaul",
-            "displayName": "Warren",
-            "temple": "Beasts",
-            "rarity": "Common",
-            "cost": "1 Blood",
-            "power": "0",
-            "health": "2",
-            "flavor": "A bountiful pit of hares.",
-            "token": "",
-            "sigils": [
-                "Rabbit Hole"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Warren-1a564bd9f60680eba2e6e878b4d357ac",
-            "tags": [
-                "Beast",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Wild Bull",
             "from": "Inscryption Overhaul",
             "displayName": "Wild Bull",
@@ -5596,6 +5554,48 @@
             ],
             "artist": "",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Wild-Bull-1a564bd9f606806d92ceecf115f50087",
+            "tags": [
+                "Beast",
+                "Common"
+            ]
+        },
+        {
+            "internalName": "Wolf Cub",
+            "from": "Inscryption Overhaul",
+            "displayName": "Wolf Cub",
+            "temple": "Beasts",
+            "rarity": "Common",
+            "cost": "1 Blood",
+            "power": "1",
+            "health": "1",
+            "flavor": "An ambitious predator, needing only time.",
+            "token": "Wolf",
+            "sigils": [
+                "Fledgling"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Wolf-Cub-1a564bd9f60680d8bf7ed29a724bcefe",
+            "tags": [
+                "Beast",
+                "Common"
+            ]
+        },
+        {
+            "internalName": "Warren",
+            "from": "Inscryption Overhaul",
+            "displayName": "Warren",
+            "temple": "Beasts",
+            "rarity": "Common",
+            "cost": "1 Blood",
+            "power": "0",
+            "health": "2",
+            "flavor": "A bountiful pit of hares.",
+            "token": "",
+            "sigils": [
+                "Rabbit Hole"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Warren-1a564bd9f60680eba2e6e878b4d357ac",
             "tags": [
                 "Beast",
                 "Common"
@@ -5922,6 +5922,26 @@
             ]
         },
         {
+            "internalName": "River Snapper",
+            "from": "Inscryption Overhaul",
+            "displayName": "River Snapper",
+            "temple": "Beasts",
+            "rarity": "Common",
+            "cost": "2 Blood",
+            "power": "1",
+            "health": "6",
+            "flavor": "Stalwart in the face of adversity.",
+            "token": "",
+            "sigils": [
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/River-Snapper-19f64bd9f606809da705c3deda9277df",
+            "tags": [
+                "Beast",
+                "Common"
+            ]
+        },
+        {
             "internalName": "River Otter",
             "from": "Inscryption Overhaul",
             "displayName": "River Otter",
@@ -5937,26 +5957,6 @@
             ],
             "artist": "",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/River-Otter-19f64bd9f606805e882dd3d842af6250",
-            "tags": [
-                "Beast",
-                "Common"
-            ]
-        },
-        {
-            "internalName": "River Snapper",
-            "from": "Inscryption Overhaul",
-            "displayName": "River Snapper",
-            "temple": "Beasts",
-            "rarity": "Common",
-            "cost": "2 Blood",
-            "power": "1",
-            "health": "6",
-            "flavor": "Stalwart in the face of adversity.",
-            "token": "",
-            "sigils": [
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/River-Snapper-19f64bd9f606809da705c3deda9277df",
             "tags": [
                 "Beast",
                 "Common"
@@ -5999,6 +5999,28 @@
             ],
             "artist": "",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Redhart-19f64bd9f6068012be7dd4ea62d5b6e7",
+            "tags": [
+                "Beast",
+                "Common"
+            ]
+        },
+        {
+            "internalName": "Really Cool Dog",
+            "from": "Inscryption Overhaul",
+            "displayName": "Really Cool Dog",
+            "temple": "Beasts",
+            "rarity": "Common",
+            "cost": "2 Blood",
+            "power": "2",
+            "health": "1",
+            "flavor": "Heads up, he will bite if you call him cute.",
+            "token": "",
+            "sigils": [
+                "Ice Cold",
+                "Guardian"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Really-Cool-Dog-19f64bd9f60680e5a26fc2af69dc52a4",
             "tags": [
                 "Beast",
                 "Common"
@@ -6238,28 +6260,6 @@
             ]
         },
         {
-            "internalName": "Really Cool Dog",
-            "from": "Inscryption Overhaul",
-            "displayName": "Really Cool Dog",
-            "temple": "Beasts",
-            "rarity": "Common",
-            "cost": "2 Blood",
-            "power": "2",
-            "health": "1",
-            "flavor": "Heads up, he will bite if you call him cute.",
-            "token": "",
-            "sigils": [
-                "Ice Cold",
-                "Guardian"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Really-Cool-Dog-19f64bd9f60680e5a26fc2af69dc52a4",
-            "tags": [
-                "Beast",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Opossum",
             "from": "Inscryption Overhaul",
             "displayName": "Opossum",
@@ -6301,6 +6301,27 @@
             ]
         },
         {
+            "internalName": "Mud Turtle",
+            "from": "Inscryption Overhaul",
+            "displayName": "Mud Turtle",
+            "temple": "Beasts",
+            "rarity": "Common",
+            "cost": "2 Blood",
+            "power": "2",
+            "health": "1",
+            "flavor": "Frail turtle, protected by its shell.",
+            "token": "",
+            "sigils": [
+                "Armored"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mud-Turtle-19364bd9f6068064a414f3ba73fba853",
+            "tags": [
+                "Beast",
+                "Common"
+            ]
+        },
+        {
             "internalName": "Noble Stag",
             "from": "Inscryption Overhaul",
             "displayName": "Noble Stag",
@@ -6320,27 +6341,6 @@
             "tags": [
                 "Beast",
                 "Talking"
-            ]
-        },
-        {
-            "internalName": "Mud Turtle",
-            "from": "Inscryption Overhaul",
-            "displayName": "Mud Turtle",
-            "temple": "Beasts",
-            "rarity": "Common",
-            "cost": "2 Blood",
-            "power": "2",
-            "health": "1",
-            "flavor": "Frail turtle, protected by its shell.",
-            "token": "",
-            "sigils": [
-                "Armored"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mud-Turtle-19364bd9f6068064a414f3ba73fba853",
-            "tags": [
-                "Beast",
-                "Common"
             ]
         },
         {
@@ -6387,6 +6387,28 @@
             ]
         },
         {
+            "internalName": "Mole Seaman",
+            "from": "Inscryption Overhaul",
+            "displayName": "Mole Seaman",
+            "temple": "Beasts",
+            "rarity": "Rare",
+            "cost": "2 Blood",
+            "power": "2",
+            "health": "4",
+            "flavor": "Hardened from years on the sea.",
+            "token": "",
+            "sigils": [
+                "Piercing",
+                "Aquanaut"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mole-Seaman-19364bd9f606808a88b8ef084fc833cf",
+            "tags": [
+                "Beast",
+                "Rare"
+            ]
+        },
+        {
             "internalName": "Mole",
             "from": "Inscryption Overhaul",
             "displayName": "Mole",
@@ -6430,25 +6452,24 @@
             ]
         },
         {
-            "internalName": "Mole Seaman",
+            "internalName": "Mirror Tentacle",
             "from": "Inscryption Overhaul",
-            "displayName": "Mole Seaman",
+            "displayName": "Mirror Tentacle",
             "temple": "Beasts",
-            "rarity": "Rare",
-            "cost": "2 Blood",
-            "power": "2",
-            "health": "4",
-            "flavor": "Hardened from years on the sea.",
+            "rarity": "Common",
+            "cost": "1 Blood",
+            "power": "X",
+            "health": "3",
+            "flavor": "Curious…",
             "token": "",
             "sigils": [
-                "Piercing",
-                "Aquanaut"
+                "Facsimile"
             ],
             "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mole-Seaman-19364bd9f606808a88b8ef084fc833cf",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mirror-Tentacle-19264bd9f606802a8da6fb7875fd5291",
             "tags": [
                 "Beast",
-                "Rare"
+                "Common"
             ]
         },
         {
@@ -6474,27 +6495,6 @@
             ]
         },
         {
-            "internalName": "Mirror Tentacle",
-            "from": "Inscryption Overhaul",
-            "displayName": "Mirror Tentacle",
-            "temple": "Beasts",
-            "rarity": "Common",
-            "cost": "1 Blood",
-            "power": "X",
-            "health": "3",
-            "flavor": "Curious…",
-            "token": "",
-            "sigils": [
-                "Facsimile"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mirror-Tentacle-19264bd9f606802a8da6fb7875fd5291",
-            "tags": [
-                "Beast",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Mealworm",
             "from": "Inscryption Overhaul",
             "displayName": "Mealworm",
@@ -6511,27 +6511,6 @@
             ],
             "artist": "",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mealworm-19264bd9f606805ea3ebf1c2e2c87f0c",
-            "tags": [
-                "Beast",
-                "Common"
-            ]
-        },
-        {
-            "internalName": "Mantis",
-            "from": "Inscryption Overhaul",
-            "displayName": "Mantis",
-            "temple": "Beasts",
-            "rarity": "Common",
-            "cost": "4 Bones",
-            "power": "1",
-            "health": "1",
-            "flavor": "A slight incarnation of terror.",
-            "token": "",
-            "sigils": [
-                "Bifurcated Strike"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mantis-19164bd9f6068097ade6f6efc104a6aa",
             "tags": [
                 "Beast",
                 "Common"
@@ -6640,6 +6619,27 @@
             ],
             "artist": "",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Lamprey-18f64bd9f60680c18937e2b625b4fbf4",
+            "tags": [
+                "Beast",
+                "Common"
+            ]
+        },
+        {
+            "internalName": "Mantis",
+            "from": "Inscryption Overhaul",
+            "displayName": "Mantis",
+            "temple": "Beasts",
+            "rarity": "Common",
+            "cost": "4 Bones",
+            "power": "1",
+            "health": "1",
+            "flavor": "A slight incarnation of terror.",
+            "token": "",
+            "sigils": [
+                "Bifurcated Strike"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Mantis-19164bd9f6068097ade6f6efc104a6aa",
             "tags": [
                 "Beast",
                 "Common"
@@ -6926,27 +6926,6 @@
             ]
         },
         {
-            "internalName": "Field Mice",
-            "from": "Inscryption Overhaul",
-            "displayName": "Field Mice",
-            "temple": "Beasts",
-            "rarity": "Common",
-            "cost": "2 Blood",
-            "power": "2",
-            "health": "1",
-            "flavor": "Where there is one, another is not far behind.",
-            "token": "",
-            "sigils": [
-                "Fecundity"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Field-Mice-13564bd9f6068058b642c4ee16075410?pvs=74",
-            "tags": [
-                "Beast",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Energy Tentacle",
             "from": "Inscryption Overhaul",
             "displayName": "Energy Tentacle",
@@ -6962,6 +6941,27 @@
             ],
             "artist": "",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Energy-Tentacle-13164bd9f60680249a0fc3c9de3e3a92?pvs=74",
+            "tags": [
+                "Beast",
+                "Common"
+            ]
+        },
+        {
+            "internalName": "Field Mice",
+            "from": "Inscryption Overhaul",
+            "displayName": "Field Mice",
+            "temple": "Beasts",
+            "rarity": "Common",
+            "cost": "2 Blood",
+            "power": "2",
+            "health": "1",
+            "flavor": "Where there is one, another is not far behind.",
+            "token": "",
+            "sigils": [
+                "Fecundity"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Field-Mice-13564bd9f6068058b642c4ee16075410?pvs=74",
             "tags": [
                 "Beast",
                 "Common"
@@ -7011,28 +7011,6 @@
             ]
         },
         {
-            "internalName": "Dire Wolf Pup",
-            "from": "Inscryption Overhaul",
-            "displayName": "Dire Wolf Pup",
-            "temple": "Beasts",
-            "rarity": "Common",
-            "cost": "1 Blood",
-            "power": "1",
-            "health": "1",
-            "flavor": "Sharpens its’ teeth on scrounged bones.",
-            "token": "",
-            "sigils": [
-                "Bone Digger",
-                "Fledgling"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Dire-Wolf-Pup-11564bd9f60680d9aa8ae2abeb850e1f",
-            "tags": [
-                "Beast",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Dire Wolf",
             "from": "Inscryption Overhaul",
             "displayName": "Dire Wolf",
@@ -7049,6 +7027,28 @@
             ],
             "artist": "",
             "wiki-page": "https://inscryption-pvp-wiki.notion.site/Dire-Wolf-11564bd9f606805a8c8beb44b40d4a07",
+            "tags": [
+                "Beast",
+                "Common"
+            ]
+        },
+        {
+            "internalName": "Dire Wolf Pup",
+            "from": "Inscryption Overhaul",
+            "displayName": "Dire Wolf Pup",
+            "temple": "Beasts",
+            "rarity": "Common",
+            "cost": "1 Blood",
+            "power": "1",
+            "health": "1",
+            "flavor": "Sharpens its’ teeth on scrounged bones.",
+            "token": "",
+            "sigils": [
+                "Bone Digger",
+                "Fledgling"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Dire-Wolf-Pup-11564bd9f60680d9aa8ae2abeb850e1f",
             "tags": [
                 "Beast",
                 "Common"
@@ -7331,28 +7331,6 @@
             ]
         },
         {
-            "internalName": "Beaver",
-            "from": "Inscryption Overhaul",
-            "displayName": "Beaver",
-            "temple": "Beasts",
-            "rarity": "Common",
-            "cost": "2 Blood",
-            "power": "1",
-            "health": "4",
-            "flavor": "What an Industrious creature.",
-            "token": "",
-            "sigils": [
-                "Dam Builder",
-                "Wood Harvester"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Beaver-0f4e38f0f4a64eeb847ac29ca8b83039?pvs=23",
-            "tags": [
-                "Beast",
-                "Common"
-            ]
-        },
-        {
             "internalName": "Beached Fish",
             "from": "Inscryption Overhaul",
             "displayName": "Beached Fish",
@@ -7439,6 +7417,28 @@
             ]
         },
         {
+            "internalName": "Beaver",
+            "from": "Inscryption Overhaul",
+            "displayName": "Beaver",
+            "temple": "Beasts",
+            "rarity": "Common",
+            "cost": "2 Blood",
+            "power": "1",
+            "health": "4",
+            "flavor": "What an Industrious creature.",
+            "token": "",
+            "sigils": [
+                "Dam Builder",
+                "Wood Harvester"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Beaver-0f4e38f0f4a64eeb847ac29ca8b83039?pvs=23",
+            "tags": [
+                "Beast",
+                "Common"
+            ]
+        },
+        {
             "internalName": "Anglerfish",
             "from": "Inscryption Overhaul",
             "displayName": "Anglerfish",
@@ -7458,27 +7458,6 @@
             "tags": [
                 "Beast",
                 "Talking"
-            ]
-        },
-        {
-            "internalName": "Amoeba",
-            "from": "Inscryption Overhaul",
-            "displayName": "Amoeba",
-            "temple": "Beasts",
-            "rarity": "Rare",
-            "cost": "2 Bones",
-            "power": "1",
-            "health": "1",
-            "flavor": "Always different, ever changing",
-            "token": "",
-            "sigils": [
-                "Amorphous"
-            ],
-            "artist": "",
-            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Amoeba-ee6a02d609804663ab99401a66c49a5e?pvs=23",
-            "tags": [
-                "Beast",
-                "Rare"
             ]
         },
         {
@@ -7520,6 +7499,27 @@
             "tags": [
                 "Beast",
                 "Common"
+            ]
+        },
+        {
+            "internalName": "Amoeba",
+            "from": "Inscryption Overhaul",
+            "displayName": "Amoeba",
+            "temple": "Beasts",
+            "rarity": "Rare",
+            "cost": "2 Bones",
+            "power": "1",
+            "health": "1",
+            "flavor": "Always different, ever changing",
+            "token": "",
+            "sigils": [
+                "Amorphous"
+            ],
+            "artist": "",
+            "wiki-page": "https://inscryption-pvp-wiki.notion.site/Amoeba-ee6a02d609804663ab99401a66c49a5e?pvs=23",
+            "tags": [
+                "Beast",
+                "Rare"
             ]
         }
     ]
