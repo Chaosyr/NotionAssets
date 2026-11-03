@@ -3,16 +3,16 @@
     "type": "Sigil",
     "items": [
         {
-            "internalName": "Target Required",
-            "name": "Target Required",
-            "description": "This cards’ power is set to 0, when there is no card opposing it.",
-            "category": "Attack Modification"
-        },
-        {
             "internalName": "Unkillable",
             "name": "Unkillable",
             "description": "When this card perishes, it goes back to your hand instead of being discarded.",
             "category": "Strange Oddities"
+        },
+        {
+            "internalName": "Target Required",
+            "name": "Target Required",
+            "description": "This cards’ power is set to 0, when there is no card opposing it.",
+            "category": "Attack Modification"
         },
         {
             "internalName": "Inscrybe",
@@ -51,16 +51,16 @@
             "category": "Cost-Based"
         },
         {
-            "internalName": "Waterborne",
-            "name": "Waterborne",
-            "description": "Attacks targeting this card instead hit the owner of this card directly.",
-            "category": "Blocking"
-        },
-        {
             "internalName": "Unspeakable",
             "name": "Unspeakable",
             "description": "While searching your deck for a specified card, this card may be searched instead.",
             "category": "Draw Power"
+        },
+        {
+            "internalName": "Waterborne",
+            "name": "Waterborne",
+            "description": "Attacks targeting this card instead hit the owner of this card directly.",
+            "category": "Blocking"
         },
         {
             "internalName": "True Scholar",
@@ -75,15 +75,15 @@
             "category": "Draw Power"
         },
         {
-            "internalName": "Trifurcated Strike",
-            "name": "Trifurcated Strike",
-            "description": "This card attacks the lanes left and right of, as well as, the opposing space when it attacks.",
-            "category": "Attack Modification"
-        },
-        {
             "internalName": "Touch Of Death",
             "name": "Touch Of Death",
             "description": "When this card damages an opposing card, that card perishes.",
+            "category": "Attack Modification"
+        },
+        {
+            "internalName": "Trifurcated Strike",
+            "name": "Trifurcated Strike",
+            "description": "This card attacks the lanes left and right of, as well as, the opposing space when it attacks.",
             "category": "Attack Modification"
         },
         {
@@ -297,12 +297,6 @@
             "category": "Gem Based"
         },
         {
-            "internalName": "Many Lives",
-            "name": "Many Lives",
-            "description": "When this card is sacrificed, it does not perish.",
-            "category": "Cost-Based"
-        },
-        {
             "internalName": "Magickal Bleach",
             "name": "Magickal Bleach",
             "description": "When this card is played, target 1 card on the field. any sigils that card has are negated until it perishes.",
@@ -423,6 +417,12 @@
             "category": "Draw Power"
         },
         {
+            "internalName": "Many Lives",
+            "name": "Many Lives",
+            "description": "When this card is sacrificed, it does not perish.",
+            "category": "Cost-Based"
+        },
+        {
             "internalName": "Gem Skeptic",
             "name": "Gem Skeptic",
             "description": "While this card is on the field, you may not play any Mox cards.",
@@ -477,16 +477,16 @@
             "category": "Blocking"
         },
         {
-            "internalName": "Fecundity",
-            "name": "Fecundity",
-            "description": "When this card is played, search 1 copy of it from your deck to your hand.",
-            "category": "Draw Power"
-        },
-        {
             "internalName": "Facsimile",
             "name": "Facsimile",
             "description": "This cards’ power is equal to the opposing cards` power.",
             "category": "Attack Modification"
+        },
+        {
+            "internalName": "Fecundity",
+            "name": "Fecundity",
+            "description": "When this card is played, search 1 copy of it from your deck to your hand.",
+            "category": "Draw Power"
         },
         {
             "internalName": "Enlarge",
@@ -579,15 +579,15 @@
             "category": "Draw Power"
         },
         {
-            "internalName": "Boneless",
-            "name": "Boneless",
-            "description": "This card does not generate a bone when it perishes.",
-            "category": "Negative"
-        },
-        {
             "internalName": "Brittle",
             "name": "Brittle",
             "description": "During your end step, this card perishes.",
+            "category": "Negative"
+        },
+        {
+            "internalName": "Boneless",
+            "name": "Boneless",
+            "description": "This card does not generate a bone when it perishes.",
             "category": "Negative"
         },
         {
@@ -645,16 +645,16 @@
             "category": "Blocking"
         },
         {
-            "internalName": "Bifurcated Strike",
-            "name": "Bifurcated Strike",
-            "description": "This card attacks only the lanes left and right of the opposing space when it attacks.",
-            "category": "Attack Modification"
-        },
-        {
             "internalName": "Bellist",
             "name": "Bellist",
             "description": "When this card is played, play a “Chime” card in adjacent empty lanes.",
             "category": "Draw Power"
+        },
+        {
+            "internalName": "Bifurcated Strike",
+            "name": "Bifurcated Strike",
+            "description": "This card attacks only the lanes left and right of the opposing space when it attacks.",
+            "category": "Attack Modification"
         },
         {
             "internalName": "Bell Ringer",
